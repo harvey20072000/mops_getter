@@ -1,0 +1,614 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <title>MOPS 關鍵字公告監控</title>
+
+  <!-- favicon -->
+  <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
+  <!-- <link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png" /> -->
+
+  <style>
+    :root{
+      --bg:#ffffff;
+      --text:#111;
+      --muted:#666;
+      --border:#e5e5e5;
+      --card:#fafafa;
+      --shadow: 0 6px 18px rgba(0,0,0,.06);
+    }
+
+    body{
+      margin:0;
+      font-family: system-ui, -apple-system, "PingFang TC", "Microsoft JhengHei", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    .wrap{ max-width: 1100px; margin:0 auto; padding: 20px 14px 36px; }
+
+    h1{ margin:0 0 6px; font-size: 20px; }
+    .meta{ color: var(--muted); line-height: 1.6; font-size: 13px; margin-bottom: 12px; }
+
+    .bar{
+      display:flex;
+      gap:10px;
+      flex-wrap:wrap;
+      align-items:center;
+      justify-content:space-between;
+      margin: 10px 0 12px;
+    }
+
+    .search{
+      display:flex;
+      align-items:center;
+      gap:8px;
+      flex: 1 1 360px;
+      min-width: 240px;
+      border:1px solid var(--border);
+      border-radius: 10px;
+      padding: 10px 12px;
+      background: #fff;
+    }
+
+    .search input{
+      border:none;
+      outline:none;
+      width:100%;
+      font-size: 14px;
+      background: transparent;
+      color: var(--text);
+    }
+
+    .pill{
+      border:1px solid var(--border);
+      padding: 8px 10px;
+      border-radius: 999px;
+      font-size: 12px;
+      color: var(--muted);
+      background: #fff;
+      white-space: nowrap;
+    }
+
+    /* Desktop table */
+    table{
+      width:100%;
+      border-collapse: collapse;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow:hidden;
+      background: #fff;
+      box-shadow: var(--shadow);
+    }
+
+    th, td{
+      border-bottom: 1px solid var(--border);
+      padding: 10px 10px;
+      vertical-align: top;
+      font-size: 13px;
+    }
+
+    th{
+      background: #f7f7f7;
+      text-align:left;
+      position: sticky;
+      top:0;
+      z-index: 1;
+    }
+
+    tr:hover td{ background: #fcfcfc; }
+
+    .company .id{ font-weight: 700; }
+    .company .name{ color: var(--muted); font-size: 12px; margin-top: 2px; }
+    .company .fetched{ color: #888; font-size: 11px; margin-top: 6px; }
+
+    .tags{ display:flex; gap:6px; flex-wrap:wrap; }
+    .tag{
+      font-size: 12px;
+      border: 1px solid var(--border);
+      background: #fff;
+      padding: 3px 8px;
+      border-radius: 999px;
+      color: #333;
+    }
+
+    .btn{
+      border: 1px solid var(--border);
+      background: #fff;
+      color: #111;
+      border-radius: 10px;
+      padding: 6px 10px;
+      font-size: 12px;
+      cursor: pointer;
+    }
+    .btn:hover{ background: #f7f7f7; }
+
+    /* Detail expanded row (full-width under the row) */
+    .detail-row td{
+      padding: 0;
+      background: #fff;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .detail-box{
+      margin: 10px;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      background: var(--card);
+      padding: 12px;
+    }
+
+    .detail-table{
+      width:100%;
+      border-collapse: collapse;
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      overflow:hidden;
+    }
+    .detail-table th, .detail-table td{
+      border-bottom: 1px solid var(--border);
+      padding: 10px;
+      font-size: 13px;
+      vertical-align: top;
+    }
+    .detail-table th{
+      background: #f7f7f7;
+      white-space: nowrap;
+    }
+
+    .mono{
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    }
+
+    .empty{
+      margin-top: 12px;
+      padding: 14px 12px;
+      border: 1px dashed var(--border);
+      border-radius: 12px;
+      color: var(--muted);
+      background: #fff;
+    }
+
+    /* Mobile: switch to cards */
+    .cards{ display:none; }
+    .card{
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      background: #fff;
+      box-shadow: var(--shadow);
+      padding: 12px;
+      margin-bottom: 10px;
+    }
+    .card .top{
+      display:flex; justify-content:space-between; gap:10px;
+      align-items:flex-start;
+    }
+    .card .time{
+      color: var(--muted);
+      font-size: 12px;
+      text-align:right;
+      white-space: nowrap;
+    }
+    .card .subject{
+      margin-top: 8px;
+      font-size: 14px;
+      line-height: 1.45;
+    }
+    .card .meta2{
+      margin-top: 8px;
+      color: #888;
+      font-size: 11px;
+    }
+    .card details{
+      margin-top: 10px;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      background: var(--card);
+      padding: 10px;
+    }
+    .card summary{
+      cursor:pointer;
+      font-weight: 700;
+      font-size: 13px;
+    }
+    .card details[open] summary{ margin-bottom: 10px; }
+
+    /* Make detail content readable on small screens */
+    .desc{
+      white-space: pre-wrap;         /* keep newlines */
+      word-break: break-word;
+      line-height: 1.5;
+      font-size: 13px;
+      margin: 0;
+    }
+
+    @media (max-width: 820px){
+      .main-table{ display:none; }
+      .cards{ display:block; }
+    }
+
+    @media (max-width: 380px){
+      h1{ font-size: 18px; }
+      .search{ padding: 9px 10px; }
+    }
+
+    /* detail row 永遠存在，靠內層做動畫 */
+    .detail-row { display: table-row; }
+    .detail-row td { padding: 0; }
+    
+    /* ✅ 收起狀態：完全不佔高度（關鍵：margin/padding/border 都要是 0） */
+    .detail-box{
+      overflow: hidden;
+    
+      max-height: 0;
+      opacity: 0;
+      transform: translateY(-4px);
+      transition: max-height 330ms ease, opacity 250ms ease, transform 330ms ease;
+    
+      /* 這三個是造成「空白高度」的元凶，收起時全部歸零 */
+      margin: 0;
+      padding: 0;
+      border: 0;
+      background: transparent;
+    }
+    
+    /* ✅ 展開狀態：再把外觀加回來 */
+    .detail-row.is-open .detail-box{
+      max-height: 5000px;
+      opacity: 1;
+      transform: translateY(0);
+    
+      margin: 10px;
+      padding: 12px;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      background: var(--card);
+    }
+
+    /* Mobile details animation */
+    .card details .m-detail{
+      overflow: hidden;
+      max-height: 0;
+      opacity: 0;
+      transform: translateY(-4px);
+      transition: max-height 250ms ease, opacity 200ms ease, transform 250ms ease;
+    }
+    
+    .card details[open] .m-detail{
+      max-height: 1600px;
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+  </style>
+</head>
+
+<body>
+  <div class="wrap">
+    <h1>MOPS 關鍵字公告監控</h1>
+    <div class="meta" id="meta">讀取中...</div>
+
+    <div class="bar">
+      <div class="search">
+        <span style="color:#888;">🔎</span>
+        <input id="q" placeholder="搜尋：公司 / 主旨 / 關鍵字（例：鴻海、公司債）" />
+      </div>
+      <div class="pill" id="stat">—</div>
+    </div>
+
+    <!-- Desktop -->
+    <table class="main-table">
+      <thead>
+        <tr>
+          <th style="width:90px;">發言日</th>
+          <th style="width:80px;">時間</th>
+          <th style="width:150px;">公司</th>
+          <th>主旨</th>
+          <th style="width:200px;">命中關鍵字</th>
+          <th style="width:90px;">Detail</th>
+        </tr>
+      </thead>
+      <tbody id="tbody"></tbody>
+    </table>
+
+    <!-- Mobile -->
+    <div class="cards" id="cards"></div>
+
+    <div id="empty" class="empty" style="display:none;">沒有符合的資料。</div>
+  </div>
+
+<script>
+function escapeHtml(s) {
+  return String(s ?? "")
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;");
+}
+
+// Robust-ish CSV parser (handles quoted fields with commas/newlines)
+function parseCSV(text) {
+  const rows = [];
+  let row = [];
+  let field = "";
+  let inQuotes = false;
+
+  for (let i = 0; i < text.length; i++) {
+    const c = text[i];
+    const next = text[i + 1];
+
+    if (inQuotes) {
+      if (c === '"' && next === '"') {
+        field += '"'; i++;
+      } else if (c === '"') {
+        inQuotes = false;
+      } else {
+        field += c;
+      }
+    } else {
+      if (c === '"') {
+        inQuotes = true;
+      } else if (c === ",") {
+        row.push(field); field = "";
+      } else if (c === "\n") {
+        row.push(field); field = "";
+        // 忽略最後一個空行
+        if (row.length > 1 || row[0] !== "") rows.push(row);
+        row = [];
+      } else if (c === "\r") {
+        // skip
+      } else {
+        field += c;
+      }
+    }
+  }
+  // last field
+  row.push(field);
+  if (row.length > 1 || row[0] !== "") rows.push(row);
+
+  return rows;
+}
+
+function getFetchedTsFromStr(s) {
+  // "YYYY-MM-DD HH:MM:SS" -> parse to ms
+  if (!s) return 0;
+  const iso = String(s).replace(" ", "T") + "+08:00";
+  const t = Date.parse(iso);
+  return Number.isFinite(t) ? t : 0;
+}
+
+function safeGetDetailRowFromDetail(detailObj) {
+  try {
+    const row = detailObj?.result?.data?.[0];
+    if (Array.isArray(row) && row.length >= 10) return row;
+  } catch (_) {}
+  return null;
+}
+
+function speakerTextFromRow(row){
+  const name = row?.[3] ?? "";
+  const title = row?.[4] ?? "";
+  const phone = row?.[5] ?? "";
+  return `${name} ${title}（${phone}）`.replace(/\s+/g, " ").trim() || "—";
+}
+
+function buildDetailTableHtml(detailJsonStr){
+  let detailObj = null;
+  try { detailObj = JSON.parse(detailJsonStr || "{}"); } catch (_) {}
+
+  const row = safeGetDetailRowFromDetail(detailObj);
+  if (!row) return `<div style="color:#666;">無法解析 detail（可能是空或非預期格式）</div>`;
+
+  const speaker = speakerTextFromRow(row);
+  const desc = String(row?.[9] ?? "");
+
+  return `
+    <table class="detail-table">
+      <colgroup>
+        <col style="width:30%">
+        <col style="width:70%">
+      </colgroup>
+      <tr>
+        <th>發言人（電話）</th>
+        <th>說明</th>
+      </tr>
+      <tr>
+        <td>${escapeHtml(speaker)}</td>
+        <td><pre class="desc">${escapeHtml(desc)}</pre></td>
+      </tr>
+    </table>
+  `;
+}
+
+async function fetchAllItemsFromCSVs() {
+  console.log("===fetchAllItemsFromCSVs start===");
+  const m = await fetch("./manifest.json", { cache: "no-store" }).then(r => r.json());
+  const files = Array.isArray(m.files) ? m.files : [];
+  console.log(m.files);
+  const all = [];
+  for (const fn of files) {
+    const csvText = await fetch(`./${fn}`, { cache: "no-store" }).then(r => r.text());
+    const rows = parseCSV(csvText);
+    if (rows.length < 2) continue;
+
+    const header = rows[0];
+    const idx = Object.fromEntries(header.map((h, i) => [h, i]));
+
+    for (let i = 1; i < rows.length; i++) {
+      const r = rows[i];
+      const it = {
+        key: r[idx.key],
+        speech_date: r[idx.speech_date],
+        speech_time: r[idx.speech_time],
+        company_id: r[idx.company_id],
+        company_name: r[idx.company_name],
+        subject: r[idx.subject],
+        matched_keywords: String(r[idx.matched_keywords] || "").split("|").filter(Boolean),
+        fetched_at_tw: r[idx.fetched_at_tw],
+        detail_json: r[idx.detail_json] || "{}",
+      };
+      all.push(it);
+    }
+  }
+
+  // 最新抓取時間在前
+  all.sort((a, b) => {
+    const tb = getFetchedTsFromStr(b.fetched_at_tw);
+    const ta = getFetchedTsFromStr(a.fetched_at_tw);
+    if (tb !== ta) return tb - ta;
+    return String(b.key || "").localeCompare(String(a.key || ""));
+  });
+  console.log(all);
+  console.log("===fetchAllItemsFromCSVs end===");
+  return { files, items: all };
+}
+
+async function main() {
+  // meta 還是用 data.json（今天的），方便顯示 run 時間/關鍵字/查詢
+  const today = await fetch("./data.json", { cache: "no-store" }).then(r => r.json()).catch(() => ({}));
+  const meta = today.meta || {};
+
+  const { files, items } = await fetchAllItemsFromCSVs();
+
+  document.getElementById("meta").innerHTML =
+    `執行時間（台灣）：<span class="mono">${escapeHtml(meta.run_at_tw || "-")}</span>
+    　｜　關鍵字：<span class="mono">${escapeHtml((meta.keywords || []).join(", "))}</span>
+    　｜　已載入 CSV：<span class="mono">${escapeHtml(String(files.length))}</span>`;
+
+  const q = document.getElementById("q");
+  const tbody = document.getElementById("tbody");
+  const cards = document.getElementById("cards");
+  const empty = document.getElementById("empty");
+  const stat = document.getElementById("stat");
+
+  function filterItems(term){
+    if (!term) return items;
+    const t = term.toLowerCase();
+    return items.filter(it => {
+      const s = [
+        it.company_id, it.company_name, it.subject,
+        (it.matched_keywords||[]).join(" "),
+        it.speech_date, it.speech_time,
+        it.fetched_at_tw
+      ].join(" ").toLowerCase();
+      return s.includes(t);
+    });
+  }
+
+  function makeTagsHtml(kws){
+    const arr = Array.isArray(kws) ? kws : [];
+    if (arr.length === 0) return '<span style="color:#888;">—</span>';
+    return `<div class="tags">${arr.map(k => `<span class="tag">${escapeHtml(k)}</span>`).join("")}</div>`;
+  }
+
+  function renderDesktop(filtered){
+    tbody.innerHTML = "";
+    console.log("===renderDesktop start===");
+    for (const it of filtered) {
+      const tr = document.createElement("tr");
+      tr.innerHTML = `
+        <td>${escapeHtml(it.speech_date || "")}</td>
+        <td>${escapeHtml(it.speech_time || "")}</td>
+        <td>
+          <div class="company">
+            <div class="id">${escapeHtml(it.company_id || "")}</div>
+            <div class="name">${escapeHtml(it.company_name || "")}</div>
+            <div class="fetched mono">${escapeHtml(it.fetched_at_tw || "")}</div>
+          </div>
+        </td>
+        <td>${escapeHtml(it.subject || "")}</td>
+        <td>${makeTagsHtml(it.matched_keywords)}</td>
+        <td><button class="btn" data-key="${escapeHtml(it.key || "")}">展開</button></td>
+      `;
+
+      const tr2 = document.createElement("tr");
+      tr2.className = "detail-row";
+      tr2.setAttribute("data-detail-for", it.key || "");
+      tr2.innerHTML = `
+        <td colspan="6">
+          <div class="detail-box">
+            ${buildDetailTableHtml(it.detail_json)}
+          </div>
+        </td>
+      `;
+
+      tbody.appendChild(tr);
+      tbody.appendChild(tr2);
+      console.log("===renderDesktop end===");
+    }
+
+    tbody.querySelectorAll("button[data-key]").forEach(btn => {
+      btn.addEventListener("click", () => {
+        const mainRow = btn.closest("tr");
+        if (!mainRow) return;
+    
+        const detailRow = mainRow.nextElementSibling;
+        if (!detailRow || !detailRow.classList.contains("detail-row")) return;
+    
+        const open = detailRow.classList.toggle("is-open");
+        btn.textContent = open ? "收起" : "展開";
+      });
+    });
+  }
+
+  function renderMobile(filtered){
+    cards.innerHTML = "";
+    console.log("===renderMobile start===");
+    for (const it of filtered) {
+      const card = document.createElement("div");
+      card.className = "card";
+      card.innerHTML = `
+        <div class="top">
+          <div>
+            <div style="font-weight:800;">${escapeHtml(it.company_id || "")} ${escapeHtml(it.company_name || "")}</div>
+            <div style="color:#666;font-size:12px;margin-top:2px;">${escapeHtml(it.speech_date || "")}</div>
+          </div>
+          <div class="time">${escapeHtml(it.speech_time || "")}</div>
+        </div>
+
+        <div class="subject">${escapeHtml(it.subject || "")}</div>
+
+        <div style="margin-top:8px;">${makeTagsHtml(it.matched_keywords)}</div>
+
+        <div class="meta2 mono">抓取時間：${escapeHtml(it.fetched_at_tw || "")}</div>
+
+        <details>
+          <summary>Detail</summary>
+          <div class="m-detail">
+            ${buildDetailTableHtml(it.detail_json)}
+          </div>
+        </details>
+      `;
+      cards.appendChild(card);
+    }
+    console.log("===renderMobile end===");
+  }
+
+  function render(){
+    const term = (q.value || "").trim();
+    const filtered = filterItems(term);
+
+    stat.textContent = `顯示 ${filtered.length} / ${items.length}`;
+    empty.style.display = filtered.length === 0 ? "block" : "none";
+
+    renderDesktop(filtered);
+    renderMobile(filtered);
+  }
+
+  q.addEventListener("input", render);
+  render();
+
+}
+
+main().catch(err => {
+  document.getElementById("meta").innerText = "讀取失敗：" + err;
+});
+</script>
+
+</body>
+</html>
