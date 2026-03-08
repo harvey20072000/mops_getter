@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-03-08 22:24:59",
+    "run_at_tw": "2026-03-08 22:50:07",
     "query": {
       "year": "115",
       "month": "3",
@@ -32,10 +32,10 @@
         "自結合併"
       ],
       "detail_params": {
-        "marketKind": "sii",
         "companyId": "4912",
-        "serialNumber": 1,
-        "enterDate": "1150306"
+        "marketKind": "sii",
+        "enterDate": "1150306",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "聯德控股-KY"
         },
-        "datetime": "115/03/08 22:25:00"
+        "datetime": "115/03/08 22:50:09"
       },
-      "fetched_at_tw": "2026-03-08 22:24:59"
+      "fetched_at_tw": "2026-03-08 22:50:07"
     },
     {
       "key": "1150308|sii|2911|1",
@@ -126,10 +126,10 @@
         "自結合併"
       ],
       "detail_params": {
-        "marketKind": "sii",
         "companyId": "2911",
-        "serialNumber": 1,
-        "enterDate": "1150308"
+        "marketKind": "sii",
+        "enterDate": "1150308",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "麗嬰房"
         },
-        "datetime": "115/03/08 22:25:01"
+        "datetime": "115/03/08 22:50:10"
       },
-      "fetched_at_tw": "2026-03-08 22:24:59"
+      "fetched_at_tw": "2026-03-08 22:50:07"
     }
   ]
 }
