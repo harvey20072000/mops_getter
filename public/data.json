@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-03-09 00:28:29",
+    "run_at_tw": "2026-03-09 00:54:16",
     "query": {
       "year": "115",
       "month": "3",
@@ -32,10 +32,10 @@
         "自結合併"
       ],
       "detail_params": {
-        "companyId": "2911",
         "marketKind": "sii",
-        "enterDate": "1150308",
-        "serialNumber": 1
+        "companyId": "2911",
+        "serialNumber": 1,
+        "enterDate": "1150308"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "麗嬰房"
         },
-        "datetime": "115/03/09 00:28:30"
+        "datetime": "115/03/09 00:54:17"
       },
-      "fetched_at_tw": "2026-03-09 00:28:29"
+      "fetched_at_tw": "2026-03-09 00:54:16"
     },
     {
       "key": "1150308|sii|1589|1",
@@ -126,10 +126,10 @@
         "自結合併"
       ],
       "detail_params": {
-        "companyId": "1589",
         "marketKind": "sii",
-        "enterDate": "1150308",
-        "serialNumber": 1
+        "companyId": "1589",
+        "serialNumber": 1,
+        "enterDate": "1150308"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "永冠-KY"
         },
-        "datetime": "115/03/09 00:28:31"
+        "datetime": "115/03/09 00:54:18"
       },
-      "fetched_at_tw": "2026-03-09 00:28:29"
+      "fetched_at_tw": "2026-03-09 00:54:16"
     }
   ]
 }
