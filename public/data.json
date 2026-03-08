@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-03-08 15:50:10",
+    "run_at_tw": "2026-03-08 16:31:40",
     "query": {
       "year": "115",
       "month": "3",
@@ -32,10 +32,10 @@
         "自結合併"
       ],
       "detail_params": {
-        "companyId": "4912",
-        "marketKind": "sii",
+        "serialNumber": 1,
         "enterDate": "1150306",
-        "serialNumber": 1
+        "marketKind": "sii",
+        "companyId": "4912"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "聯德控股-KY"
         },
-        "datetime": "115/03/08 15:50:12"
+        "datetime": "115/03/08 16:31:41"
       },
-      "fetched_at_tw": "2026-03-08 15:50:10"
+      "fetched_at_tw": "2026-03-08 16:31:40"
     }
   ]
 }
