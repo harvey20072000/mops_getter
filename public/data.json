@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-03-16 10:27:20",
+    "run_at_tw": "2026-03-16 13:04:11",
     "query": {
       "year": "115",
       "month": "3",
@@ -17,8 +17,57 @@
       "公司債",
       "庫藏股"
     ],
-    "matched_count": 0,
-    "new_matched_count": 0
+    "matched_count": 2,
+    "new_matched_count": 2
   },
-  "items": []
+  "items": [
+    {
+      "key": "1150316|sii|3583|1",
+      "speech_date": "115/03/16",
+      "speech_time": "11:24:15",
+      "company_id": "3583",
+      "company_name": "辛耘",
+      "subject": "公告辛耘企業股份有限公司國內第一次無擔保(例：第一次有擔保)轉(交)換公司債(簡稱：辛耘一，代碼：35831)停止受理轉交換等相關事項。",
+      "matched_keywords": [
+        "公司債"
+      ],
+      "detail_params": {
+        "serialNumber": 1,
+        "companyId": "3583",
+        "marketKind": "sii",
+        "enterDate": "1150316"
+      },
+      "detail": {
+        "code": 406,
+        "message": "查無相符資料",
+        "result": null,
+        "datetime": "115/03/16 13:04:12"
+      },
+      "fetched_at_tw": "2026-03-16 13:04:11"
+    },
+    {
+      "key": "1150316|sii|3583|2",
+      "speech_date": "115/03/16",
+      "speech_time": "11:24:40",
+      "company_id": "3583",
+      "company_name": "辛耘",
+      "subject": "公告辛耘企業股份有限公司國內第二次無擔保(例：第一次有擔保)轉(交)換公司債(簡稱：辛耘二，代碼：35832)停止受理轉交換等相關事項。",
+      "matched_keywords": [
+        "公司債"
+      ],
+      "detail_params": {
+        "serialNumber": 2,
+        "companyId": "3583",
+        "marketKind": "sii",
+        "enterDate": "1150316"
+      },
+      "detail": {
+        "code": 406,
+        "message": "查無相符資料",
+        "result": null,
+        "datetime": "115/03/16 13:04:13"
+      },
+      "fetched_at_tw": "2026-03-16 13:04:11"
+    }
+  ]
 }
