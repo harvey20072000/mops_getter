@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-03-16 19:47:35",
+    "run_at_tw": "2026-03-16 21:12:40",
     "query": {
       "year": "115",
       "month": "3",
@@ -17,8 +17,8 @@
       "公司債",
       "庫藏股"
     ],
-    "matched_count": 38,
-    "new_matched_count": 3
+    "matched_count": 39,
+    "new_matched_count": 1
   },
   "items": [
     {
@@ -32,18 +32,18 @@
         "公司債"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "3583",
         "serialNumber": 1,
+        "companyId": "3583",
+        "marketKind": "sii",
         "enterDate": "1150316"
       },
       "detail": {
         "code": 406,
         "message": "查無相符資料",
         "result": null,
-        "datetime": "115/03/16 19:47:37"
+        "datetime": "115/03/16 21:12:47"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|sii|3583|2",
@@ -56,18 +56,18 @@
         "公司債"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "3583",
         "serialNumber": 2,
+        "companyId": "3583",
+        "marketKind": "sii",
         "enterDate": "1150316"
       },
       "detail": {
         "code": 406,
         "message": "查無相符資料",
         "result": null,
-        "datetime": "115/03/16 19:47:39"
+        "datetime": "115/03/16 21:12:49"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|sii|6491|1",
@@ -80,9 +80,9 @@
         "庫藏股"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "6491",
         "serialNumber": 1,
+        "companyId": "6491",
+        "marketKind": "sii",
         "enterDate": "1150316"
       },
       "detail": {
@@ -117,51 +117,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "晶碩"
         },
-        "datetime": "115/03/16 19:47:40"
+        "datetime": "115/03/16 21:12:51"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|sii|2338|1",
@@ -174,9 +174,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "2338",
         "serialNumber": 1,
+        "companyId": "2338",
+        "marketKind": "sii",
         "enterDate": "1150316"
       },
       "detail": {
@@ -211,51 +211,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "光罩"
         },
-        "datetime": "115/03/16 19:47:41"
+        "datetime": "115/03/16 21:12:52"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|sii|2301|1",
@@ -268,9 +268,9 @@
         "公司債"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "2301",
         "serialNumber": 1,
+        "companyId": "2301",
+        "marketKind": "sii",
         "enterDate": "1150316"
       },
       "detail": {
@@ -305,51 +305,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "光寶科"
         },
-        "datetime": "115/03/16 19:47:42"
+        "datetime": "115/03/16 21:12:52"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|sii|2301|2",
@@ -362,9 +362,9 @@
         "公司債"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "2301",
         "serialNumber": 2,
+        "companyId": "2301",
+        "marketKind": "sii",
         "enterDate": "1150316"
       },
       "detail": {
@@ -399,51 +399,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "光寶科"
         },
-        "datetime": "115/03/16 19:47:43"
+        "datetime": "115/03/16 21:12:53"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|sii|1316|1",
@@ -456,9 +456,9 @@
         "自結合併"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "1316",
         "serialNumber": 1,
+        "companyId": "1316",
+        "marketKind": "sii",
         "enterDate": "1150316"
       },
       "detail": {
@@ -493,51 +493,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "上曜"
         },
-        "datetime": "115/03/16 19:47:48"
+        "datetime": "115/03/16 21:12:55"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|sii|6672|4",
@@ -550,9 +550,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "6672",
         "serialNumber": 4,
+        "companyId": "6672",
+        "marketKind": "sii",
         "enterDate": "1150316"
       },
       "detail": {
@@ -587,51 +587,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "騰輝電子-KY"
         },
-        "datetime": "115/03/16 19:47:49"
+        "datetime": "115/03/16 21:12:56"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|sii|3167|1",
@@ -644,9 +644,9 @@
         "公司債"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "3167",
         "serialNumber": 1,
+        "companyId": "3167",
+        "marketKind": "sii",
         "enterDate": "1150316"
       },
       "detail": {
@@ -681,51 +681,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "大量"
         },
-        "datetime": "115/03/16 19:47:52"
+        "datetime": "115/03/16 21:12:58"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|sii|2409|2",
@@ -738,9 +738,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "2409",
         "serialNumber": 2,
+        "companyId": "2409",
+        "marketKind": "sii",
         "enterDate": "1150316"
       },
       "detail": {
@@ -775,51 +775,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "友達"
         },
-        "datetime": "115/03/16 19:47:53"
+        "datetime": "115/03/16 21:13:02"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|sii|3717|1",
@@ -832,9 +832,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "3717",
         "serialNumber": 1,
+        "companyId": "3717",
+        "marketKind": "sii",
         "enterDate": "1150316"
       },
       "detail": {
@@ -869,51 +869,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "聯嘉投控"
         },
-        "datetime": "115/03/16 19:47:54"
+        "datetime": "115/03/16 21:13:05"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|sii|3189|1",
@@ -926,9 +926,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "3189",
         "serialNumber": 1,
+        "companyId": "3189",
+        "marketKind": "sii",
         "enterDate": "1150316"
       },
       "detail": {
@@ -963,51 +963,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "景碩"
         },
-        "datetime": "115/03/16 19:48:00"
+        "datetime": "115/03/16 21:13:09"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|sii|3041|1",
@@ -1020,9 +1020,9 @@
         "自結合併"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "3041",
         "serialNumber": 1,
+        "companyId": "3041",
+        "marketKind": "sii",
         "enterDate": "1150316"
       },
       "detail": {
@@ -1057,51 +1057,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "揚智"
         },
-        "datetime": "115/03/16 19:48:00"
+        "datetime": "115/03/16 21:13:11"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|sii|2392|1",
@@ -1114,9 +1114,9 @@
         "自結合併"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "2392",
         "serialNumber": 1,
+        "companyId": "2392",
+        "marketKind": "sii",
         "enterDate": "1150316"
       },
       "detail": {
@@ -1151,51 +1151,145 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "正崴"
         },
-        "datetime": "115/03/16 19:48:03"
+        "datetime": "115/03/16 21:13:15"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
+    },
+    {
+      "key": "1150316|sii|2911|4",
+      "speech_date": "115/03/16",
+      "speech_time": "21:02:16",
+      "company_id": "2911",
+      "company_name": "麗嬰房",
+      "subject": "公告本公司董事會通過114年度自結合併財務資訊",
+      "matched_keywords": [
+        "自結合併"
+      ],
+      "detail_params": {
+        "serialNumber": 4,
+        "companyId": "2911",
+        "marketKind": "sii",
+        "enterDate": "1150316"
+      },
+      "detail": {
+        "code": 200,
+        "message": "查詢成功",
+        "result": {
+          "marketName": "上市公司",
+          "companyId": "2911",
+          "data": [
+            [
+              4,
+              "115/03/16",
+              "21:02:16",
+              "尤淑儀",
+              "副總經理",
+              "87976699",
+              "公告本公司董事會通過114年度自結合併財務資訊",
+              "31",
+              "115/03/16",
+              "1.提報董事會或經董事會決議日期:115/03/16\n2.審計委員會通過日期:115/03/16\n3.財務報告或年度自結財務資訊報導期間\n起訖日期(XXX/XX/XX~XXX/XX/XX):114/01/01～114/12/31\n4.1月1日累計至本期止營業收入(仟元):2,334,271\n5.1月1日累計至本期止營業毛利(毛損) (仟元):843,377\n6.1月1日累計至本期止營業利益(損失) (仟元):(563,900)\n7.1月1日累計至本期止稅前淨利(淨損) (仟元):274,702\n8.1月1日累計至本期止本期淨利(淨損) (仟元):222,182\n9.1月1日累計至本期止歸屬於母公司業主淨利(損) (仟元):225,771\n10.1月1日累計至本期止基本每股盈餘(損失) (元):2.15\n11.期末總資產(仟元):2,689,156\n12.期末總負債(仟元):1,820,223\n13.期末歸屬於母公司業主之權益(仟元):776,332\n14.其他應敘明事項:無"
+            ]
+          ],
+          "footer": [
+            "以上資料均由各公司依發言當時所屬市場別之規定申報後，由本系統對外公佈，資料如有虛偽不實，均由該公司負責。"
+          ],
+          "header": {
+            "note": [],
+            "subTitle": [],
+            "mainTitle": [
+              "公司當日重大訊息之詳細內容"
+            ]
+          },
+          "titles": [
+            {
+              "main": "序號",
+              "sub": []
+            },
+            {
+              "main": "發言日期",
+              "sub": []
+            },
+            {
+              "main": "發言時間",
+              "sub": []
+            },
+            {
+              "main": "發言人",
+              "sub": []
+            },
+            {
+              "main": "發言人職稱",
+              "sub": []
+            },
+            {
+              "main": "發言人電話",
+              "sub": []
+            },
+            {
+              "main": "主旨",
+              "sub": []
+            },
+            {
+              "main": "符合條款",
+              "sub": []
+            },
+            {
+              "main": "事實發生日",
+              "sub": []
+            },
+            {
+              "main": "說明",
+              "sub": []
+            }
+          ],
+          "companyAbbreviation": "麗嬰房"
+        },
+        "datetime": "115/03/16 21:13:16"
+      },
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|otc|6904|1",
@@ -1208,9 +1302,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "6904",
         "serialNumber": 1,
+        "companyId": "6904",
+        "marketKind": "otc",
         "enterDate": "1150316"
       },
       "detail": {
@@ -1245,51 +1339,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "伯鑫"
         },
-        "datetime": "115/03/16 19:48:05"
+        "datetime": "115/03/16 21:13:18"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|otc|3322|2",
@@ -1302,9 +1396,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "3322",
         "serialNumber": 2,
+        "companyId": "3322",
+        "marketKind": "otc",
         "enterDate": "1150316"
       },
       "detail": {
@@ -1339,51 +1433,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "建舜電"
         },
-        "datetime": "115/03/16 19:48:06"
+        "datetime": "115/03/16 21:13:21"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|otc|8937|2",
@@ -1396,9 +1490,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "8937",
         "serialNumber": 2,
+        "companyId": "8937",
+        "marketKind": "otc",
         "enterDate": "1150316"
       },
       "detail": {
@@ -1433,51 +1527,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "合騏"
         },
-        "datetime": "115/03/16 19:48:06"
+        "datetime": "115/03/16 21:13:23"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|otc|3095|1",
@@ -1490,9 +1584,9 @@
         "自結合併"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "3095",
         "serialNumber": 1,
+        "companyId": "3095",
+        "marketKind": "otc",
         "enterDate": "1150316"
       },
       "detail": {
@@ -1527,51 +1621,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "及成"
         },
-        "datetime": "115/03/16 19:48:07"
+        "datetime": "115/03/16 21:13:24"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|otc|5314|1",
@@ -1584,9 +1678,9 @@
         "自結合併"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "5314",
         "serialNumber": 1,
+        "companyId": "5314",
+        "marketKind": "otc",
         "enterDate": "1150316"
       },
       "detail": {
@@ -1621,51 +1715,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "世紀*"
         },
-        "datetime": "115/03/16 19:48:08"
+        "datetime": "115/03/16 21:13:26"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150312|otc|8084|3",
@@ -1678,9 +1772,9 @@
         "私募普通股"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "8084",
         "serialNumber": 3,
+        "companyId": "8084",
+        "marketKind": "otc",
         "enterDate": "1150312"
       },
       "detail": {
@@ -1715,51 +1809,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "巨虹"
         },
-        "datetime": "115/03/16 19:48:08"
+        "datetime": "115/03/16 21:13:26"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|otc|5381|1",
@@ -1772,9 +1866,9 @@
         "自結合併"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "5381",
         "serialNumber": 1,
+        "companyId": "5381",
+        "marketKind": "otc",
         "enterDate": "1150316"
       },
       "detail": {
@@ -1809,51 +1903,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "光譜"
         },
-        "datetime": "115/03/16 19:48:09"
+        "datetime": "115/03/16 21:13:27"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|otc|5543|3",
@@ -1866,9 +1960,9 @@
         "自結合併"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "5543",
         "serialNumber": 3,
+        "companyId": "5543",
+        "marketKind": "otc",
         "enterDate": "1150316"
       },
       "detail": {
@@ -1903,51 +1997,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "桓鼎-KY"
         },
-        "datetime": "115/03/16 19:48:10"
+        "datetime": "115/03/16 21:13:29"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150313|otc|6462|7",
@@ -1960,9 +2054,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "6462",
         "serialNumber": 7,
+        "companyId": "6462",
+        "marketKind": "otc",
         "enterDate": "1150313"
       },
       "detail": {
@@ -1997,51 +2091,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "神盾"
         },
-        "datetime": "115/03/16 19:48:10"
+        "datetime": "115/03/16 21:13:29"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150313|otc|3594|2",
@@ -2054,9 +2148,9 @@
         "自結合併"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "3594",
         "serialNumber": 2,
+        "companyId": "3594",
+        "marketKind": "otc",
         "enterDate": "1150313"
       },
       "detail": {
@@ -2091,51 +2185,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "磐儀"
         },
-        "datetime": "115/03/16 19:48:11"
+        "datetime": "115/03/16 21:13:33"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|otc|8091|4",
@@ -2148,9 +2242,9 @@
         "庫藏股"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "8091",
         "serialNumber": 4,
+        "companyId": "8091",
+        "marketKind": "otc",
         "enterDate": "1150316"
       },
       "detail": {
@@ -2185,51 +2279,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "翔名"
         },
-        "datetime": "115/03/16 19:48:12"
+        "datetime": "115/03/16 21:13:35"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|otc|4147|1",
@@ -2242,9 +2336,9 @@
         "庫藏股"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "4147",
         "serialNumber": 1,
+        "companyId": "4147",
+        "marketKind": "otc",
         "enterDate": "1150316"
       },
       "detail": {
@@ -2279,51 +2373,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "中裕"
         },
-        "datetime": "115/03/16 19:48:12"
+        "datetime": "115/03/16 21:13:37"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|otc|6111|2",
@@ -2336,9 +2430,9 @@
         "自結合併"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "6111",
         "serialNumber": 2,
+        "companyId": "6111",
+        "marketKind": "otc",
         "enterDate": "1150316"
       },
       "detail": {
@@ -2373,51 +2467,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "光聚晶電"
         },
-        "datetime": "115/03/16 19:48:13"
+        "datetime": "115/03/16 21:13:39"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|otc|4804|5",
@@ -2430,9 +2524,9 @@
         "自結合併"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "4804",
         "serialNumber": 5,
+        "companyId": "4804",
+        "marketKind": "otc",
         "enterDate": "1150316"
       },
       "detail": {
@@ -2467,51 +2561,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "大略-KY"
         },
-        "datetime": "115/03/16 19:48:14"
+        "datetime": "115/03/16 21:13:40"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|otc|4804|7",
@@ -2524,9 +2618,9 @@
         "公司債"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "4804",
         "serialNumber": 7,
+        "companyId": "4804",
+        "marketKind": "otc",
         "enterDate": "1150316"
       },
       "detail": {
@@ -2561,51 +2655,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "大略-KY"
         },
-        "datetime": "115/03/16 19:48:14"
+        "datetime": "115/03/16 21:13:42"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|otc|4304|2",
@@ -2618,9 +2712,9 @@
         "自結合併"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "4304",
         "serialNumber": 2,
+        "companyId": "4304",
+        "marketKind": "otc",
         "enterDate": "1150316"
       },
       "detail": {
@@ -2655,51 +2749,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "勝昱"
         },
-        "datetime": "115/03/16 19:48:15"
+        "datetime": "115/03/16 21:13:44"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|otc|4304|3",
@@ -2712,9 +2806,9 @@
         "自結合併"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "4304",
         "serialNumber": 3,
+        "companyId": "4304",
+        "marketKind": "otc",
         "enterDate": "1150316"
       },
       "detail": {
@@ -2749,51 +2843,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "勝昱"
         },
-        "datetime": "115/03/16 19:48:16"
+        "datetime": "115/03/16 21:13:47"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|otc|3629|4",
@@ -2806,9 +2900,9 @@
         "私募普通股"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "3629",
         "serialNumber": 4,
+        "companyId": "3629",
+        "marketKind": "otc",
         "enterDate": "1150316"
       },
       "detail": {
@@ -2843,51 +2937,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "地心引力"
         },
-        "datetime": "115/03/16 19:48:17"
+        "datetime": "115/03/16 21:13:49"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|rotc|7811|2",
@@ -2900,9 +2994,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "companyId": "7811",
         "serialNumber": 2,
+        "companyId": "7811",
+        "marketKind": "rotc",
         "enterDate": "1150316"
       },
       "detail": {
@@ -2937,51 +3031,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "民盛"
         },
-        "datetime": "115/03/16 19:48:18"
+        "datetime": "115/03/16 21:13:49"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|rotc|6908|1",
@@ -2994,9 +3088,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "companyId": "6908",
         "serialNumber": 1,
+        "companyId": "6908",
+        "marketKind": "rotc",
         "enterDate": "1150316"
       },
       "detail": {
@@ -3031,51 +3125,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "宏碁遊戲"
         },
-        "datetime": "115/03/16 19:48:18"
+        "datetime": "115/03/16 21:13:51"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|rotc|6876|1",
@@ -3088,9 +3182,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "companyId": "6876",
         "serialNumber": 1,
+        "companyId": "6876",
+        "marketKind": "rotc",
         "enterDate": "1150316"
       },
       "detail": {
@@ -3125,51 +3219,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "朗齊生醫*"
         },
-        "datetime": "115/03/16 19:48:19"
+        "datetime": "115/03/16 21:13:53"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|rotc|4195|5",
@@ -3182,9 +3276,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "companyId": "4195",
         "serialNumber": 5,
+        "companyId": "4195",
+        "marketKind": "rotc",
         "enterDate": "1150316"
       },
       "detail": {
@@ -3219,51 +3313,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "基米"
         },
-        "datetime": "115/03/16 19:48:20"
+        "datetime": "115/03/16 21:13:55"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|rotc|4169|2",
@@ -3276,9 +3370,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "companyId": "4169",
         "serialNumber": 2,
+        "companyId": "4169",
+        "marketKind": "rotc",
         "enterDate": "1150316"
       },
       "detail": {
@@ -3313,51 +3407,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "泰宗"
         },
-        "datetime": "115/03/16 19:48:21"
+        "datetime": "115/03/16 21:13:59"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     },
     {
       "key": "1150316|rotc|6912|5",
@@ -3370,9 +3464,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "companyId": "6912",
         "serialNumber": 5,
+        "companyId": "6912",
+        "marketKind": "rotc",
         "enterDate": "1150316"
       },
       "detail": {
@@ -3407,51 +3501,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "益鈞環科*"
         },
-        "datetime": "115/03/16 19:48:21"
+        "datetime": "115/03/16 21:14:01"
       },
-      "fetched_at_tw": "2026-03-16 19:47:35"
+      "fetched_at_tw": "2026-03-16 21:12:40"
     }
   ]
 }
