@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-03-18 06:01:51",
+    "run_at_tw": "2026-03-18 06:59:40",
     "query": {
       "year": "115",
       "month": "3",
@@ -32,10 +32,10 @@
         "庫藏股"
       ],
       "detail_params": {
+        "enterDate": "1150317",
         "serialNumber": 1,
         "companyId": "7711",
-        "marketKind": "sii",
-        "enterDate": "1150317"
+        "marketKind": "sii"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "永擎"
         },
-        "datetime": "115/03/18 06:01:52"
+        "datetime": "115/03/18 06:59:41"
       },
-      "fetched_at_tw": "2026-03-18 06:01:51"
+      "fetched_at_tw": "2026-03-18 06:59:40"
     },
     {
       "key": "1150317|otc|6180|2",
@@ -126,10 +126,10 @@
         "現金增資"
       ],
       "detail_params": {
+        "enterDate": "1150317",
         "serialNumber": 2,
         "companyId": "6180",
-        "marketKind": "otc",
-        "enterDate": "1150317"
+        "marketKind": "otc"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "橘子"
         },
-        "datetime": "115/03/18 06:01:53"
+        "datetime": "115/03/18 06:59:42"
       },
-      "fetched_at_tw": "2026-03-18 06:01:51"
+      "fetched_at_tw": "2026-03-18 06:59:40"
     },
     {
       "key": "1150317|otc|6187|1",
@@ -220,10 +220,10 @@
         "公司債"
       ],
       "detail_params": {
+        "enterDate": "1150317",
         "serialNumber": 1,
         "companyId": "6187",
-        "marketKind": "otc",
-        "enterDate": "1150317"
+        "marketKind": "otc"
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "萬潤"
         },
-        "datetime": "115/03/18 06:01:54"
+        "datetime": "115/03/18 06:59:43"
       },
-      "fetched_at_tw": "2026-03-18 06:01:51"
+      "fetched_at_tw": "2026-03-18 06:59:40"
     }
   ]
 }
