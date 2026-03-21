@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-03-21 22:27:03",
+    "run_at_tw": "2026-03-21 22:53:52",
     "query": {
       "year": "115",
       "month": "3",
@@ -32,10 +32,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "enterDate": "1150320",
         "serialNumber": 1,
         "companyId": "2467",
-        "marketKind": "sii"
+        "marketKind": "sii",
+        "enterDate": "1150320"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "志聖"
         },
-        "datetime": "115/03/21 22:27:04"
+        "datetime": "115/03/21 22:53:53"
       },
-      "fetched_at_tw": "2026-03-21 22:27:03"
+      "fetched_at_tw": "2026-03-21 22:53:52"
     },
     {
       "key": "1150319|otc|8064|3",
@@ -126,10 +126,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "enterDate": "1150319",
         "serialNumber": 3,
         "companyId": "8064",
-        "marketKind": "otc"
+        "marketKind": "otc",
+        "enterDate": "1150319"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "東捷"
         },
-        "datetime": "115/03/21 22:27:05"
+        "datetime": "115/03/21 22:53:54"
       },
-      "fetched_at_tw": "2026-03-21 22:27:03"
+      "fetched_at_tw": "2026-03-21 22:53:52"
     },
     {
       "key": "1150320|otc|5398|3",
@@ -221,10 +221,10 @@
         "公司債"
       ],
       "detail_params": {
-        "enterDate": "1150320",
         "serialNumber": 3,
         "companyId": "5398",
-        "marketKind": "otc"
+        "marketKind": "otc",
+        "enterDate": "1150320"
       },
       "detail": {
         "code": 200,
@@ -300,9 +300,9 @@
           ],
           "companyAbbreviation": "慕康生醫"
         },
-        "datetime": "115/03/21 22:27:06"
+        "datetime": "115/03/21 22:53:55"
       },
-      "fetched_at_tw": "2026-03-21 22:27:03"
+      "fetched_at_tw": "2026-03-21 22:53:52"
     },
     {
       "key": "1150319|rotc|6676|4",
@@ -315,10 +315,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "enterDate": "1150319",
         "serialNumber": 4,
         "companyId": "6676",
-        "marketKind": "rotc"
+        "marketKind": "rotc",
+        "enterDate": "1150319"
       },
       "detail": {
         "code": 200,
@@ -394,9 +394,9 @@
           ],
           "companyAbbreviation": "祥翊"
         },
-        "datetime": "115/03/21 22:27:07"
+        "datetime": "115/03/21 22:53:56"
       },
-      "fetched_at_tw": "2026-03-21 22:27:03"
+      "fetched_at_tw": "2026-03-21 22:53:52"
     }
   ]
 }
