@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-03-26 02:55:49",
+    "run_at_tw": "2026-03-26 03:47:24",
     "query": {
       "year": "115",
       "month": "3",
@@ -32,10 +32,10 @@
         "公司債"
       ],
       "detail_params": {
+        "enterDate": "1150325",
         "serialNumber": 2,
         "companyId": "6669",
-        "marketKind": "sii",
-        "enterDate": "1150325"
+        "marketKind": "sii"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "緯穎"
         },
-        "datetime": "115/03/26 02:55:50"
+        "datetime": "115/03/26 03:47:24"
       },
-      "fetched_at_tw": "2026-03-26 02:55:49"
+      "fetched_at_tw": "2026-03-26 03:47:24"
     },
     {
       "key": "1150325|otc|8109|1",
@@ -126,10 +126,10 @@
         "庫藏股"
       ],
       "detail_params": {
+        "enterDate": "1150325",
         "serialNumber": 1,
         "companyId": "8109",
-        "marketKind": "otc",
-        "enterDate": "1150325"
+        "marketKind": "otc"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "博大"
         },
-        "datetime": "115/03/26 02:55:51"
+        "datetime": "115/03/26 03:47:25"
       },
-      "fetched_at_tw": "2026-03-26 02:55:49"
+      "fetched_at_tw": "2026-03-26 03:47:24"
     },
     {
       "key": "1150325|otc|6763|1",
@@ -220,10 +220,10 @@
         "現金增資"
       ],
       "detail_params": {
+        "enterDate": "1150325",
         "serialNumber": 1,
         "companyId": "6763",
-        "marketKind": "otc",
-        "enterDate": "1150325"
+        "marketKind": "otc"
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "綠界科技*"
         },
-        "datetime": "115/03/26 02:55:52"
+        "datetime": "115/03/26 03:47:26"
       },
-      "fetched_at_tw": "2026-03-26 02:55:49"
+      "fetched_at_tw": "2026-03-26 03:47:24"
     },
     {
       "key": "1150325|otc|6274|1",
@@ -314,10 +314,10 @@
         "機器設備"
       ],
       "detail_params": {
+        "enterDate": "1150325",
         "serialNumber": 1,
         "companyId": "6274",
-        "marketKind": "otc",
-        "enterDate": "1150325"
+        "marketKind": "otc"
       },
       "detail": {
         "code": 200,
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "台燿"
         },
-        "datetime": "115/03/26 02:55:52"
+        "datetime": "115/03/26 03:47:26"
       },
-      "fetched_at_tw": "2026-03-26 02:55:49"
+      "fetched_at_tw": "2026-03-26 03:47:24"
     },
     {
       "key": "1150325|otc|5278|2",
@@ -408,10 +408,10 @@
         "私募普通股"
       ],
       "detail_params": {
+        "enterDate": "1150325",
         "serialNumber": 2,
         "companyId": "5278",
-        "marketKind": "otc",
-        "enterDate": "1150325"
+        "marketKind": "otc"
       },
       "detail": {
         "code": 200,
@@ -487,9 +487,9 @@
           ],
           "companyAbbreviation": "尚凡*"
         },
-        "datetime": "115/03/26 02:55:53"
+        "datetime": "115/03/26 03:47:27"
       },
-      "fetched_at_tw": "2026-03-26 02:55:49"
+      "fetched_at_tw": "2026-03-26 03:47:24"
     },
     {
       "key": "1150325|otc|5278|4",
@@ -502,10 +502,10 @@
         "庫藏股"
       ],
       "detail_params": {
+        "enterDate": "1150325",
         "serialNumber": 4,
         "companyId": "5278",
-        "marketKind": "otc",
-        "enterDate": "1150325"
+        "marketKind": "otc"
       },
       "detail": {
         "code": 200,
@@ -581,9 +581,9 @@
           ],
           "companyAbbreviation": "尚凡*"
         },
-        "datetime": "115/03/26 02:55:54"
+        "datetime": "115/03/26 03:47:27"
       },
-      "fetched_at_tw": "2026-03-26 02:55:49"
+      "fetched_at_tw": "2026-03-26 03:47:24"
     },
     {
       "key": "1150325|otc|7723|1",
@@ -596,10 +596,10 @@
         "庫藏股"
       ],
       "detail_params": {
+        "enterDate": "1150325",
         "serialNumber": 1,
         "companyId": "7723",
-        "marketKind": "otc",
-        "enterDate": "1150325"
+        "marketKind": "otc"
       },
       "detail": {
         "code": 200,
@@ -675,9 +675,9 @@
           ],
           "companyAbbreviation": "築間"
         },
-        "datetime": "115/03/26 02:55:55"
+        "datetime": "115/03/26 03:47:28"
       },
-      "fetched_at_tw": "2026-03-26 02:55:49"
+      "fetched_at_tw": "2026-03-26 03:47:24"
     },
     {
       "key": "1150325|rotc|3659|8",
@@ -690,10 +690,10 @@
         "現金增資"
       ],
       "detail_params": {
+        "enterDate": "1150325",
         "serialNumber": 8,
         "companyId": "3659",
-        "marketKind": "rotc",
-        "enterDate": "1150325"
+        "marketKind": "rotc"
       },
       "detail": {
         "code": 200,
@@ -769,9 +769,9 @@
           ],
           "companyAbbreviation": "百辰"
         },
-        "datetime": "115/03/26 02:55:56"
+        "datetime": "115/03/26 03:47:28"
       },
-      "fetched_at_tw": "2026-03-26 02:55:49"
+      "fetched_at_tw": "2026-03-26 03:47:24"
     },
     {
       "key": "1150325|rotc|7827|3",
@@ -784,10 +784,10 @@
         "現金增資"
       ],
       "detail_params": {
+        "enterDate": "1150325",
         "serialNumber": 3,
         "companyId": "7827",
-        "marketKind": "rotc",
-        "enterDate": "1150325"
+        "marketKind": "rotc"
       },
       "detail": {
         "code": 200,
@@ -863,9 +863,9 @@
           ],
           "companyAbbreviation": "漢康-KY"
         },
-        "datetime": "115/03/26 02:56:01"
+        "datetime": "115/03/26 03:47:29"
       },
-      "fetched_at_tw": "2026-03-26 02:55:49"
+      "fetched_at_tw": "2026-03-26 03:47:24"
     },
     {
       "key": "1150325|rotc|7827|4",
@@ -878,10 +878,10 @@
         "庫藏股"
       ],
       "detail_params": {
+        "enterDate": "1150325",
         "serialNumber": 4,
         "companyId": "7827",
-        "marketKind": "rotc",
-        "enterDate": "1150325"
+        "marketKind": "rotc"
       },
       "detail": {
         "code": 200,
@@ -957,9 +957,9 @@
           ],
           "companyAbbreviation": "漢康-KY"
         },
-        "datetime": "115/03/26 02:56:01"
+        "datetime": "115/03/26 03:47:30"
       },
-      "fetched_at_tw": "2026-03-26 02:55:49"
+      "fetched_at_tw": "2026-03-26 03:47:24"
     }
   ]
 }
