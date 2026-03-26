@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-03-26 10:23:47",
+    "run_at_tw": "2026-03-26 12:54:58",
     "query": {
       "year": "115",
       "month": "3",
@@ -17,8 +17,8 @@
       "公司債",
       "庫藏股"
     ],
-    "matched_count": 10,
-    "new_matched_count": 0
+    "matched_count": 12,
+    "new_matched_count": 2
   },
   "items": [
     {
@@ -32,10 +32,10 @@
         "公司債"
       ],
       "detail_params": {
-        "enterDate": "1150325",
         "serialNumber": 2,
         "companyId": "6669",
-        "marketKind": "sii"
+        "marketKind": "sii",
+        "enterDate": "1150325"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,103 @@
           ],
           "companyAbbreviation": "緯穎"
         },
-        "datetime": "115/03/26 10:23:48"
+        "datetime": "115/03/26 12:54:59"
       },
-      "fetched_at_tw": "2026-03-26 10:23:47"
+      "fetched_at_tw": "2026-03-26 12:54:58"
+    },
+    {
+      "key": "1150326|sii|2380|2",
+      "speech_date": "115/03/26",
+      "speech_time": "11:53:59",
+      "company_id": "2380",
+      "company_name": "虹光",
+      "subject": "公告本公司董事會決議114年股東常會通過之私募普通股案屆期不繼續辦理",
+      "matched_keywords": [
+        "私募普通股"
+      ],
+      "detail_params": {
+        "serialNumber": 2,
+        "companyId": "2380",
+        "marketKind": "sii",
+        "enterDate": "1150326"
+      },
+      "detail": {
+        "code": 200,
+        "message": "查詢成功",
+        "result": {
+          "marketName": "上市公司",
+          "companyId": "2380",
+          "data": [
+            [
+              2,
+              "115/03/26",
+              "11:53:59",
+              "盧冠嶧",
+              "財務長",
+              "03-5782388#8200",
+              "公告本公司董事會決議114年股東常會通過之\r\n私募普通股案屆期不繼續辦理",
+              "16",
+              "115/03/26",
+              "1.董事會決議變更日期:115/03/26\n2.原計畫申報生效之日期:不適用\n3.追補發行之日期:不適用\n4.變動原因:\n(1)本公司於114年6月26日股東常會決議通過辦理私募普通股案，授權董事會\n   得於股東常會決議之日起一年內，以不超過30,000,000股為限，分一次或\n   二次辦理私募股通股。\n(2)該次私募普通股辦理期限將於115年6月25日屆期，迄今因本公司尚未洽定\n   合適應募人，故不繼續辦理該次私募計畫。\n5.歷次變更前後募集資金計畫:不適用\n6.預計執行進度:不適用\n7.預計完成日期:不適用\n8.預計可能產生效益:不適用\n9.與原預計效益產生之差異:不適用\n10.本次變更對股東權益之影響:不適用\n11.原主辦承銷商評估意見摘要:不適用\n12.其他應敘明事項:無"
+            ]
+          ],
+          "footer": [
+            "以上資料均由各公司依發言當時所屬市場別之規定申報後，由本系統對外公佈，資料如有虛偽不實，均由該公司負責。"
+          ],
+          "header": {
+            "note": [],
+            "subTitle": [],
+            "mainTitle": [
+              "公司當日重大訊息之詳細內容"
+            ]
+          },
+          "titles": [
+            {
+              "main": "序號",
+              "sub": []
+            },
+            {
+              "main": "發言日期",
+              "sub": []
+            },
+            {
+              "main": "發言時間",
+              "sub": []
+            },
+            {
+              "main": "發言人",
+              "sub": []
+            },
+            {
+              "main": "發言人職稱",
+              "sub": []
+            },
+            {
+              "main": "發言人電話",
+              "sub": []
+            },
+            {
+              "main": "主旨",
+              "sub": []
+            },
+            {
+              "main": "符合條款",
+              "sub": []
+            },
+            {
+              "main": "事實發生日",
+              "sub": []
+            },
+            {
+              "main": "說明",
+              "sub": []
+            }
+          ],
+          "companyAbbreviation": "虹光"
+        },
+        "datetime": "115/03/26 12:55:00"
+      },
+      "fetched_at_tw": "2026-03-26 12:54:58"
     },
     {
       "key": "1150325|otc|8109|1",
@@ -126,10 +220,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "enterDate": "1150325",
         "serialNumber": 1,
         "companyId": "8109",
-        "marketKind": "otc"
+        "marketKind": "otc",
+        "enterDate": "1150325"
       },
       "detail": {
         "code": 200,
@@ -205,9 +299,9 @@
           ],
           "companyAbbreviation": "博大"
         },
-        "datetime": "115/03/26 10:23:49"
+        "datetime": "115/03/26 12:55:01"
       },
-      "fetched_at_tw": "2026-03-26 10:23:47"
+      "fetched_at_tw": "2026-03-26 12:54:58"
     },
     {
       "key": "1150325|otc|6763|1",
@@ -220,10 +314,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150325",
         "serialNumber": 1,
         "companyId": "6763",
-        "marketKind": "otc"
+        "marketKind": "otc",
+        "enterDate": "1150325"
       },
       "detail": {
         "code": 200,
@@ -299,9 +393,9 @@
           ],
           "companyAbbreviation": "綠界科技*"
         },
-        "datetime": "115/03/26 10:23:50"
+        "datetime": "115/03/26 12:55:01"
       },
-      "fetched_at_tw": "2026-03-26 10:23:47"
+      "fetched_at_tw": "2026-03-26 12:54:58"
     },
     {
       "key": "1150325|otc|6274|1",
@@ -314,10 +408,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "enterDate": "1150325",
         "serialNumber": 1,
         "companyId": "6274",
-        "marketKind": "otc"
+        "marketKind": "otc",
+        "enterDate": "1150325"
       },
       "detail": {
         "code": 200,
@@ -393,9 +487,9 @@
           ],
           "companyAbbreviation": "台燿"
         },
-        "datetime": "115/03/26 10:23:51"
+        "datetime": "115/03/26 12:55:02"
       },
-      "fetched_at_tw": "2026-03-26 10:23:47"
+      "fetched_at_tw": "2026-03-26 12:54:58"
     },
     {
       "key": "1150325|otc|5278|2",
@@ -408,10 +502,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "enterDate": "1150325",
         "serialNumber": 2,
         "companyId": "5278",
-        "marketKind": "otc"
+        "marketKind": "otc",
+        "enterDate": "1150325"
       },
       "detail": {
         "code": 200,
@@ -487,9 +581,9 @@
           ],
           "companyAbbreviation": "尚凡*"
         },
-        "datetime": "115/03/26 10:23:52"
+        "datetime": "115/03/26 12:55:03"
       },
-      "fetched_at_tw": "2026-03-26 10:23:47"
+      "fetched_at_tw": "2026-03-26 12:54:58"
     },
     {
       "key": "1150325|otc|5278|4",
@@ -502,10 +596,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "enterDate": "1150325",
         "serialNumber": 4,
         "companyId": "5278",
-        "marketKind": "otc"
+        "marketKind": "otc",
+        "enterDate": "1150325"
       },
       "detail": {
         "code": 200,
@@ -581,9 +675,9 @@
           ],
           "companyAbbreviation": "尚凡*"
         },
-        "datetime": "115/03/26 10:23:52"
+        "datetime": "115/03/26 12:55:03"
       },
-      "fetched_at_tw": "2026-03-26 10:23:47"
+      "fetched_at_tw": "2026-03-26 12:54:58"
     },
     {
       "key": "1150325|otc|7723|1",
@@ -596,10 +690,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "enterDate": "1150325",
         "serialNumber": 1,
         "companyId": "7723",
-        "marketKind": "otc"
+        "marketKind": "otc",
+        "enterDate": "1150325"
       },
       "detail": {
         "code": 200,
@@ -675,9 +769,33 @@
           ],
           "companyAbbreviation": "築間"
         },
-        "datetime": "115/03/26 10:23:53"
+        "datetime": "115/03/26 12:55:04"
       },
-      "fetched_at_tw": "2026-03-26 10:23:47"
+      "fetched_at_tw": "2026-03-26 12:54:58"
+    },
+    {
+      "key": "1150326|otc|6821|1",
+      "speech_date": "115/03/26",
+      "speech_time": "11:10:02",
+      "company_id": "6821",
+      "company_name": "聯寶",
+      "subject": "公告聯寶電子股份有限公司國內第一次無擔保(例：第一次有擔保)轉(交)換公司債(簡稱：聯寶一，代碼：68211)停止受理轉交換及到期日落於停止轉(交)換期間等相關事項。",
+      "matched_keywords": [
+        "公司債"
+      ],
+      "detail_params": {
+        "serialNumber": 1,
+        "companyId": "6821",
+        "marketKind": "otc",
+        "enterDate": "1150326"
+      },
+      "detail": {
+        "code": 406,
+        "message": "查無相符資料",
+        "result": null,
+        "datetime": "115/03/26 12:55:05"
+      },
+      "fetched_at_tw": "2026-03-26 12:54:58"
     },
     {
       "key": "1150325|rotc|3659|8",
@@ -690,10 +808,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150325",
         "serialNumber": 8,
         "companyId": "3659",
-        "marketKind": "rotc"
+        "marketKind": "rotc",
+        "enterDate": "1150325"
       },
       "detail": {
         "code": 200,
@@ -769,9 +887,9 @@
           ],
           "companyAbbreviation": "百辰"
         },
-        "datetime": "115/03/26 10:23:54"
+        "datetime": "115/03/26 12:55:05"
       },
-      "fetched_at_tw": "2026-03-26 10:23:47"
+      "fetched_at_tw": "2026-03-26 12:54:58"
     },
     {
       "key": "1150325|rotc|7827|3",
@@ -784,10 +902,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150325",
         "serialNumber": 3,
         "companyId": "7827",
-        "marketKind": "rotc"
+        "marketKind": "rotc",
+        "enterDate": "1150325"
       },
       "detail": {
         "code": 200,
@@ -863,9 +981,9 @@
           ],
           "companyAbbreviation": "漢康-KY"
         },
-        "datetime": "115/03/26 10:23:55"
+        "datetime": "115/03/26 12:55:06"
       },
-      "fetched_at_tw": "2026-03-26 10:23:47"
+      "fetched_at_tw": "2026-03-26 12:54:58"
     },
     {
       "key": "1150325|rotc|7827|4",
@@ -878,10 +996,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "enterDate": "1150325",
         "serialNumber": 4,
         "companyId": "7827",
-        "marketKind": "rotc"
+        "marketKind": "rotc",
+        "enterDate": "1150325"
       },
       "detail": {
         "code": 200,
@@ -957,9 +1075,9 @@
           ],
           "companyAbbreviation": "漢康-KY"
         },
-        "datetime": "115/03/26 10:23:56"
+        "datetime": "115/03/26 12:55:07"
       },
-      "fetched_at_tw": "2026-03-26 10:23:47"
+      "fetched_at_tw": "2026-03-26 12:54:58"
     }
   ]
 }
