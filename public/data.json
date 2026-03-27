@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-03-27 10:24:55",
+    "run_at_tw": "2026-03-27 12:55:35",
     "query": {
       "year": "115",
       "month": "3",
@@ -32,10 +32,10 @@
         "公司債"
       ],
       "detail_params": {
-        "serialNumber": 1,
-        "enterDate": "1150326",
+        "companyId": "6806",
         "marketKind": "sii",
-        "companyId": "6806"
+        "enterDate": "1150326",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "森崴能源"
         },
-        "datetime": "115/03/27 10:24:57"
+        "datetime": "115/03/27 12:55:37"
       },
-      "fetched_at_tw": "2026-03-27 10:24:55"
+      "fetched_at_tw": "2026-03-27 12:55:35"
     },
     {
       "key": "1150326|sii|5871|2",
@@ -126,10 +126,10 @@
         "公司債"
       ],
       "detail_params": {
-        "serialNumber": 2,
-        "enterDate": "1150326",
+        "companyId": "5871",
         "marketKind": "sii",
-        "companyId": "5871"
+        "enterDate": "1150326",
+        "serialNumber": 2
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "中租-KY"
         },
-        "datetime": "115/03/27 10:24:58"
+        "datetime": "115/03/27 12:55:37"
       },
-      "fetched_at_tw": "2026-03-27 10:24:55"
+      "fetched_at_tw": "2026-03-27 12:55:35"
     },
     {
       "key": "1150326|otc|6821|4",
@@ -220,10 +220,10 @@
         "公司債"
       ],
       "detail_params": {
-        "serialNumber": 4,
-        "enterDate": "1150326",
+        "companyId": "6821",
         "marketKind": "otc",
-        "companyId": "6821"
+        "enterDate": "1150326",
+        "serialNumber": 4
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "聯寶"
         },
-        "datetime": "115/03/27 10:24:59"
+        "datetime": "115/03/27 12:55:38"
       },
-      "fetched_at_tw": "2026-03-27 10:24:55"
+      "fetched_at_tw": "2026-03-27 12:55:35"
     },
     {
       "key": "1150326|rotc|6920|7",
@@ -314,10 +314,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "serialNumber": 7,
-        "enterDate": "1150326",
+        "companyId": "6920",
         "marketKind": "rotc",
-        "companyId": "6920"
+        "enterDate": "1150326",
+        "serialNumber": 7
       },
       "detail": {
         "code": 200,
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "恆勁科技"
         },
-        "datetime": "115/03/27 10:25:00"
+        "datetime": "115/03/27 12:55:39"
       },
-      "fetched_at_tw": "2026-03-27 10:24:55"
+      "fetched_at_tw": "2026-03-27 12:55:35"
     },
     {
       "key": "1150326|rotc|6748|6",
@@ -408,10 +408,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "serialNumber": 6,
-        "enterDate": "1150326",
+        "companyId": "6748",
         "marketKind": "rotc",
-        "companyId": "6748"
+        "enterDate": "1150326",
+        "serialNumber": 6
       },
       "detail": {
         "code": 200,
@@ -487,9 +487,9 @@
           ],
           "companyAbbreviation": "亞果生醫"
         },
-        "datetime": "115/03/27 10:25:01"
+        "datetime": "115/03/27 12:55:40"
       },
-      "fetched_at_tw": "2026-03-27 10:24:55"
+      "fetched_at_tw": "2026-03-27 12:55:35"
     },
     {
       "key": "1150326|rotc|6920|9",
@@ -502,10 +502,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "serialNumber": 9,
-        "enterDate": "1150326",
+        "companyId": "6920",
         "marketKind": "rotc",
-        "companyId": "6920"
+        "enterDate": "1150326",
+        "serialNumber": 9
       },
       "detail": {
         "code": 200,
@@ -581,9 +581,9 @@
           ],
           "companyAbbreviation": "恆勁科技"
         },
-        "datetime": "115/03/27 10:25:01"
+        "datetime": "115/03/27 12:55:41"
       },
-      "fetched_at_tw": "2026-03-27 10:24:55"
+      "fetched_at_tw": "2026-03-27 12:55:35"
     }
   ]
 }
