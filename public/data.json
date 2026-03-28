@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-03-28 21:51:57",
+    "run_at_tw": "2026-03-28 22:31:37",
     "query": {
       "year": "115",
       "month": "3",
@@ -32,10 +32,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "companyId": "6414",
-        "marketKind": "sii",
+        "serialNumber": 4,
         "enterDate": "1150327",
-        "serialNumber": 4
+        "marketKind": "sii",
+        "companyId": "6414"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "樺漢"
         },
-        "datetime": "115/03/28 21:52:02"
+        "datetime": "115/03/28 22:31:40"
       },
-      "fetched_at_tw": "2026-03-28 21:51:57"
+      "fetched_at_tw": "2026-03-28 22:31:37"
     },
     {
       "key": "1150327|sii|2406|4",
@@ -126,10 +126,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "companyId": "2406",
-        "marketKind": "sii",
+        "serialNumber": 4,
         "enterDate": "1150327",
-        "serialNumber": 4
+        "marketKind": "sii",
+        "companyId": "2406"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "國碩"
         },
-        "datetime": "115/03/28 21:52:05"
+        "datetime": "115/03/28 22:31:41"
       },
-      "fetched_at_tw": "2026-03-28 21:51:57"
+      "fetched_at_tw": "2026-03-28 22:31:37"
     },
     {
       "key": "1150327|sii|2406|5",
@@ -220,10 +220,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "2406",
-        "marketKind": "sii",
+        "serialNumber": 5,
         "enterDate": "1150327",
-        "serialNumber": 5
+        "marketKind": "sii",
+        "companyId": "2406"
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "國碩"
         },
-        "datetime": "115/03/28 21:52:06"
+        "datetime": "115/03/28 22:31:43"
       },
-      "fetched_at_tw": "2026-03-28 21:51:57"
+      "fetched_at_tw": "2026-03-28 22:31:37"
     },
     {
       "key": "1150327|otc|3691|4",
@@ -314,10 +314,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "3691",
-        "marketKind": "otc",
+        "serialNumber": 4,
         "enterDate": "1150327",
-        "serialNumber": 4
+        "marketKind": "otc",
+        "companyId": "3691"
       },
       "detail": {
         "code": 200,
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "碩禾"
         },
-        "datetime": "115/03/28 21:52:08"
+        "datetime": "115/03/28 22:31:44"
       },
-      "fetched_at_tw": "2026-03-28 21:51:57"
+      "fetched_at_tw": "2026-03-28 22:31:37"
     },
     {
       "key": "1150325|otc|3322|3",
@@ -408,10 +408,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "3322",
-        "marketKind": "otc",
+        "serialNumber": 3,
         "enterDate": "1150325",
-        "serialNumber": 3
+        "marketKind": "otc",
+        "companyId": "3322"
       },
       "detail": {
         "code": 200,
@@ -487,9 +487,9 @@
           ],
           "companyAbbreviation": "建舜電"
         },
-        "datetime": "115/03/28 21:52:12"
+        "datetime": "115/03/28 22:31:45"
       },
-      "fetched_at_tw": "2026-03-28 21:51:57"
+      "fetched_at_tw": "2026-03-28 22:31:37"
     },
     {
       "key": "1150327|rotc|7794|2",
@@ -502,10 +502,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "7794",
-        "marketKind": "rotc",
+        "serialNumber": 2,
         "enterDate": "1150327",
-        "serialNumber": 2
+        "marketKind": "rotc",
+        "companyId": "7794"
       },
       "detail": {
         "code": 200,
@@ -581,9 +581,9 @@
           ],
           "companyAbbreviation": "宏碁智新"
         },
-        "datetime": "115/03/28 21:52:13"
+        "datetime": "115/03/28 22:31:46"
       },
-      "fetched_at_tw": "2026-03-28 21:51:57"
+      "fetched_at_tw": "2026-03-28 22:31:37"
     },
     {
       "key": "1150327|rotc|6775|1",
@@ -596,10 +596,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "6775",
-        "marketKind": "rotc",
+        "serialNumber": 1,
         "enterDate": "1150327",
-        "serialNumber": 1
+        "marketKind": "rotc",
+        "companyId": "6775"
       },
       "detail": {
         "code": 200,
@@ -675,9 +675,9 @@
           ],
           "companyAbbreviation": "穎台科技"
         },
-        "datetime": "115/03/28 21:52:15"
+        "datetime": "115/03/28 22:31:47"
       },
-      "fetched_at_tw": "2026-03-28 21:51:57"
+      "fetched_at_tw": "2026-03-28 22:31:37"
     },
     {
       "key": "1150327|rotc|7794|3",
@@ -690,10 +690,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "7794",
-        "marketKind": "rotc",
+        "serialNumber": 3,
         "enterDate": "1150327",
-        "serialNumber": 3
+        "marketKind": "rotc",
+        "companyId": "7794"
       },
       "detail": {
         "code": 200,
@@ -769,9 +769,9 @@
           ],
           "companyAbbreviation": "宏碁智新"
         },
-        "datetime": "115/03/28 21:52:16"
+        "datetime": "115/03/28 22:31:50"
       },
-      "fetched_at_tw": "2026-03-28 21:51:57"
+      "fetched_at_tw": "2026-03-28 22:31:37"
     }
   ]
 }
