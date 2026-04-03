@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-04-03 22:11:29",
+    "run_at_tw": "2026-04-03 23:08:37",
     "query": {
       "year": "115",
       "month": "4",
@@ -32,10 +32,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "enterDate": "1150402",
         "serialNumber": 6,
-        "companyId": "1529"
+        "companyId": "1529",
+        "marketKind": "sii",
+        "enterDate": "1150402"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "樂事綠能"
         },
-        "datetime": "115/04/03 22:11:29"
+        "datetime": "115/04/03 23:08:39"
       },
-      "fetched_at_tw": "2026-04-03 22:11:29"
+      "fetched_at_tw": "2026-04-03 23:08:37"
     },
     {
       "key": "1150402|otc|2740|7",
@@ -126,10 +126,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "enterDate": "1150402",
         "serialNumber": 7,
-        "companyId": "2740"
+        "companyId": "2740",
+        "marketKind": "otc",
+        "enterDate": "1150402"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "華軒"
         },
-        "datetime": "115/04/03 22:11:30"
+        "datetime": "115/04/03 23:08:41"
       },
-      "fetched_at_tw": "2026-04-03 22:11:29"
+      "fetched_at_tw": "2026-04-03 23:08:37"
     },
     {
       "key": "1150402|rotc|6912|3",
@@ -220,10 +220,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "enterDate": "1150402",
         "serialNumber": 3,
-        "companyId": "6912"
+        "companyId": "6912",
+        "marketKind": "rotc",
+        "enterDate": "1150402"
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "益鈞環科*"
         },
-        "datetime": "115/04/03 22:11:31"
+        "datetime": "115/04/03 23:08:41"
       },
-      "fetched_at_tw": "2026-04-03 22:11:29"
+      "fetched_at_tw": "2026-04-03 23:08:37"
     }
   ]
 }
