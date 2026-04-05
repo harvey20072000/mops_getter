@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-04-05 21:57:26",
+    "run_at_tw": "2026-04-05 22:40:09",
     "query": {
       "year": "115",
       "month": "4",
@@ -32,10 +32,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "serialNumber": 1,
-        "companyId": "3027",
         "marketKind": "sii",
-        "enterDate": "1150404"
+        "enterDate": "1150404",
+        "serialNumber": 1,
+        "companyId": "3027"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "盛達"
         },
-        "datetime": "115/04/05 21:57:27"
+        "datetime": "115/04/05 22:40:10"
       },
-      "fetched_at_tw": "2026-04-05 21:57:26"
+      "fetched_at_tw": "2026-04-05 22:40:09"
     }
   ]
 }
