@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-04-07 04:38:58",
+    "run_at_tw": "2026-04-07 05:37:41",
     "query": {
       "year": "115",
       "month": "4",
@@ -32,10 +32,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150406",
-        "marketKind": "rotc",
+        "serialNumber": 2,
         "companyId": "7857",
-        "serialNumber": 2
+        "marketKind": "rotc",
+        "enterDate": "1150406"
       },
       "detail": {
         "code": 200,
@@ -69,51 +69,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "合水先進"
         },
-        "datetime": "115/04/07 04:38:59"
+        "datetime": "115/04/07 05:37:42"
       },
-      "fetched_at_tw": "2026-04-07 04:38:58"
+      "fetched_at_tw": "2026-04-07 05:37:41"
     }
   ]
 }
