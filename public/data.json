@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-04-06 21:51:22",
+    "run_at_tw": "2026-04-06 22:47:12",
     "query": {
       "year": "115",
       "month": "4",
@@ -32,10 +32,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "serialNumber": 2,
-        "companyId": "7857",
         "marketKind": "rotc",
-        "enterDate": "1150406"
+        "enterDate": "1150406",
+        "serialNumber": 2,
+        "companyId": "7857"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "合水先進"
         },
-        "datetime": "115/04/06 21:51:25"
+        "datetime": "115/04/06 22:47:13"
       },
-      "fetched_at_tw": "2026-04-06 21:51:22"
+      "fetched_at_tw": "2026-04-06 22:47:12"
     }
   ]
 }
