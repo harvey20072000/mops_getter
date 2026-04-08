@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-04-08 15:19:41",
+    "run_at_tw": "2026-04-08 16:41:33",
     "query": {
       "year": "115",
       "month": "4",
@@ -17,8 +17,8 @@
       "公司債",
       "庫藏股"
     ],
-    "matched_count": 11,
-    "new_matched_count": 4
+    "matched_count": 14,
+    "new_matched_count": 3
   },
   "items": [
     {
@@ -32,10 +32,10 @@
         "公司債"
       ],
       "detail_params": {
-        "serialNumber": 1,
-        "companyId": "6830",
         "marketKind": "sii",
-        "enterDate": "1150408"
+        "enterDate": "1150408",
+        "serialNumber": 1,
+        "companyId": "6830"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "汎銓"
         },
-        "datetime": "115/04/08 15:19:43"
+        "datetime": "115/04/08 16:41:35"
       },
-      "fetched_at_tw": "2026-04-08 15:19:41"
+      "fetched_at_tw": "2026-04-08 16:41:33"
     },
     {
       "key": "1150408|sii|6768|1",
@@ -126,10 +126,10 @@
         "自結合併"
       ],
       "detail_params": {
-        "serialNumber": 1,
-        "companyId": "6768",
         "marketKind": "sii",
-        "enterDate": "1150408"
+        "enterDate": "1150408",
+        "serialNumber": 1,
+        "companyId": "6768"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,197 @@
           ],
           "companyAbbreviation": "志強-KY"
         },
-        "datetime": "115/04/08 15:19:46"
+        "datetime": "115/04/08 16:41:37"
       },
-      "fetched_at_tw": "2026-04-08 15:19:41"
+      "fetched_at_tw": "2026-04-08 16:41:33"
+    },
+    {
+      "key": "1150408|sii|2327|1",
+      "speech_date": "115/04/08",
+      "speech_time": "15:31:38",
+      "company_id": "2327",
+      "company_name": "國巨*",
+      "subject": "公告本公司115年3月自結合併營收",
+      "matched_keywords": [
+        "自結合併"
+      ],
+      "detail_params": {
+        "marketKind": "sii",
+        "enterDate": "1150408",
+        "serialNumber": 1,
+        "companyId": "2327"
+      },
+      "detail": {
+        "code": 200,
+        "message": "查詢成功",
+        "result": {
+          "marketName": "上市公司",
+          "companyId": "2327",
+          "data": [
+            [
+              1,
+              "115/04/08",
+              "15:31:38",
+              "張天成",
+              "全球財務部 資深協理",
+              "(02)6629-9999",
+              "公告本公司115年3月自結合併營收",
+              "51",
+              "115/04/08",
+              "1.事實發生日:115/04/08\n2.公司名稱:國巨股份有限公司\n3.與公司關係(請輸入本公司或子公司):本公司\n4.相互持股比例:不適用\n5.發生緣由: 國巨公司今日公布 2026 年 3 月份自結合併淨營收為 NT$ 136.30 億元，\n單月營收較上月增加 18.5%，並較去年同期增加 22.8%，創下單月營收歷史新高紀錄\n(若以美元換算，單月營收較上月增加 17.3%，較去年同期增加 27.2%)。累計 1-3 月\n自結合併淨營收為 NT$ 381.66 億元，較上一季度增加 6.1%，較去年同期增加\n22.7%，創下單季營收歷史新高。\n\n3月份合併營收較上月增加，主要是當月的工作天數回復正常、AI相關應用的客戶拉貨\n動能持續強勁，標準品及特殊品亦呈現穩定成長。\n\n展望未來，儘管地緣政治上的重大不確定性依然存在，但客戶庫存已達到健康水平，\n惟公司仍將審慎應對未來經濟情況，並密切關注關稅及各國匯率的變化。\n\n6.因應措施:不適用\n7.其他應敘明事項(若事件發生或決議之主體係屬公開發行以上公司，本則重大訊息同時\n  符合證券交易法施行細則第7條第9款所定對股東權益或證券價格有重大影響之事項):無"
+            ]
+          ],
+          "footer": [
+            "以上資料均由各公司依發言當時所屬市場別之規定申報後，由本系統對外公佈，資料如有虛偽不實，均由該公司負責。"
+          ],
+          "header": {
+            "note": [],
+            "subTitle": [],
+            "mainTitle": [
+              "公司當日重大訊息之詳細內容"
+            ]
+          },
+          "titles": [
+            {
+              "main": "序號",
+              "sub": []
+            },
+            {
+              "main": "發言日期",
+              "sub": []
+            },
+            {
+              "main": "發言時間",
+              "sub": []
+            },
+            {
+              "main": "發言人",
+              "sub": []
+            },
+            {
+              "main": "發言人職稱",
+              "sub": []
+            },
+            {
+              "main": "發言人電話",
+              "sub": []
+            },
+            {
+              "main": "主旨",
+              "sub": []
+            },
+            {
+              "main": "符合條款",
+              "sub": []
+            },
+            {
+              "main": "事實發生日",
+              "sub": []
+            },
+            {
+              "main": "說明",
+              "sub": []
+            }
+          ],
+          "companyAbbreviation": "國巨*"
+        },
+        "datetime": "115/04/08 16:41:39"
+      },
+      "fetched_at_tw": "2026-04-08 16:41:33"
+    },
+    {
+      "key": "1150407|sii|4912|1",
+      "speech_date": "115/04/08",
+      "speech_time": "16:18:39",
+      "company_id": "4912",
+      "company_name": "聯德控股-KY",
+      "subject": "公告本公司115年3月份自結合併營收情形",
+      "matched_keywords": [
+        "自結合併"
+      ],
+      "detail_params": {
+        "marketKind": "sii",
+        "enterDate": "1150407",
+        "serialNumber": 1,
+        "companyId": "4912"
+      },
+      "detail": {
+        "code": 200,
+        "message": "查詢成功",
+        "result": {
+          "marketName": "上市公司",
+          "companyId": "4912",
+          "data": [
+            [
+              1,
+              "115/04/08",
+              "16:18:39",
+              "陳玉軒",
+              "財務經理",
+              "02-8684-1618",
+              "公告本公司115年3月份自結合併營收情形",
+              "51",
+              "115/04/08",
+              "1.事實發生日:115/04/08\n2.公司名稱:聯德控股股份有限公司\n3.與公司關係(請輸入本公司或子公司):本公司\n4.相互持股比例:不適用\n5.發生緣由:本公司115年3月份自結合併營收情形\n  (1) 1月合併自結營收:新台幣553,232仟元，較去年同期增加8.90%。\n  (2) 累計營收數為新台幣1,740,530仟元，較去年同期增加13.86%。\n6.因應措施:無\n7.其他應敘明事項(若事件發生或決議之主體係屬公開發行以上公司，本則重大訊息同時\n  符合證券交易法施行細則第7條第9款所定對股東權益或證券價格有重大影響之事項):無"
+            ]
+          ],
+          "footer": [
+            "以上資料均由各公司依發言當時所屬市場別之規定申報後，由本系統對外公佈，資料如有虛偽不實，均由該公司負責。"
+          ],
+          "header": {
+            "note": [],
+            "subTitle": [],
+            "mainTitle": [
+              "公司當日重大訊息之詳細內容"
+            ]
+          },
+          "titles": [
+            {
+              "main": "序號",
+              "sub": []
+            },
+            {
+              "main": "發言日期",
+              "sub": []
+            },
+            {
+              "main": "發言時間",
+              "sub": []
+            },
+            {
+              "main": "發言人",
+              "sub": []
+            },
+            {
+              "main": "發言人職稱",
+              "sub": []
+            },
+            {
+              "main": "發言人電話",
+              "sub": []
+            },
+            {
+              "main": "主旨",
+              "sub": []
+            },
+            {
+              "main": "符合條款",
+              "sub": []
+            },
+            {
+              "main": "事實發生日",
+              "sub": []
+            },
+            {
+              "main": "說明",
+              "sub": []
+            }
+          ],
+          "companyAbbreviation": "聯德控股-KY"
+        },
+        "datetime": "115/04/08 16:41:40"
+      },
+      "fetched_at_tw": "2026-04-08 16:41:33"
     },
     {
       "key": "1150407|otc|6546|1",
@@ -220,10 +408,10 @@
         "公司債"
       ],
       "detail_params": {
-        "serialNumber": 1,
-        "companyId": "6546",
         "marketKind": "otc",
-        "enterDate": "1150407"
+        "enterDate": "1150407",
+        "serialNumber": 1,
+        "companyId": "6546"
       },
       "detail": {
         "code": 200,
@@ -299,9 +487,9 @@
           ],
           "companyAbbreviation": "正基"
         },
-        "datetime": "115/04/08 15:19:49"
+        "datetime": "115/04/08 16:41:40"
       },
-      "fetched_at_tw": "2026-04-08 15:19:41"
+      "fetched_at_tw": "2026-04-08 16:41:33"
     },
     {
       "key": "1150407|otc|4747|4",
@@ -315,10 +503,10 @@
         "公司債"
       ],
       "detail_params": {
-        "serialNumber": 4,
-        "companyId": "4747",
         "marketKind": "otc",
-        "enterDate": "1150407"
+        "enterDate": "1150407",
+        "serialNumber": 4,
+        "companyId": "4747"
       },
       "detail": {
         "code": 200,
@@ -394,9 +582,9 @@
           ],
           "companyAbbreviation": "強生製藥"
         },
-        "datetime": "115/04/08 15:19:50"
+        "datetime": "115/04/08 16:41:41"
       },
-      "fetched_at_tw": "2026-04-08 15:19:41"
+      "fetched_at_tw": "2026-04-08 16:41:33"
     },
     {
       "key": "1150407|otc|5347|1",
@@ -409,10 +597,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "serialNumber": 1,
-        "companyId": "5347",
         "marketKind": "otc",
-        "enterDate": "1150407"
+        "enterDate": "1150407",
+        "serialNumber": 1,
+        "companyId": "5347"
       },
       "detail": {
         "code": 200,
@@ -488,9 +676,9 @@
           ],
           "companyAbbreviation": "世界"
         },
-        "datetime": "115/04/08 15:19:51"
+        "datetime": "115/04/08 16:41:42"
       },
-      "fetched_at_tw": "2026-04-08 15:19:41"
+      "fetched_at_tw": "2026-04-08 16:41:33"
     },
     {
       "key": "1150407|otc|5347|2",
@@ -503,10 +691,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "serialNumber": 2,
-        "companyId": "5347",
         "marketKind": "otc",
-        "enterDate": "1150407"
+        "enterDate": "1150407",
+        "serialNumber": 2,
+        "companyId": "5347"
       },
       "detail": {
         "code": 200,
@@ -582,9 +770,9 @@
           ],
           "companyAbbreviation": "世界"
         },
-        "datetime": "115/04/08 15:19:52"
+        "datetime": "115/04/08 16:41:43"
       },
-      "fetched_at_tw": "2026-04-08 15:19:41"
+      "fetched_at_tw": "2026-04-08 16:41:33"
     },
     {
       "key": "1150402|otc|6721|2",
@@ -597,10 +785,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "serialNumber": 2,
-        "companyId": "6721",
         "marketKind": "otc",
-        "enterDate": "1150402"
+        "enterDate": "1150402",
+        "serialNumber": 2,
+        "companyId": "6721"
       },
       "detail": {
         "code": 200,
@@ -676,9 +864,9 @@
           ],
           "companyAbbreviation": "信實"
         },
-        "datetime": "115/04/08 15:19:53"
+        "datetime": "115/04/08 16:41:44"
       },
-      "fetched_at_tw": "2026-04-08 15:19:41"
+      "fetched_at_tw": "2026-04-08 16:41:33"
     },
     {
       "key": "1150407|otc|6721|2",
@@ -691,10 +879,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "serialNumber": 2,
-        "companyId": "6721",
         "marketKind": "otc",
-        "enterDate": "1150407"
+        "enterDate": "1150407",
+        "serialNumber": 2,
+        "companyId": "6721"
       },
       "detail": {
         "code": 200,
@@ -770,9 +958,9 @@
           ],
           "companyAbbreviation": "信實"
         },
-        "datetime": "115/04/08 15:19:53"
+        "datetime": "115/04/08 16:41:45"
       },
-      "fetched_at_tw": "2026-04-08 15:19:41"
+      "fetched_at_tw": "2026-04-08 16:41:33"
     },
     {
       "key": "1150402|otc|8299|1",
@@ -785,10 +973,10 @@
         "公司債"
       ],
       "detail_params": {
-        "serialNumber": 1,
-        "companyId": "8299",
         "marketKind": "otc",
-        "enterDate": "1150402"
+        "enterDate": "1150402",
+        "serialNumber": 1,
+        "companyId": "8299"
       },
       "detail": {
         "code": 200,
@@ -864,9 +1052,9 @@
           ],
           "companyAbbreviation": "群聯"
         },
-        "datetime": "115/04/08 15:19:54"
+        "datetime": "115/04/08 16:41:46"
       },
-      "fetched_at_tw": "2026-04-08 15:19:41"
+      "fetched_at_tw": "2026-04-08 16:41:33"
     },
     {
       "key": "1150402|otc|6588|4",
@@ -879,10 +1067,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "serialNumber": 4,
-        "companyId": "6588",
         "marketKind": "otc",
-        "enterDate": "1150402"
+        "enterDate": "1150402",
+        "serialNumber": 4,
+        "companyId": "6588"
       },
       "detail": {
         "code": 200,
@@ -958,9 +1146,103 @@
           ],
           "companyAbbreviation": "東典光電"
         },
-        "datetime": "115/04/08 15:19:55"
+        "datetime": "115/04/08 16:41:46"
       },
-      "fetched_at_tw": "2026-04-08 15:19:41"
+      "fetched_at_tw": "2026-04-08 16:41:33"
+    },
+    {
+      "key": "1150408|otc|6130|2",
+      "speech_date": "115/04/08",
+      "speech_time": "15:24:39",
+      "company_id": "6130",
+      "company_name": "上亞科技",
+      "subject": "(更正3/13)公告本公司不繼續辦理114年度股東會決議通過之私募普通股增資案。",
+      "matched_keywords": [
+        "私募普通股"
+      ],
+      "detail_params": {
+        "marketKind": "otc",
+        "enterDate": "1150408",
+        "serialNumber": 2,
+        "companyId": "6130"
+      },
+      "detail": {
+        "code": 200,
+        "message": "查詢成功",
+        "result": {
+          "marketName": "上櫃公司",
+          "companyId": "6130",
+          "data": [
+            [
+              2,
+              "115/04/08",
+              "15:24:39",
+              "陳奮賢",
+              "董事長特助",
+              "0227132100",
+              "(更正3/13)公告本公司不繼續辦理114年度股東會決議通過\r\n之私募普通股增資案。",
+              "16",
+              "115/03/13",
+              "1.董事會決議變更日期:115/03/13\n2.原計畫申報生效日期:114/06/05\n3.追補發行日期:不適用。\n4.變動原因:本公司於民國114年6月5日通過之私募普通股增資案，\n本公司決定於授權期限屆滿後，未辦理之額度不予辦理(本次更\n正)。\n5.歷次變更前後募集資金計畫:不適用。\n6.預計執行進度:不適用。\n7.預計完成日期:不適用。\n8.預計可能產生效益:不適用。\n9.與原預計效益產生之差異:不適用。\n10.本次變更對股東權益之影響:不適用。\n11.原主辦承銷商評估意見摘要:不適用。\n12.其他應敘明事項:私募實際執行情形將提請115年度股東常會報告。"
+            ]
+          ],
+          "footer": [
+            "以上資料均由各公司依發言當時所屬市場別之規定申報後，由本系統對外公佈，資料如有虛偽不實，均由該公司負責。"
+          ],
+          "header": {
+            "note": [],
+            "subTitle": [],
+            "mainTitle": [
+              "公司當日重大訊息之詳細內容"
+            ]
+          },
+          "titles": [
+            {
+              "main": "序號",
+              "sub": []
+            },
+            {
+              "main": "發言日期",
+              "sub": []
+            },
+            {
+              "main": "發言時間",
+              "sub": []
+            },
+            {
+              "main": "發言人",
+              "sub": []
+            },
+            {
+              "main": "發言人職稱",
+              "sub": []
+            },
+            {
+              "main": "發言人電話",
+              "sub": []
+            },
+            {
+              "main": "主旨",
+              "sub": []
+            },
+            {
+              "main": "符合條款",
+              "sub": []
+            },
+            {
+              "main": "事實發生日",
+              "sub": []
+            },
+            {
+              "main": "說明",
+              "sub": []
+            }
+          ],
+          "companyAbbreviation": "上亞科技"
+        },
+        "datetime": "115/04/08 16:41:47"
+      },
+      "fetched_at_tw": "2026-04-08 16:41:33"
     },
     {
       "key": "1150407|rotc|6775|2",
@@ -973,10 +1255,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "serialNumber": 2,
-        "companyId": "6775",
         "marketKind": "rotc",
-        "enterDate": "1150407"
+        "enterDate": "1150407",
+        "serialNumber": 2,
+        "companyId": "6775"
       },
       "detail": {
         "code": 200,
@@ -1052,9 +1334,9 @@
           ],
           "companyAbbreviation": "穎台科技"
         },
-        "datetime": "115/04/08 15:19:57"
+        "datetime": "115/04/08 16:41:48"
       },
-      "fetched_at_tw": "2026-04-08 15:19:41"
+      "fetched_at_tw": "2026-04-08 16:41:33"
     }
   ]
 }
