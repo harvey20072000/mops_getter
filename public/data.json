@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-04-17 03:14:17",
+    "run_at_tw": "2026-04-17 04:09:29",
     "query": {
       "year": "115",
       "month": "4",
@@ -33,10 +33,10 @@
         "公司債"
       ],
       "detail_params": {
-        "enterDate": "1150416",
         "marketKind": "sii",
         "companyId": "3717",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150416"
       },
       "detail": {
         "code": 200,
@@ -112,9 +112,9 @@
           ],
           "companyAbbreviation": "聯嘉投控"
         },
-        "datetime": "115/04/17 03:14:18"
+        "datetime": "115/04/17 04:09:29"
       },
-      "fetched_at_tw": "2026-04-17 03:14:17"
+      "fetched_at_tw": "2026-04-17 04:09:29"
     },
     {
       "key": "1150416|otc|6246|1",
@@ -127,10 +127,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "enterDate": "1150416",
         "marketKind": "otc",
         "companyId": "6246",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150416"
       },
       "detail": {
         "code": 200,
@@ -206,9 +206,9 @@
           ],
           "companyAbbreviation": "臺龍"
         },
-        "datetime": "115/04/17 03:14:18"
+        "datetime": "115/04/17 04:09:30"
       },
-      "fetched_at_tw": "2026-04-17 03:14:17"
+      "fetched_at_tw": "2026-04-17 04:09:29"
     },
     {
       "key": "1150416|rotc|7794|1",
@@ -221,10 +221,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150416",
         "marketKind": "rotc",
         "companyId": "7794",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150416"
       },
       "detail": {
         "code": 200,
@@ -300,9 +300,9 @@
           ],
           "companyAbbreviation": "宏碁智新"
         },
-        "datetime": "115/04/17 03:14:19"
+        "datetime": "115/04/17 04:09:31"
       },
-      "fetched_at_tw": "2026-04-17 03:14:17"
+      "fetched_at_tw": "2026-04-17 04:09:29"
     }
   ]
 }
