@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-04-17 11:50:35",
+    "run_at_tw": "2026-04-17 14:03:08",
     "query": {
       "year": "115",
       "month": "4",
@@ -17,8 +17,8 @@
       "公司債",
       "庫藏股"
     ],
-    "matched_count": 3,
-    "new_matched_count": 0
+    "matched_count": 4,
+    "new_matched_count": 1
   },
   "items": [
     {
@@ -33,10 +33,10 @@
         "公司債"
       ],
       "detail_params": {
-        "companyId": "3717",
-        "marketKind": "sii",
+        "serialNumber": 1,
         "enterDate": "1150416",
-        "serialNumber": 1
+        "marketKind": "sii",
+        "companyId": "3717"
       },
       "detail": {
         "code": 200,
@@ -70,51 +70,51 @@
           },
           "titles": [
             {
-              "main": "序號",
-              "sub": []
+              "sub": [],
+              "main": "序號"
             },
             {
-              "main": "發言日期",
-              "sub": []
+              "sub": [],
+              "main": "發言日期"
             },
             {
-              "main": "發言時間",
-              "sub": []
+              "sub": [],
+              "main": "發言時間"
             },
             {
-              "main": "發言人",
-              "sub": []
+              "sub": [],
+              "main": "發言人"
             },
             {
-              "main": "發言人職稱",
-              "sub": []
+              "sub": [],
+              "main": "發言人職稱"
             },
             {
-              "main": "發言人電話",
-              "sub": []
+              "sub": [],
+              "main": "發言人電話"
             },
             {
-              "main": "主旨",
-              "sub": []
+              "sub": [],
+              "main": "主旨"
             },
             {
-              "main": "符合條款",
-              "sub": []
+              "sub": [],
+              "main": "符合條款"
             },
             {
-              "main": "事實發生日",
-              "sub": []
+              "sub": [],
+              "main": "事實發生日"
             },
             {
-              "main": "說明",
-              "sub": []
+              "sub": [],
+              "main": "說明"
             }
           ],
           "companyAbbreviation": "聯嘉投控"
         },
-        "datetime": "115/04/17 11:50:37"
+        "datetime": "115/04/17 14:03:10"
       },
-      "fetched_at_tw": "2026-04-17 11:50:35"
+      "fetched_at_tw": "2026-04-17 14:03:08"
     },
     {
       "key": "1150416|otc|6246|1",
@@ -127,10 +127,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "companyId": "6246",
-        "marketKind": "otc",
+        "serialNumber": 1,
         "enterDate": "1150416",
-        "serialNumber": 1
+        "marketKind": "otc",
+        "companyId": "6246"
       },
       "detail": {
         "code": 200,
@@ -164,51 +164,145 @@
           },
           "titles": [
             {
-              "main": "序號",
-              "sub": []
+              "sub": [],
+              "main": "序號"
             },
             {
-              "main": "發言日期",
-              "sub": []
+              "sub": [],
+              "main": "發言日期"
             },
             {
-              "main": "發言時間",
-              "sub": []
+              "sub": [],
+              "main": "發言時間"
             },
             {
-              "main": "發言人",
-              "sub": []
+              "sub": [],
+              "main": "發言人"
             },
             {
-              "main": "發言人職稱",
-              "sub": []
+              "sub": [],
+              "main": "發言人職稱"
             },
             {
-              "main": "發言人電話",
-              "sub": []
+              "sub": [],
+              "main": "發言人電話"
             },
             {
-              "main": "主旨",
-              "sub": []
+              "sub": [],
+              "main": "主旨"
             },
             {
-              "main": "符合條款",
-              "sub": []
+              "sub": [],
+              "main": "符合條款"
             },
             {
-              "main": "事實發生日",
-              "sub": []
+              "sub": [],
+              "main": "事實發生日"
             },
             {
-              "main": "說明",
-              "sub": []
+              "sub": [],
+              "main": "說明"
             }
           ],
           "companyAbbreviation": "臺龍"
         },
-        "datetime": "115/04/17 11:50:38"
+        "datetime": "115/04/17 14:03:11"
       },
-      "fetched_at_tw": "2026-04-17 11:50:35"
+      "fetched_at_tw": "2026-04-17 14:03:08"
+    },
+    {
+      "key": "1150411|otc|5701|1",
+      "speech_date": "115/04/17",
+      "speech_time": "13:58:26",
+      "company_id": "5701",
+      "company_name": "劍湖山",
+      "subject": "公告本公司115年03月份自結合併財務報告之負債比率、流動比率及速動比率。",
+      "matched_keywords": [
+        "自結合併"
+      ],
+      "detail_params": {
+        "serialNumber": 1,
+        "enterDate": "1150411",
+        "marketKind": "otc",
+        "companyId": "5701"
+      },
+      "detail": {
+        "code": 200,
+        "message": "查詢成功",
+        "result": {
+          "marketName": "上櫃公司",
+          "companyId": "5701",
+          "data": [
+            [
+              1,
+              "115/04/17",
+              "13:58:26",
+              "曾慶欑",
+              "總經理",
+              "05-5825789",
+              "公告本公司115年03月份自結合併\r\n財務報告之負債比率、流動比率及速\r\n動比率。",
+              "53",
+              "115/04/17",
+              "1.事實發生日:115/04/17\n2.發生緣由:依財團法人中華民國證券櫃檯買賣中心106/12/7證櫃監字第1060201307號\n函辦理\n3.財務資訊年度月份:115/03\n4.自結流動比率:9.05%\n5.自結速動比率:7.17%\n6.自結負債比率:78.97%\n7.因應措施:於公開資訊觀測站公告相關資訊。\n8.其他應敘明事項:無"
+            ]
+          ],
+          "footer": [
+            "以上資料均由各公司依發言當時所屬市場別之規定申報後，由本系統對外公佈，資料如有虛偽不實，均由該公司負責。"
+          ],
+          "header": {
+            "note": [],
+            "subTitle": [],
+            "mainTitle": [
+              "公司當日重大訊息之詳細內容"
+            ]
+          },
+          "titles": [
+            {
+              "sub": [],
+              "main": "序號"
+            },
+            {
+              "sub": [],
+              "main": "發言日期"
+            },
+            {
+              "sub": [],
+              "main": "發言時間"
+            },
+            {
+              "sub": [],
+              "main": "發言人"
+            },
+            {
+              "sub": [],
+              "main": "發言人職稱"
+            },
+            {
+              "sub": [],
+              "main": "發言人電話"
+            },
+            {
+              "sub": [],
+              "main": "主旨"
+            },
+            {
+              "sub": [],
+              "main": "符合條款"
+            },
+            {
+              "sub": [],
+              "main": "事實發生日"
+            },
+            {
+              "sub": [],
+              "main": "說明"
+            }
+          ],
+          "companyAbbreviation": "劍湖山"
+        },
+        "datetime": "115/04/17 14:03:12"
+      },
+      "fetched_at_tw": "2026-04-17 14:03:08"
     },
     {
       "key": "1150416|rotc|7794|1",
@@ -221,10 +315,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "7794",
-        "marketKind": "rotc",
+        "serialNumber": 1,
         "enterDate": "1150416",
-        "serialNumber": 1
+        "marketKind": "rotc",
+        "companyId": "7794"
       },
       "detail": {
         "code": 200,
@@ -258,51 +352,51 @@
           },
           "titles": [
             {
-              "main": "序號",
-              "sub": []
+              "sub": [],
+              "main": "序號"
             },
             {
-              "main": "發言日期",
-              "sub": []
+              "sub": [],
+              "main": "發言日期"
             },
             {
-              "main": "發言時間",
-              "sub": []
+              "sub": [],
+              "main": "發言時間"
             },
             {
-              "main": "發言人",
-              "sub": []
+              "sub": [],
+              "main": "發言人"
             },
             {
-              "main": "發言人職稱",
-              "sub": []
+              "sub": [],
+              "main": "發言人職稱"
             },
             {
-              "main": "發言人電話",
-              "sub": []
+              "sub": [],
+              "main": "發言人電話"
             },
             {
-              "main": "主旨",
-              "sub": []
+              "sub": [],
+              "main": "主旨"
             },
             {
-              "main": "符合條款",
-              "sub": []
+              "sub": [],
+              "main": "符合條款"
             },
             {
-              "main": "事實發生日",
-              "sub": []
+              "sub": [],
+              "main": "事實發生日"
             },
             {
-              "main": "說明",
-              "sub": []
+              "sub": [],
+              "main": "說明"
             }
           ],
           "companyAbbreviation": "宏碁智新"
         },
-        "datetime": "115/04/17 11:50:40"
+        "datetime": "115/04/17 14:03:13"
       },
-      "fetched_at_tw": "2026-04-17 11:50:35"
+      "fetched_at_tw": "2026-04-17 14:03:08"
     }
   ]
 }
