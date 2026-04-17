@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-04-18 03:37:05",
+    "run_at_tw": "2026-04-18 04:43:03",
     "query": {
       "year": "115",
       "month": "4",
@@ -32,10 +32,10 @@
         "現金增資"
       ],
       "detail_params": {
+        "enterDate": "1150417",
         "marketKind": "sii",
         "companyId": "6271",
-        "serialNumber": 3,
-        "enterDate": "1150417"
+        "serialNumber": 3
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "同欣電"
         },
-        "datetime": "115/04/18 03:37:06"
+        "datetime": "115/04/18 04:43:04"
       },
-      "fetched_at_tw": "2026-04-18 03:37:05"
+      "fetched_at_tw": "2026-04-18 04:43:03"
     },
     {
       "key": "1150417|sii|6515|2",
@@ -126,10 +126,10 @@
         "公司債"
       ],
       "detail_params": {
+        "enterDate": "1150417",
         "marketKind": "sii",
         "companyId": "6515",
-        "serialNumber": 2,
-        "enterDate": "1150417"
+        "serialNumber": 2
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "穎崴"
         },
-        "datetime": "115/04/18 03:37:06"
+        "datetime": "115/04/18 04:43:05"
       },
-      "fetched_at_tw": "2026-04-18 03:37:05"
+      "fetched_at_tw": "2026-04-18 04:43:03"
     },
     {
       "key": "1150417|sii|3545|1",
@@ -220,10 +220,10 @@
         "買回公司股份"
       ],
       "detail_params": {
+        "enterDate": "1150417",
         "marketKind": "sii",
         "companyId": "3545",
-        "serialNumber": 1,
-        "enterDate": "1150417"
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "敦泰"
         },
-        "datetime": "115/04/18 03:37:07"
+        "datetime": "115/04/18 04:43:06"
       },
-      "fetched_at_tw": "2026-04-18 03:37:05"
+      "fetched_at_tw": "2026-04-18 04:43:03"
     },
     {
       "key": "1150417|otc|5386|2",
@@ -314,10 +314,10 @@
         "私募普通股"
       ],
       "detail_params": {
+        "enterDate": "1150417",
         "marketKind": "otc",
         "companyId": "5386",
-        "serialNumber": 2,
-        "enterDate": "1150417"
+        "serialNumber": 2
       },
       "detail": {
         "code": 200,
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "青雲"
         },
-        "datetime": "115/04/18 03:37:08"
+        "datetime": "115/04/18 04:43:06"
       },
-      "fetched_at_tw": "2026-04-18 03:37:05"
+      "fetched_at_tw": "2026-04-18 04:43:03"
     },
     {
       "key": "1150417|rotc|6775|1",
@@ -408,10 +408,10 @@
         "自結合併"
       ],
       "detail_params": {
+        "enterDate": "1150417",
         "marketKind": "rotc",
         "companyId": "6775",
-        "serialNumber": 1,
-        "enterDate": "1150417"
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -487,9 +487,9 @@
           ],
           "companyAbbreviation": "穎台科技"
         },
-        "datetime": "115/04/18 03:37:08"
+        "datetime": "115/04/18 04:43:11"
       },
-      "fetched_at_tw": "2026-04-18 03:37:05"
+      "fetched_at_tw": "2026-04-18 04:43:03"
     }
   ]
 }
