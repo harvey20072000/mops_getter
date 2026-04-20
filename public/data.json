@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-04-21 04:09:38",
+    "run_at_tw": "2026-04-21 05:10:39",
     "query": {
       "year": "115",
       "month": "4",
@@ -32,10 +32,10 @@
         "公司債"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "2885",
         "serialNumber": 1,
-        "enterDate": "1150420"
+        "enterDate": "1150420",
+        "marketKind": "sii",
+        "companyId": "2885"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "元大金"
         },
-        "datetime": "115/04/21 04:09:40"
+        "datetime": "115/04/21 05:10:41"
       },
-      "fetched_at_tw": "2026-04-21 04:09:38"
+      "fetched_at_tw": "2026-04-21 05:10:39"
     },
     {
       "key": "1150420|sii|2891|5",
@@ -126,10 +126,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "2891",
         "serialNumber": 5,
-        "enterDate": "1150420"
+        "enterDate": "1150420",
+        "marketKind": "sii",
+        "companyId": "2891"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "中信金"
         },
-        "datetime": "115/04/21 04:09:41"
+        "datetime": "115/04/21 05:10:41"
       },
-      "fetched_at_tw": "2026-04-21 04:09:38"
+      "fetched_at_tw": "2026-04-21 05:10:39"
     },
     {
       "key": "1150420|otc|6187|1",
@@ -220,10 +220,10 @@
         "公司債"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "6187",
         "serialNumber": 1,
-        "enterDate": "1150420"
+        "enterDate": "1150420",
+        "marketKind": "otc",
+        "companyId": "6187"
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "萬潤"
         },
-        "datetime": "115/04/21 04:09:41"
+        "datetime": "115/04/21 05:10:42"
       },
-      "fetched_at_tw": "2026-04-21 04:09:38"
+      "fetched_at_tw": "2026-04-21 05:10:39"
     },
     {
       "key": "1150420|otc|5227|1",
@@ -314,10 +314,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "5227",
         "serialNumber": 1,
-        "enterDate": "1150420"
+        "enterDate": "1150420",
+        "marketKind": "otc",
+        "companyId": "5227"
       },
       "detail": {
         "code": 200,
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "立凱-KY"
         },
-        "datetime": "115/04/21 04:09:42"
+        "datetime": "115/04/21 05:10:43"
       },
-      "fetched_at_tw": "2026-04-21 04:09:38"
+      "fetched_at_tw": "2026-04-21 05:10:39"
     },
     {
       "key": "1150420|rotc|7803|1",
@@ -408,10 +408,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "companyId": "7803",
         "serialNumber": 1,
-        "enterDate": "1150420"
+        "enterDate": "1150420",
+        "marketKind": "rotc",
+        "companyId": "7803"
       },
       "detail": {
         "code": 200,
@@ -487,9 +487,9 @@
           ],
           "companyAbbreviation": "雲象科技"
         },
-        "datetime": "115/04/21 04:09:43"
+        "datetime": "115/04/21 05:10:44"
       },
-      "fetched_at_tw": "2026-04-21 04:09:38"
+      "fetched_at_tw": "2026-04-21 05:10:39"
     },
     {
       "key": "1150419|rotc|7857|1",
@@ -502,10 +502,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "companyId": "7857",
         "serialNumber": 1,
-        "enterDate": "1150419"
+        "enterDate": "1150419",
+        "marketKind": "rotc",
+        "companyId": "7857"
       },
       "detail": {
         "code": 200,
@@ -581,9 +581,9 @@
           ],
           "companyAbbreviation": "合水先進"
         },
-        "datetime": "115/04/21 04:09:44"
+        "datetime": "115/04/21 05:10:45"
       },
-      "fetched_at_tw": "2026-04-21 04:09:38"
+      "fetched_at_tw": "2026-04-21 05:10:39"
     },
     {
       "key": "1150420|rotc|6707|1",
@@ -596,10 +596,10 @@
         "自結合併"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "companyId": "6707",
         "serialNumber": 1,
-        "enterDate": "1150420"
+        "enterDate": "1150420",
+        "marketKind": "rotc",
+        "companyId": "6707"
       },
       "detail": {
         "code": 200,
@@ -675,9 +675,9 @@
           ],
           "companyAbbreviation": "富基電通"
         },
-        "datetime": "115/04/21 04:09:45"
+        "datetime": "115/04/21 05:10:45"
       },
-      "fetched_at_tw": "2026-04-21 04:09:38"
+      "fetched_at_tw": "2026-04-21 05:10:39"
     },
     {
       "key": "1150420|pub|6623|1",
@@ -690,10 +690,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "marketKind": "pub",
-        "companyId": "6623",
         "serialNumber": 1,
-        "enterDate": "1150420"
+        "enterDate": "1150420",
+        "marketKind": "pub",
+        "companyId": "6623"
       },
       "detail": {
         "code": 200,
@@ -769,9 +769,9 @@
           ],
           "companyAbbreviation": "施吉生技"
         },
-        "datetime": "115/04/21 04:09:46"
+        "datetime": "115/04/21 05:10:46"
       },
-      "fetched_at_tw": "2026-04-21 04:09:38"
+      "fetched_at_tw": "2026-04-21 05:10:39"
     }
   ]
 }
