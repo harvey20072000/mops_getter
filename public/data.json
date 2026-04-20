@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-04-20 18:14:51",
+    "run_at_tw": "2026-04-20 19:51:12",
     "query": {
       "year": "115",
       "month": "4",
@@ -17,8 +17,8 @@
       "公司債",
       "庫藏股"
     ],
-    "matched_count": 21,
-    "new_matched_count": 12
+    "matched_count": 24,
+    "new_matched_count": 3
   },
   "items": [
     {
@@ -32,10 +32,10 @@
         "公司債"
       ],
       "detail_params": {
+        "serialNumber": 1,
         "enterDate": "1150420",
         "marketKind": "sii",
-        "companyId": "5284",
-        "serialNumber": 1
+        "companyId": "5284"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "jpp-KY"
         },
-        "datetime": "115/04/20 18:14:54"
+        "datetime": "115/04/20 19:51:14"
       },
-      "fetched_at_tw": "2026-04-20 18:14:51"
+      "fetched_at_tw": "2026-04-20 19:51:12"
     },
     {
       "key": "1150414|sii|3027|2",
@@ -126,10 +126,10 @@
         "自結合併"
       ],
       "detail_params": {
+        "serialNumber": 2,
         "enterDate": "1150414",
         "marketKind": "sii",
-        "companyId": "3027",
-        "serialNumber": 2
+        "companyId": "3027"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "盛達"
         },
-        "datetime": "115/04/20 18:14:54"
+        "datetime": "115/04/20 19:51:15"
       },
-      "fetched_at_tw": "2026-04-20 18:14:51"
+      "fetched_at_tw": "2026-04-20 19:51:12"
     },
     {
       "key": "1150420|sii|6168|1",
@@ -220,10 +220,10 @@
         "庫藏股"
       ],
       "detail_params": {
+        "serialNumber": 1,
         "enterDate": "1150420",
         "marketKind": "sii",
-        "companyId": "6168",
-        "serialNumber": 1
+        "companyId": "6168"
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "宏齊"
         },
-        "datetime": "115/04/20 18:14:55"
+        "datetime": "115/04/20 19:51:16"
       },
-      "fetched_at_tw": "2026-04-20 18:14:51"
+      "fetched_at_tw": "2026-04-20 19:51:12"
     },
     {
       "key": "1150420|sii|3008|2",
@@ -314,10 +314,10 @@
         "庫藏股"
       ],
       "detail_params": {
+        "serialNumber": 2,
         "enterDate": "1150420",
         "marketKind": "sii",
-        "companyId": "3008",
-        "serialNumber": 2
+        "companyId": "3008"
       },
       "detail": {
         "code": 200,
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "大立光"
         },
-        "datetime": "115/04/20 18:14:56"
+        "datetime": "115/04/20 19:51:17"
       },
-      "fetched_at_tw": "2026-04-20 18:14:51"
+      "fetched_at_tw": "2026-04-20 19:51:12"
     },
     {
       "key": "1150420|sii|1402|1",
@@ -408,10 +408,10 @@
         "公司債"
       ],
       "detail_params": {
+        "serialNumber": 1,
         "enterDate": "1150420",
         "marketKind": "sii",
-        "companyId": "1402",
-        "serialNumber": 1
+        "companyId": "1402"
       },
       "detail": {
         "code": 200,
@@ -487,9 +487,9 @@
           ],
           "companyAbbreviation": "遠東新"
         },
-        "datetime": "115/04/20 18:14:59"
+        "datetime": "115/04/20 19:51:17"
       },
-      "fetched_at_tw": "2026-04-20 18:14:51"
+      "fetched_at_tw": "2026-04-20 19:51:12"
     },
     {
       "key": "1150420|sii|2885|1",
@@ -502,10 +502,10 @@
         "公司債"
       ],
       "detail_params": {
+        "serialNumber": 1,
         "enterDate": "1150420",
         "marketKind": "sii",
-        "companyId": "2885",
-        "serialNumber": 1
+        "companyId": "2885"
       },
       "detail": {
         "code": 200,
@@ -581,9 +581,9 @@
           ],
           "companyAbbreviation": "元大金"
         },
-        "datetime": "115/04/20 18:15:04"
+        "datetime": "115/04/20 19:51:18"
       },
-      "fetched_at_tw": "2026-04-20 18:14:51"
+      "fetched_at_tw": "2026-04-20 19:51:12"
     },
     {
       "key": "1150420|sii|2891|5",
@@ -596,10 +596,10 @@
         "現金增資"
       ],
       "detail_params": {
+        "serialNumber": 5,
         "enterDate": "1150420",
         "marketKind": "sii",
-        "companyId": "2891",
-        "serialNumber": 5
+        "companyId": "2891"
       },
       "detail": {
         "code": 200,
@@ -675,9 +675,9 @@
           ],
           "companyAbbreviation": "中信金"
         },
-        "datetime": "115/04/20 18:15:05"
+        "datetime": "115/04/20 19:51:19"
       },
-      "fetched_at_tw": "2026-04-20 18:14:51"
+      "fetched_at_tw": "2026-04-20 19:51:12"
     },
     {
       "key": "1150420|otc|3073|2",
@@ -690,10 +690,10 @@
         "自結合併"
       ],
       "detail_params": {
+        "serialNumber": 2,
         "enterDate": "1150420",
         "marketKind": "otc",
-        "companyId": "3073",
-        "serialNumber": 2
+        "companyId": "3073"
       },
       "detail": {
         "code": 200,
@@ -769,9 +769,9 @@
           ],
           "companyAbbreviation": "天方能源"
         },
-        "datetime": "115/04/20 18:15:06"
+        "datetime": "115/04/20 19:51:20"
       },
-      "fetched_at_tw": "2026-04-20 18:14:51"
+      "fetched_at_tw": "2026-04-20 19:51:12"
     },
     {
       "key": "1150420|otc|6023|1",
@@ -784,10 +784,10 @@
         "公司債"
       ],
       "detail_params": {
+        "serialNumber": 1,
         "enterDate": "1150420",
         "marketKind": "otc",
-        "companyId": "6023",
-        "serialNumber": 1
+        "companyId": "6023"
       },
       "detail": {
         "code": 200,
@@ -863,9 +863,9 @@
           ],
           "companyAbbreviation": "元大期貨"
         },
-        "datetime": "115/04/20 18:15:07"
+        "datetime": "115/04/20 19:51:20"
       },
-      "fetched_at_tw": "2026-04-20 18:14:51"
+      "fetched_at_tw": "2026-04-20 19:51:12"
     },
     {
       "key": "1150420|otc|4503|1",
@@ -878,10 +878,10 @@
         "公司債"
       ],
       "detail_params": {
+        "serialNumber": 1,
         "enterDate": "1150420",
         "marketKind": "otc",
-        "companyId": "4503",
-        "serialNumber": 1
+        "companyId": "4503"
       },
       "detail": {
         "code": 200,
@@ -957,9 +957,9 @@
           ],
           "companyAbbreviation": "金雨"
         },
-        "datetime": "115/04/20 18:15:09"
+        "datetime": "115/04/20 19:51:21"
       },
-      "fetched_at_tw": "2026-04-20 18:14:51"
+      "fetched_at_tw": "2026-04-20 19:51:12"
     },
     {
       "key": "1150420|otc|4147|1",
@@ -972,10 +972,10 @@
         "庫藏股"
       ],
       "detail_params": {
+        "serialNumber": 1,
         "enterDate": "1150420",
         "marketKind": "otc",
-        "companyId": "4147",
-        "serialNumber": 1
+        "companyId": "4147"
       },
       "detail": {
         "code": 200,
@@ -1051,9 +1051,103 @@
           ],
           "companyAbbreviation": "中裕"
         },
-        "datetime": "115/04/20 18:15:10"
+        "datetime": "115/04/20 19:51:22"
       },
-      "fetched_at_tw": "2026-04-20 18:14:51"
+      "fetched_at_tw": "2026-04-20 19:51:12"
+    },
+    {
+      "key": "1150420|otc|6187|1",
+      "speech_date": "115/04/20",
+      "speech_time": "18:30:24",
+      "company_id": "6187",
+      "company_name": "萬潤",
+      "subject": "本公司可轉換公司債萬潤五(代號:61875)近期達公布注意交易資訊標準，故公告相關訊息，以利投資人區別瞭解",
+      "matched_keywords": [
+        "公司債"
+      ],
+      "detail_params": {
+        "serialNumber": 1,
+        "enterDate": "1150420",
+        "marketKind": "otc",
+        "companyId": "6187"
+      },
+      "detail": {
+        "code": 200,
+        "message": "查詢成功",
+        "result": {
+          "marketName": "上櫃公司",
+          "companyId": "6187",
+          "data": [
+            [
+              1,
+              "115/04/20",
+              "18:30:24",
+              "盧慧萱",
+              "董事長特助",
+              "(07)607-1828",
+              "本公司可轉換公司債萬潤五(代號:61875)近期達公布\r\n注意交易資訊標準，故公告相關訊息，以利投資人區別瞭解",
+              "53",
+              "115/04/20",
+              "1.事實發生日:115/04/20\n2.發生緣由:依證券櫃檯買賣中心通知辦理\n3.財務業務資訊:\n萬潤五(61875)可轉債相關資訊\n到期日期:116/07/10\n實際發行總額:500,000,000\n本月發行餘額:79,600,000(截至115/03/31)\n最新轉(交)換價格:276.8(自114/07/28生效)\n可轉換標的收市價格(6187):1,225(115/04/20)\n可轉債收市價格(61875):441(115/04/20)\n4.有無「財團法人中華民國證券櫃檯買賣中心對有價證券上櫃公司\n重大訊息之查證暨公開處理程序 」第4條所列重大訊息之情事（如\n「有」，請說明）:無\n5.有無「財團法人中華民國證券櫃檯買賣中心對有價證券上櫃公司\n重大訊息之查證暨公開處理程序」第11條所列重大訊息說明記者會\n之情事:無\n6.其他應敘明事項:無"
+            ]
+          ],
+          "footer": [
+            "以上資料均由各公司依發言當時所屬市場別之規定申報後，由本系統對外公佈，資料如有虛偽不實，均由該公司負責。"
+          ],
+          "header": {
+            "note": [],
+            "subTitle": [],
+            "mainTitle": [
+              "公司當日重大訊息之詳細內容"
+            ]
+          },
+          "titles": [
+            {
+              "sub": [],
+              "main": "序號"
+            },
+            {
+              "sub": [],
+              "main": "發言日期"
+            },
+            {
+              "sub": [],
+              "main": "發言時間"
+            },
+            {
+              "sub": [],
+              "main": "發言人"
+            },
+            {
+              "sub": [],
+              "main": "發言人職稱"
+            },
+            {
+              "sub": [],
+              "main": "發言人電話"
+            },
+            {
+              "sub": [],
+              "main": "主旨"
+            },
+            {
+              "sub": [],
+              "main": "符合條款"
+            },
+            {
+              "sub": [],
+              "main": "事實發生日"
+            },
+            {
+              "sub": [],
+              "main": "說明"
+            }
+          ],
+          "companyAbbreviation": "萬潤"
+        },
+        "datetime": "115/04/20 19:51:23"
+      },
+      "fetched_at_tw": "2026-04-20 19:51:12"
     },
     {
       "key": "1150420|rotc|7842|1",
@@ -1066,10 +1160,10 @@
         "現金增資"
       ],
       "detail_params": {
+        "serialNumber": 1,
         "enterDate": "1150420",
         "marketKind": "rotc",
-        "companyId": "7842",
-        "serialNumber": 1
+        "companyId": "7842"
       },
       "detail": {
         "code": 200,
@@ -1145,9 +1239,9 @@
           ],
           "companyAbbreviation": "天能綠電"
         },
-        "datetime": "115/04/20 18:15:11"
+        "datetime": "115/04/20 19:51:23"
       },
-      "fetched_at_tw": "2026-04-20 18:14:51"
+      "fetched_at_tw": "2026-04-20 19:51:12"
     },
     {
       "key": "1150420|rotc|7842|3",
@@ -1160,10 +1254,10 @@
         "現金增資"
       ],
       "detail_params": {
+        "serialNumber": 3,
         "enterDate": "1150420",
         "marketKind": "rotc",
-        "companyId": "7842",
-        "serialNumber": 3
+        "companyId": "7842"
       },
       "detail": {
         "code": 200,
@@ -1239,9 +1333,9 @@
           ],
           "companyAbbreviation": "天能綠電"
         },
-        "datetime": "115/04/20 18:15:16"
+        "datetime": "115/04/20 19:51:24"
       },
-      "fetched_at_tw": "2026-04-20 18:14:51"
+      "fetched_at_tw": "2026-04-20 19:51:12"
     },
     {
       "key": "1150420|rotc|6543|1",
@@ -1254,10 +1348,10 @@
         "現金增資"
       ],
       "detail_params": {
+        "serialNumber": 1,
         "enterDate": "1150420",
         "marketKind": "rotc",
-        "companyId": "6543",
-        "serialNumber": 1
+        "companyId": "6543"
       },
       "detail": {
         "code": 200,
@@ -1333,9 +1427,9 @@
           ],
           "companyAbbreviation": "普惠醫工"
         },
-        "datetime": "115/04/20 18:15:16"
+        "datetime": "115/04/20 19:51:25"
       },
-      "fetched_at_tw": "2026-04-20 18:14:51"
+      "fetched_at_tw": "2026-04-20 19:51:12"
     },
     {
       "key": "1150420|rotc|7729|1",
@@ -1348,10 +1442,10 @@
         "現金增資"
       ],
       "detail_params": {
+        "serialNumber": 1,
         "enterDate": "1150420",
         "marketKind": "rotc",
-        "companyId": "7729",
-        "serialNumber": 1
+        "companyId": "7729"
       },
       "detail": {
         "code": 200,
@@ -1427,9 +1521,9 @@
           ],
           "companyAbbreviation": "仲恩生醫"
         },
-        "datetime": "115/04/20 18:15:17"
+        "datetime": "115/04/20 19:51:26"
       },
-      "fetched_at_tw": "2026-04-20 18:14:51"
+      "fetched_at_tw": "2026-04-20 19:51:12"
     },
     {
       "key": "1150420|rotc|7828|2",
@@ -1442,10 +1536,10 @@
         "現金增資"
       ],
       "detail_params": {
+        "serialNumber": 2,
         "enterDate": "1150420",
         "marketKind": "rotc",
-        "companyId": "7828",
-        "serialNumber": 2
+        "companyId": "7828"
       },
       "detail": {
         "code": 200,
@@ -1521,9 +1615,9 @@
           ],
           "companyAbbreviation": "創新服務"
         },
-        "datetime": "115/04/20 18:15:20"
+        "datetime": "115/04/20 19:51:27"
       },
-      "fetched_at_tw": "2026-04-20 18:14:51"
+      "fetched_at_tw": "2026-04-20 19:51:12"
     },
     {
       "key": "1150420|rotc|7828|3",
@@ -1536,10 +1630,10 @@
         "現金增資"
       ],
       "detail_params": {
+        "serialNumber": 3,
         "enterDate": "1150420",
         "marketKind": "rotc",
-        "companyId": "7828",
-        "serialNumber": 3
+        "companyId": "7828"
       },
       "detail": {
         "code": 200,
@@ -1615,9 +1709,9 @@
           ],
           "companyAbbreviation": "創新服務"
         },
-        "datetime": "115/04/20 18:15:20"
+        "datetime": "115/04/20 19:51:28"
       },
-      "fetched_at_tw": "2026-04-20 18:14:51"
+      "fetched_at_tw": "2026-04-20 19:51:12"
     },
     {
       "key": "1150420|rotc|4195|2",
@@ -1630,10 +1724,10 @@
         "現金增資"
       ],
       "detail_params": {
+        "serialNumber": 2,
         "enterDate": "1150420",
         "marketKind": "rotc",
-        "companyId": "4195",
-        "serialNumber": 2
+        "companyId": "4195"
       },
       "detail": {
         "code": 200,
@@ -1709,9 +1803,9 @@
           ],
           "companyAbbreviation": "基米"
         },
-        "datetime": "115/04/20 18:15:21"
+        "datetime": "115/04/20 19:51:29"
       },
-      "fetched_at_tw": "2026-04-20 18:14:51"
+      "fetched_at_tw": "2026-04-20 19:51:12"
     },
     {
       "key": "1150420|rotc|7803|1",
@@ -1724,10 +1818,10 @@
         "現金增資"
       ],
       "detail_params": {
+        "serialNumber": 1,
         "enterDate": "1150420",
         "marketKind": "rotc",
-        "companyId": "7803",
-        "serialNumber": 1
+        "companyId": "7803"
       },
       "detail": {
         "code": 200,
@@ -1803,9 +1897,197 @@
           ],
           "companyAbbreviation": "雲象科技"
         },
-        "datetime": "115/04/20 18:15:22"
+        "datetime": "115/04/20 19:51:30"
       },
-      "fetched_at_tw": "2026-04-20 18:14:51"
+      "fetched_at_tw": "2026-04-20 19:51:12"
+    },
+    {
+      "key": "1150419|rotc|7857|1",
+      "speech_date": "115/04/20",
+      "speech_time": "19:01:18",
+      "company_id": "7857",
+      "company_name": "合水先進",
+      "subject": "公告本公司114年現金增資收足股款暨訂定增資基準日",
+      "matched_keywords": [
+        "現金增資"
+      ],
+      "detail_params": {
+        "serialNumber": 1,
+        "enterDate": "1150419",
+        "marketKind": "rotc",
+        "companyId": "7857"
+      },
+      "detail": {
+        "code": 200,
+        "message": "查詢成功",
+        "result": {
+          "marketName": "興櫃公司",
+          "companyId": "7857",
+          "data": [
+            [
+              1,
+              "115/04/20",
+              "19:01:18",
+              "陳劭杰",
+              "財務長",
+              "(02)2758-1455",
+              "公告本公司114年現金增資收足股款暨訂定增資基準日",
+              "44",
+              "115/04/20",
+              "1.事實發生日:115/04/20\n2.公司名稱:合水先進環境技術股份有限公司\n3.與公司關係(請輸入本公司或子公司):本公司\n4.相互持股比例:不適用\n5.發生緣由:依據「發行人募集與發行有價證券處理準則」規定辦理公告。\n6.因應措施:無\n7.其他應敘明事項(若事件發生或決議之主體係屬公開發行以上公司，\n本則重大訊息同時符合證券交易法施行細則第7條第9款所定\n對股東權益或證券價格有重大影響之事項):\n(1)本公司114年現金增資總發行股數7,855,599股，每股發行價格新台幣\n   49元整，實收股款總金額為新台幣384,924,351元，業已全數收足。\n(2)現金增資基準日：115年04月20日。"
+            ]
+          ],
+          "footer": [
+            "以上資料均由各公司依發言當時所屬市場別之規定申報後，由本系統對外公佈，資料如有虛偽不實，均由該公司負責。"
+          ],
+          "header": {
+            "note": [],
+            "subTitle": [],
+            "mainTitle": [
+              "公司當日重大訊息之詳細內容"
+            ]
+          },
+          "titles": [
+            {
+              "sub": [],
+              "main": "序號"
+            },
+            {
+              "sub": [],
+              "main": "發言日期"
+            },
+            {
+              "sub": [],
+              "main": "發言時間"
+            },
+            {
+              "sub": [],
+              "main": "發言人"
+            },
+            {
+              "sub": [],
+              "main": "發言人職稱"
+            },
+            {
+              "sub": [],
+              "main": "發言人電話"
+            },
+            {
+              "sub": [],
+              "main": "主旨"
+            },
+            {
+              "sub": [],
+              "main": "符合條款"
+            },
+            {
+              "sub": [],
+              "main": "事實發生日"
+            },
+            {
+              "sub": [],
+              "main": "說明"
+            }
+          ],
+          "companyAbbreviation": "合水先進"
+        },
+        "datetime": "115/04/20 19:51:31"
+      },
+      "fetched_at_tw": "2026-04-20 19:51:12"
+    },
+    {
+      "key": "1150420|rotc|6707|1",
+      "speech_date": "115/04/20",
+      "speech_time": "19:14:12",
+      "company_id": "6707",
+      "company_name": "富基電通",
+      "subject": "公告本公司115年3月份自結合併財務報表之負債比率、流動比率及速動比率",
+      "matched_keywords": [
+        "自結合併"
+      ],
+      "detail_params": {
+        "serialNumber": 1,
+        "enterDate": "1150420",
+        "marketKind": "rotc",
+        "companyId": "6707"
+      },
+      "detail": {
+        "code": 200,
+        "message": "查詢成功",
+        "result": {
+          "marketName": "興櫃公司",
+          "companyId": "6707",
+          "data": [
+            [
+              1,
+              "115/04/20",
+              "19:14:12",
+              "林品杰",
+              "董事長特助",
+              "02-27888099",
+              "公告本公司115年3月份自結合併財務報表之負債比率、流動\r\n比率及速動比率",
+              "44",
+              "115/04/20",
+              "1.事實發生日:115/04/20\n2.發生緣由:依證券櫃檯買賣中心證櫃審字第1110101554號函辦理\n3.財務資訊年度月份:115/03\n4.自結流動比率:119.36%\n5.自結速動比率:90.71%\n6.自結負債比率:82.24%\n7.因應措施:每月底前公告自結合併財務報表截至前一月底之負債\n          比率、流動比率及速動比率。\n8.其他應敘明事項:無。"
+            ]
+          ],
+          "footer": [
+            "以上資料均由各公司依發言當時所屬市場別之規定申報後，由本系統對外公佈，資料如有虛偽不實，均由該公司負責。"
+          ],
+          "header": {
+            "note": [],
+            "subTitle": [],
+            "mainTitle": [
+              "公司當日重大訊息之詳細內容"
+            ]
+          },
+          "titles": [
+            {
+              "sub": [],
+              "main": "序號"
+            },
+            {
+              "sub": [],
+              "main": "發言日期"
+            },
+            {
+              "sub": [],
+              "main": "發言時間"
+            },
+            {
+              "sub": [],
+              "main": "發言人"
+            },
+            {
+              "sub": [],
+              "main": "發言人職稱"
+            },
+            {
+              "sub": [],
+              "main": "發言人電話"
+            },
+            {
+              "sub": [],
+              "main": "主旨"
+            },
+            {
+              "sub": [],
+              "main": "符合條款"
+            },
+            {
+              "sub": [],
+              "main": "事實發生日"
+            },
+            {
+              "sub": [],
+              "main": "說明"
+            }
+          ],
+          "companyAbbreviation": "富基電通"
+        },
+        "datetime": "115/04/20 19:51:31"
+      },
+      "fetched_at_tw": "2026-04-20 19:51:12"
     },
     {
       "key": "1150417|pub|4132|1",
@@ -1818,10 +2100,10 @@
         "私募普通股"
       ],
       "detail_params": {
+        "serialNumber": 1,
         "enterDate": "1150417",
         "marketKind": "pub",
-        "companyId": "4132",
-        "serialNumber": 1
+        "companyId": "4132"
       },
       "detail": {
         "code": 200,
@@ -1897,9 +2179,9 @@
           ],
           "companyAbbreviation": "國鼎"
         },
-        "datetime": "115/04/20 18:15:22"
+        "datetime": "115/04/20 19:51:32"
       },
-      "fetched_at_tw": "2026-04-20 18:14:51"
+      "fetched_at_tw": "2026-04-20 19:51:12"
     },
     {
       "key": "1150420|pub|6623|1",
@@ -1912,10 +2194,10 @@
         "私募普通股"
       ],
       "detail_params": {
+        "serialNumber": 1,
         "enterDate": "1150420",
         "marketKind": "pub",
-        "companyId": "6623",
-        "serialNumber": 1
+        "companyId": "6623"
       },
       "detail": {
         "code": 200,
@@ -1991,9 +2273,9 @@
           ],
           "companyAbbreviation": "施吉生技"
         },
-        "datetime": "115/04/20 18:15:24"
+        "datetime": "115/04/20 19:51:33"
       },
-      "fetched_at_tw": "2026-04-20 18:14:51"
+      "fetched_at_tw": "2026-04-20 19:51:12"
     }
   ]
 }
