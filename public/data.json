@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-04-23 06:10:30",
+    "run_at_tw": "2026-04-23 07:25:19",
     "query": {
       "year": "115",
       "month": "4",
@@ -32,10 +32,10 @@
         "廠務設備"
       ],
       "detail_params": {
-        "enterDate": "1150422",
         "marketKind": "sii",
         "companyId": "2408",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150422"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "南亞科"
         },
-        "datetime": "115/04/23 06:10:32"
+        "datetime": "115/04/23 07:25:23"
       },
-      "fetched_at_tw": "2026-04-23 06:10:30"
+      "fetched_at_tw": "2026-04-23 07:25:19"
     },
     {
       "key": "1150422|sii|6715|1",
@@ -126,10 +126,10 @@
         "公司債"
       ],
       "detail_params": {
-        "enterDate": "1150422",
         "marketKind": "sii",
         "companyId": "6715",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150422"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "嘉基"
         },
-        "datetime": "115/04/23 06:10:32"
+        "datetime": "115/04/23 07:25:24"
       },
-      "fetched_at_tw": "2026-04-23 06:10:30"
+      "fetched_at_tw": "2026-04-23 07:25:19"
     },
     {
       "key": "1150422|sii|3049|1",
@@ -220,10 +220,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "enterDate": "1150422",
         "marketKind": "sii",
         "companyId": "3049",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150422"
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "精金"
         },
-        "datetime": "115/04/23 06:10:33"
+        "datetime": "115/04/23 07:25:25"
       },
-      "fetched_at_tw": "2026-04-23 06:10:30"
+      "fetched_at_tw": "2026-04-23 07:25:19"
     },
     {
       "key": "1150422|sii|6541|6",
@@ -315,10 +315,10 @@
         "公司債"
       ],
       "detail_params": {
-        "enterDate": "1150422",
         "marketKind": "sii",
         "companyId": "6541",
-        "serialNumber": 6
+        "serialNumber": 6,
+        "enterDate": "1150422"
       },
       "detail": {
         "code": 200,
@@ -394,9 +394,9 @@
           ],
           "companyAbbreviation": "泰福-KY"
         },
-        "datetime": "115/04/23 06:10:33"
+        "datetime": "115/04/23 07:25:26"
       },
-      "fetched_at_tw": "2026-04-23 06:10:30"
+      "fetched_at_tw": "2026-04-23 07:25:19"
     },
     {
       "key": "1150422|sii|6541|7",
@@ -410,10 +410,10 @@
         "公司債"
       ],
       "detail_params": {
-        "enterDate": "1150422",
         "marketKind": "sii",
         "companyId": "6541",
-        "serialNumber": 7
+        "serialNumber": 7,
+        "enterDate": "1150422"
       },
       "detail": {
         "code": 200,
@@ -489,9 +489,9 @@
           ],
           "companyAbbreviation": "泰福-KY"
         },
-        "datetime": "115/04/23 06:10:34"
+        "datetime": "115/04/23 07:25:27"
       },
-      "fetched_at_tw": "2026-04-23 06:10:30"
+      "fetched_at_tw": "2026-04-23 07:25:19"
     }
   ]
 }
