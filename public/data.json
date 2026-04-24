@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-04-24 21:23:39",
+    "run_at_tw": "2026-04-24 22:53:04",
     "query": {
       "year": "115",
       "month": "4",
@@ -32,10 +32,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "2424",
         "serialNumber": 1,
-        "enterDate": "1150423"
+        "enterDate": "1150423",
+        "marketKind": "sii",
+        "companyId": "2424"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "隴華"
         },
-        "datetime": "115/04/24 21:23:42"
+        "datetime": "115/04/24 22:53:07"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150423|sii|2882|1",
@@ -126,10 +126,10 @@
         "公司債"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "2882",
         "serialNumber": 1,
-        "enterDate": "1150423"
+        "enterDate": "1150423",
+        "marketKind": "sii",
+        "companyId": "2882"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "國泰金"
         },
-        "datetime": "115/04/24 21:23:43"
+        "datetime": "115/04/24 22:53:08"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150424|sii|8021|1",
@@ -220,10 +220,10 @@
         "公司債"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "8021",
         "serialNumber": 1,
-        "enterDate": "1150424"
+        "enterDate": "1150424",
+        "marketKind": "sii",
+        "companyId": "8021"
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "尖點"
         },
-        "datetime": "115/04/24 21:23:43"
+        "datetime": "115/04/24 22:53:09"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150424|sii|2017|1",
@@ -314,10 +314,10 @@
         "自結合併"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "2017",
         "serialNumber": 1,
-        "enterDate": "1150424"
+        "enterDate": "1150424",
+        "marketKind": "sii",
+        "companyId": "2017"
       },
       "detail": {
         "code": 200,
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "官田鋼"
         },
-        "datetime": "115/04/24 21:23:45"
+        "datetime": "115/04/24 22:53:09"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150420|sii|6873|1",
@@ -408,10 +408,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "6873",
         "serialNumber": 1,
-        "enterDate": "1150420"
+        "enterDate": "1150420",
+        "marketKind": "sii",
+        "companyId": "6873"
       },
       "detail": {
         "code": 200,
@@ -487,9 +487,9 @@
           ],
           "companyAbbreviation": "泓德能源"
         },
-        "datetime": "115/04/24 21:23:46"
+        "datetime": "115/04/24 22:53:10"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150423|sii|6873|1",
@@ -502,10 +502,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "6873",
         "serialNumber": 1,
-        "enterDate": "1150423"
+        "enterDate": "1150423",
+        "marketKind": "sii",
+        "companyId": "6873"
       },
       "detail": {
         "code": 200,
@@ -581,9 +581,9 @@
           ],
           "companyAbbreviation": "泓德能源"
         },
-        "datetime": "115/04/24 21:23:47"
+        "datetime": "115/04/24 22:53:11"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150424|sii|6442|1",
@@ -596,10 +596,10 @@
         "公司債"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "6442",
         "serialNumber": 1,
-        "enterDate": "1150424"
+        "enterDate": "1150424",
+        "marketKind": "sii",
+        "companyId": "6442"
       },
       "detail": {
         "code": 200,
@@ -675,9 +675,9 @@
           ],
           "companyAbbreviation": "光聖"
         },
-        "datetime": "115/04/24 21:23:47"
+        "datetime": "115/04/24 22:53:11"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150424|sii|8163|5",
@@ -690,10 +690,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "8163",
         "serialNumber": 5,
-        "enterDate": "1150424"
+        "enterDate": "1150424",
+        "marketKind": "sii",
+        "companyId": "8163"
       },
       "detail": {
         "code": 200,
@@ -769,9 +769,9 @@
           ],
           "companyAbbreviation": "達方"
         },
-        "datetime": "115/04/24 21:23:48"
+        "datetime": "115/04/24 22:53:12"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150424|sii|8163|6",
@@ -784,10 +784,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "8163",
         "serialNumber": 6,
-        "enterDate": "1150424"
+        "enterDate": "1150424",
+        "marketKind": "sii",
+        "companyId": "8163"
       },
       "detail": {
         "code": 200,
@@ -863,9 +863,9 @@
           ],
           "companyAbbreviation": "達方"
         },
-        "datetime": "115/04/24 21:23:49"
+        "datetime": "115/04/24 22:53:13"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150424|sii|3711|1",
@@ -878,10 +878,10 @@
         "公司債"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "3711",
         "serialNumber": 1,
-        "enterDate": "1150424"
+        "enterDate": "1150424",
+        "marketKind": "sii",
+        "companyId": "3711"
       },
       "detail": {
         "code": 200,
@@ -957,9 +957,9 @@
           ],
           "companyAbbreviation": "日月光投控"
         },
-        "datetime": "115/04/24 21:23:50"
+        "datetime": "115/04/24 22:53:14"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150424|sii|2885|4",
@@ -972,10 +972,10 @@
         "公司債"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "2885",
         "serialNumber": 4,
-        "enterDate": "1150424"
+        "enterDate": "1150424",
+        "marketKind": "sii",
+        "companyId": "2885"
       },
       "detail": {
         "code": 200,
@@ -1051,9 +1051,9 @@
           ],
           "companyAbbreviation": "元大金"
         },
-        "datetime": "115/04/24 21:23:50"
+        "datetime": "115/04/24 22:53:14"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150424|sii|3135|1",
@@ -1066,10 +1066,10 @@
         "公司債"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "3135",
         "serialNumber": 1,
-        "enterDate": "1150424"
+        "enterDate": "1150424",
+        "marketKind": "sii",
+        "companyId": "3135"
       },
       "detail": {
         "code": 200,
@@ -1145,9 +1145,9 @@
           ],
           "companyAbbreviation": "凌航"
         },
-        "datetime": "115/04/24 21:23:51"
+        "datetime": "115/04/24 22:53:15"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150424|sii|3037|1",
@@ -1160,10 +1160,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "3037",
         "serialNumber": 1,
-        "enterDate": "1150424"
+        "enterDate": "1150424",
+        "marketKind": "sii",
+        "companyId": "3037"
       },
       "detail": {
         "code": 200,
@@ -1239,9 +1239,9 @@
           ],
           "companyAbbreviation": "欣興"
         },
-        "datetime": "115/04/24 21:23:53"
+        "datetime": "115/04/24 22:53:15"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150424|sii|2438|2",
@@ -1254,10 +1254,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "2438",
         "serialNumber": 2,
-        "enterDate": "1150424"
+        "enterDate": "1150424",
+        "marketKind": "sii",
+        "companyId": "2438"
       },
       "detail": {
         "code": 200,
@@ -1333,9 +1333,9 @@
           ],
           "companyAbbreviation": "翔耀"
         },
-        "datetime": "115/04/24 21:23:53"
+        "datetime": "115/04/24 22:53:16"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150423|otc|2724|5",
@@ -1348,10 +1348,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "2724",
         "serialNumber": 5,
-        "enterDate": "1150423"
+        "enterDate": "1150423",
+        "marketKind": "otc",
+        "companyId": "2724"
       },
       "detail": {
         "code": 200,
@@ -1427,9 +1427,9 @@
           ],
           "companyAbbreviation": "藝舍-KY"
         },
-        "datetime": "115/04/24 21:23:54"
+        "datetime": "115/04/24 22:53:17"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150423|otc|2724|6",
@@ -1442,10 +1442,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "2724",
         "serialNumber": 6,
-        "enterDate": "1150423"
+        "enterDate": "1150423",
+        "marketKind": "otc",
+        "companyId": "2724"
       },
       "detail": {
         "code": 200,
@@ -1521,9 +1521,9 @@
           ],
           "companyAbbreviation": "藝舍-KY"
         },
-        "datetime": "115/04/24 21:23:55"
+        "datetime": "115/04/24 22:53:17"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150423|otc|2724|7",
@@ -1536,10 +1536,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "2724",
         "serialNumber": 7,
-        "enterDate": "1150423"
+        "enterDate": "1150423",
+        "marketKind": "otc",
+        "companyId": "2724"
       },
       "detail": {
         "code": 200,
@@ -1615,9 +1615,9 @@
           ],
           "companyAbbreviation": "藝舍-KY"
         },
-        "datetime": "115/04/24 21:23:55"
+        "datetime": "115/04/24 22:53:18"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150423|otc|8038|9",
@@ -1630,10 +1630,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "8038",
         "serialNumber": 9,
-        "enterDate": "1150423"
+        "enterDate": "1150423",
+        "marketKind": "otc",
+        "companyId": "8038"
       },
       "detail": {
         "code": 200,
@@ -1709,9 +1709,9 @@
           ],
           "companyAbbreviation": "長園科"
         },
-        "datetime": "115/04/24 21:23:56"
+        "datetime": "115/04/24 22:53:19"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150423|otc|4530|2",
@@ -1724,10 +1724,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "4530",
         "serialNumber": 2,
-        "enterDate": "1150423"
+        "enterDate": "1150423",
+        "marketKind": "otc",
+        "companyId": "4530"
       },
       "detail": {
         "code": 200,
@@ -1803,9 +1803,9 @@
           ],
           "companyAbbreviation": "宏易"
         },
-        "datetime": "115/04/24 21:23:57"
+        "datetime": "115/04/24 22:53:20"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150421|otc|8111|1",
@@ -1818,10 +1818,10 @@
         "公司債"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "8111",
         "serialNumber": 1,
-        "enterDate": "1150421"
+        "enterDate": "1150421",
+        "marketKind": "otc",
+        "companyId": "8111"
       },
       "detail": {
         "code": 200,
@@ -1897,9 +1897,9 @@
           ],
           "companyAbbreviation": "立碁"
         },
-        "datetime": "115/04/24 21:23:58"
+        "datetime": "115/04/24 22:53:20"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150424|otc|5490|2",
@@ -1912,10 +1912,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "5490",
         "serialNumber": 2,
-        "enterDate": "1150424"
+        "enterDate": "1150424",
+        "marketKind": "otc",
+        "companyId": "5490"
       },
       "detail": {
         "code": 200,
@@ -1991,9 +1991,9 @@
           ],
           "companyAbbreviation": "同亨"
         },
-        "datetime": "115/04/24 21:23:59"
+        "datetime": "115/04/24 22:53:21"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150424|otc|5490|3",
@@ -2006,10 +2006,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "5490",
         "serialNumber": 3,
-        "enterDate": "1150424"
+        "enterDate": "1150424",
+        "marketKind": "otc",
+        "companyId": "5490"
       },
       "detail": {
         "code": 200,
@@ -2085,9 +2085,9 @@
           ],
           "companyAbbreviation": "同亨"
         },
-        "datetime": "115/04/24 21:24:01"
+        "datetime": "115/04/24 22:53:22"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150424|otc|6538|1",
@@ -2100,10 +2100,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "6538",
         "serialNumber": 1,
-        "enterDate": "1150424"
+        "enterDate": "1150424",
+        "marketKind": "otc",
+        "companyId": "6538"
       },
       "detail": {
         "code": 200,
@@ -2179,9 +2179,9 @@
           ],
           "companyAbbreviation": "倉和"
         },
-        "datetime": "115/04/24 21:24:01"
+        "datetime": "115/04/24 22:53:22"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150424|otc|6274|1",
@@ -2194,10 +2194,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "6274",
         "serialNumber": 1,
-        "enterDate": "1150424"
+        "enterDate": "1150424",
+        "marketKind": "otc",
+        "companyId": "6274"
       },
       "detail": {
         "code": 200,
@@ -2273,9 +2273,9 @@
           ],
           "companyAbbreviation": "台燿"
         },
-        "datetime": "115/04/24 21:24:02"
+        "datetime": "115/04/24 22:53:23"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150423|rotc|6984|8",
@@ -2288,10 +2288,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "companyId": "6984",
         "serialNumber": 8,
-        "enterDate": "1150423"
+        "enterDate": "1150423",
+        "marketKind": "rotc",
+        "companyId": "6984"
       },
       "detail": {
         "code": 200,
@@ -2367,9 +2367,9 @@
           ],
           "companyAbbreviation": "ACpay"
         },
-        "datetime": "115/04/24 21:24:03"
+        "datetime": "115/04/24 22:53:23"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150424|rotc|7754|1",
@@ -2382,10 +2382,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "companyId": "7754",
         "serialNumber": 1,
-        "enterDate": "1150424"
+        "enterDate": "1150424",
+        "marketKind": "rotc",
+        "companyId": "7754"
       },
       "detail": {
         "code": 200,
@@ -2461,9 +2461,9 @@
           ],
           "companyAbbreviation": "安基生技"
         },
-        "datetime": "115/04/24 21:24:03"
+        "datetime": "115/04/24 22:53:24"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150424|rotc|3485|1",
@@ -2476,10 +2476,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "companyId": "3485",
         "serialNumber": 1,
-        "enterDate": "1150424"
+        "enterDate": "1150424",
+        "marketKind": "rotc",
+        "companyId": "3485"
       },
       "detail": {
         "code": 200,
@@ -2555,9 +2555,9 @@
           ],
           "companyAbbreviation": "敘豐"
         },
-        "datetime": "115/04/24 21:24:04"
+        "datetime": "115/04/24 22:53:25"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150424|rotc|7760|1",
@@ -2570,10 +2570,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "companyId": "7760",
         "serialNumber": 1,
-        "enterDate": "1150424"
+        "enterDate": "1150424",
+        "marketKind": "rotc",
+        "companyId": "7760"
       },
       "detail": {
         "code": 200,
@@ -2649,9 +2649,9 @@
           ],
           "companyAbbreviation": "享溫馨"
         },
-        "datetime": "115/04/24 21:24:05"
+        "datetime": "115/04/24 22:53:26"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150424|rotc|7760|4",
@@ -2664,10 +2664,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "companyId": "7760",
         "serialNumber": 4,
-        "enterDate": "1150424"
+        "enterDate": "1150424",
+        "marketKind": "rotc",
+        "companyId": "7760"
       },
       "detail": {
         "code": 200,
@@ -2743,9 +2743,9 @@
           ],
           "companyAbbreviation": "享溫馨"
         },
-        "datetime": "115/04/24 21:24:05"
+        "datetime": "115/04/24 22:53:27"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150424|rotc|2644|1",
@@ -2758,10 +2758,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "companyId": "2644",
         "serialNumber": 1,
-        "enterDate": "1150424"
+        "enterDate": "1150424",
+        "marketKind": "rotc",
+        "companyId": "2644"
       },
       "detail": {
         "code": 200,
@@ -2837,9 +2837,9 @@
           ],
           "companyAbbreviation": "中信造船"
         },
-        "datetime": "115/04/24 21:24:06"
+        "datetime": "115/04/24 22:53:28"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150424|rotc|4178|1",
@@ -2852,10 +2852,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "companyId": "4178",
         "serialNumber": 1,
-        "enterDate": "1150424"
+        "enterDate": "1150424",
+        "marketKind": "rotc",
+        "companyId": "4178"
       },
       "detail": {
         "code": 200,
@@ -2931,9 +2931,9 @@
           ],
           "companyAbbreviation": "永笙-KY"
         },
-        "datetime": "115/04/24 21:24:07"
+        "datetime": "115/04/24 22:53:28"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150424|rotc|7896|5",
@@ -2946,10 +2946,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "companyId": "7896",
         "serialNumber": 5,
-        "enterDate": "1150424"
+        "enterDate": "1150424",
+        "marketKind": "rotc",
+        "companyId": "7896"
       },
       "detail": {
         "code": 200,
@@ -3025,9 +3025,9 @@
           ],
           "companyAbbreviation": "喬越"
         },
-        "datetime": "115/04/24 21:24:07"
+        "datetime": "115/04/24 22:53:29"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150424|rotc|6473|9",
@@ -3041,10 +3041,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "companyId": "6473",
         "serialNumber": 9,
-        "enterDate": "1150424"
+        "enterDate": "1150424",
+        "marketKind": "rotc",
+        "companyId": "6473"
       },
       "detail": {
         "code": 200,
@@ -3120,9 +3120,9 @@
           ],
           "companyAbbreviation": "美賣*"
         },
-        "datetime": "115/04/24 21:24:08"
+        "datetime": "115/04/24 22:53:29"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     },
     {
       "key": "1150423|pub|6991|4",
@@ -3135,10 +3135,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "pub",
-        "companyId": "6991",
         "serialNumber": 4,
-        "enterDate": "1150423"
+        "enterDate": "1150423",
+        "marketKind": "pub",
+        "companyId": "6991"
       },
       "detail": {
         "code": 200,
@@ -3214,9 +3214,9 @@
           ],
           "companyAbbreviation": "精準健康"
         },
-        "datetime": "115/04/24 21:24:08"
+        "datetime": "115/04/24 22:53:30"
       },
-      "fetched_at_tw": "2026-04-24 21:23:39"
+      "fetched_at_tw": "2026-04-24 22:53:04"
     }
   ]
 }
