@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-04-25 19:37:54",
+    "run_at_tw": "2026-04-25 21:04:22",
     "query": {
       "year": "115",
       "month": "4",
@@ -32,10 +32,10 @@
         "公司債"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "3135",
         "serialNumber": 1,
-        "enterDate": "1150424"
+        "enterDate": "1150424",
+        "marketKind": "sii",
+        "companyId": "3135"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "凌航"
         },
-        "datetime": "115/04/25 19:37:55"
+        "datetime": "115/04/25 21:04:23"
       },
-      "fetched_at_tw": "2026-04-25 19:37:54"
+      "fetched_at_tw": "2026-04-25 21:04:22"
     },
     {
       "key": "1150424|sii|3037|1",
@@ -126,10 +126,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "3037",
         "serialNumber": 1,
-        "enterDate": "1150424"
+        "enterDate": "1150424",
+        "marketKind": "sii",
+        "companyId": "3037"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "欣興"
         },
-        "datetime": "115/04/25 19:37:56"
+        "datetime": "115/04/25 21:04:24"
       },
-      "fetched_at_tw": "2026-04-25 19:37:54"
+      "fetched_at_tw": "2026-04-25 21:04:22"
     },
     {
       "key": "1150424|sii|2438|2",
@@ -220,10 +220,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "2438",
         "serialNumber": 2,
-        "enterDate": "1150424"
+        "enterDate": "1150424",
+        "marketKind": "sii",
+        "companyId": "2438"
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "翔耀"
         },
-        "datetime": "115/04/25 19:37:57"
+        "datetime": "115/04/25 21:04:25"
       },
-      "fetched_at_tw": "2026-04-25 19:37:54"
+      "fetched_at_tw": "2026-04-25 21:04:22"
     },
     {
       "key": "1150424|otc|6274|1",
@@ -314,10 +314,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "6274",
         "serialNumber": 1,
-        "enterDate": "1150424"
+        "enterDate": "1150424",
+        "marketKind": "otc",
+        "companyId": "6274"
       },
       "detail": {
         "code": 200,
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "台燿"
         },
-        "datetime": "115/04/25 19:37:58"
+        "datetime": "115/04/25 21:04:25"
       },
-      "fetched_at_tw": "2026-04-25 19:37:54"
+      "fetched_at_tw": "2026-04-25 21:04:22"
     },
     {
       "key": "1150424|rotc|7896|5",
@@ -408,10 +408,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "companyId": "7896",
         "serialNumber": 5,
-        "enterDate": "1150424"
+        "enterDate": "1150424",
+        "marketKind": "rotc",
+        "companyId": "7896"
       },
       "detail": {
         "code": 200,
@@ -487,9 +487,9 @@
           ],
           "companyAbbreviation": "喬越"
         },
-        "datetime": "115/04/25 19:37:59"
+        "datetime": "115/04/25 21:04:26"
       },
-      "fetched_at_tw": "2026-04-25 19:37:54"
+      "fetched_at_tw": "2026-04-25 21:04:22"
     },
     {
       "key": "1150424|rotc|6473|9",
@@ -503,10 +503,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "companyId": "6473",
         "serialNumber": 9,
-        "enterDate": "1150424"
+        "enterDate": "1150424",
+        "marketKind": "rotc",
+        "companyId": "6473"
       },
       "detail": {
         "code": 200,
@@ -582,9 +582,9 @@
           ],
           "companyAbbreviation": "美賣*"
         },
-        "datetime": "115/04/25 19:38:00"
+        "datetime": "115/04/25 21:04:27"
       },
-      "fetched_at_tw": "2026-04-25 19:37:54"
+      "fetched_at_tw": "2026-04-25 21:04:22"
     }
   ]
 }
