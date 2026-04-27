@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-04-27 18:30:57",
+    "run_at_tw": "2026-04-27 20:19:25",
     "query": {
       "year": "115",
       "month": "4",
@@ -17,8 +17,8 @@
       "公司債",
       "庫藏股"
     ],
-    "matched_count": 19,
-    "new_matched_count": 8
+    "matched_count": 21,
+    "new_matched_count": 2
   },
   "items": [
     {
@@ -32,10 +32,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "serialNumber": 1,
         "enterDate": "1150427",
         "marketKind": "sii",
-        "companyId": "2408"
+        "companyId": "2408",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "南亞科"
         },
-        "datetime": "115/04/27 18:30:58"
+        "datetime": "115/04/27 20:19:31"
       },
-      "fetched_at_tw": "2026-04-27 18:30:57"
+      "fetched_at_tw": "2026-04-27 20:19:25"
     },
     {
       "key": "1150427|sii|2348|3",
@@ -126,10 +126,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "serialNumber": 3,
         "enterDate": "1150427",
         "marketKind": "sii",
-        "companyId": "2348"
+        "companyId": "2348",
+        "serialNumber": 3
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "海悅"
         },
-        "datetime": "115/04/27 18:31:03"
+        "datetime": "115/04/27 20:19:32"
       },
-      "fetched_at_tw": "2026-04-27 18:30:57"
+      "fetched_at_tw": "2026-04-27 20:19:25"
     },
     {
       "key": "1150427|sii|2348|4",
@@ -220,10 +220,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "serialNumber": 4,
         "enterDate": "1150427",
         "marketKind": "sii",
-        "companyId": "2348"
+        "companyId": "2348",
+        "serialNumber": 4
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "海悅"
         },
-        "datetime": "115/04/27 18:31:04"
+        "datetime": "115/04/27 20:19:36"
       },
-      "fetched_at_tw": "2026-04-27 18:30:57"
+      "fetched_at_tw": "2026-04-27 20:19:25"
     },
     {
       "key": "1150427|sii|3037|1",
@@ -314,10 +314,10 @@
         "公司債"
       ],
       "detail_params": {
-        "serialNumber": 1,
         "enterDate": "1150427",
         "marketKind": "sii",
-        "companyId": "3037"
+        "companyId": "3037",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "欣興"
         },
-        "datetime": "115/04/27 18:31:04"
+        "datetime": "115/04/27 20:19:39"
       },
-      "fetched_at_tw": "2026-04-27 18:30:57"
+      "fetched_at_tw": "2026-04-27 20:19:25"
     },
     {
       "key": "1150427|sii|3708|1",
@@ -408,10 +408,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "serialNumber": 1,
         "enterDate": "1150427",
         "marketKind": "sii",
-        "companyId": "3708"
+        "companyId": "3708",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -487,9 +487,103 @@
           ],
           "companyAbbreviation": "上緯投控"
         },
-        "datetime": "115/04/27 18:31:05"
+        "datetime": "115/04/27 20:19:41"
       },
-      "fetched_at_tw": "2026-04-27 18:30:57"
+      "fetched_at_tw": "2026-04-27 20:19:25"
+    },
+    {
+      "key": "1150427|sii|3711|1",
+      "speech_date": "115/04/27",
+      "speech_time": "18:38:52",
+      "company_id": "3711",
+      "company_name": "日月光投控",
+      "subject": "代子公司矽品科技(蘇州)有限公司公告取得營業用機器設備達十億元",
+      "matched_keywords": [
+        "機器設備"
+      ],
+      "detail_params": {
+        "enterDate": "1150427",
+        "marketKind": "sii",
+        "companyId": "3711",
+        "serialNumber": 1
+      },
+      "detail": {
+        "code": 200,
+        "message": "查詢成功",
+        "result": {
+          "marketName": "上市公司",
+          "companyId": "3711",
+          "data": [
+            [
+              1,
+              "115/04/27",
+              "18:38:52",
+              "吳田玉",
+              "營運長",
+              "02-66365678",
+              "代子公司矽品科技(蘇州)有限公司公告取得營業用機器設備達十億元",
+              "20",
+              "115/04/27",
+              "1.標的物之名稱及性質（如坐落台中市北區ＸＸ段ＸＸ小段土地）:\r\n營業用機器設備\r\n2.事實發生日:114/9/19~115/4/27\r\n3.董事會通過日期: 不適用\r\n4.其他核決日期:\r\n核決層級:總經理核決\r\n民國115年4月27日\r\n5.交易單位數量（如ＸＸ平方公尺，折合ＸＸ坪）、每單位價格及交易總金額:\r\n取得 15批，\n每批平均單價：NTD 141,569,680元，\n交易總金額：NTD 2,123,545,207元。\r\n6.交易相對人及其與公司之關係（交易相對人如屬自然人，且非公司之關\r\n係人者，得免揭露其姓名）:\r\n交易相對人：常州芯鏈科技有限公司； \n與公司之關係：無\r\n7.交易相對人為關係人者，並應公告選定關係人為交易對象之原因及前次移轉之\r\n所有人、前次移轉之所有人與公司及交易相對人間相互之關係、前次移轉日期\r\n及移轉金額:\r\n不適用\r\n8.交易標的最近五年內所有權人曾為公司之關係人者，尚應公告關係\r\n人之取得及處分日期、價格及交易當時與公司之關係:\r\n不適用\r\n9.預計處分利益（或損失）（取得資產者不適用）（遞延者應列表說明\r\n認列情形）:\r\n不適用\r\n10.交付或付款條件（含付款期間及金額）、契約限制條款及其他重要約定\r\n事項:\r\n電匯。\n契約限制條款：無。\n其他重要約定事項：無。\r\n11.本次交易之決定方式（如招標、比價或議價）、價格決定之參考依據及\r\n決策單位:\r\n交易決定方式：比價/議價。\n價格決定之參考依據：參考歷年交易資料和市場行情。\n決策單位：依公司內部核決權限決定。\r\n12.專業估價者事務所或公司名稱及其估價金額:\r\n不適用\r\n13.專業估價師姓名:\r\n不適用\r\n14.專業估價師開業證書字號:\r\n不適用\r\n15.估價報告是否為限定價格、特定價格或特殊價格:否或不適用\r\n16.是否尚未取得估價報告:否或不適用\r\n17.尚未取得估價報告之原因:\r\n不適用\r\n18.估價結果有重大差異時，其差異原因及會計師意見:\r\n不適用\r\n19.會計師事務所名稱:\r\n不適用\r\n20.會計師姓名:\r\n不適用\r\n21.會計師開業證書字號:\r\n不適用\r\n22.經紀人及經紀費用:\r\n無\r\n23.取得或處分之具體目的或用途:\r\n營業用途\r\n24.本次交易表示異議之董事之意見:\r\n無\r\n25.本次交易為關係人交易:否\r\n26.監察人承認或審計委員會同意日期:\r\n不適用\r\n27.本次交易係向關係人取得不動產或其使用權資產:否\r\n28.依「公開發行公司取得或處分資產處理準則」第十六條規定\r\n評估之價格:不適用\r\n29.依前項評估之價格較交易價格為低者，依同準則第十七條規\r\n定評估之價格:不適用\r\n30.前已就同一件事件發布重大訊息日期: 不適用\r\n31.其他敘明事項:\r\n無"
+            ]
+          ],
+          "footer": [
+            "以上資料均由各公司依發言當時所屬市場別之規定申報後，由本系統對外公佈，資料如有虛偽不實，均由該公司負責。"
+          ],
+          "header": {
+            "note": [],
+            "subTitle": [],
+            "mainTitle": [
+              "公司當日重大訊息之詳細內容"
+            ]
+          },
+          "titles": [
+            {
+              "sub": [],
+              "main": "序號"
+            },
+            {
+              "sub": [],
+              "main": "發言日期"
+            },
+            {
+              "sub": [],
+              "main": "發言時間"
+            },
+            {
+              "sub": [],
+              "main": "發言人"
+            },
+            {
+              "sub": [],
+              "main": "發言人職稱"
+            },
+            {
+              "sub": [],
+              "main": "發言人電話"
+            },
+            {
+              "sub": [],
+              "main": "主旨"
+            },
+            {
+              "sub": [],
+              "main": "符合條款"
+            },
+            {
+              "sub": [],
+              "main": "事實發生日"
+            },
+            {
+              "sub": [],
+              "main": "說明"
+            }
+          ],
+          "companyAbbreviation": "日月光投控"
+        },
+        "datetime": "115/04/27 20:19:43"
+      },
+      "fetched_at_tw": "2026-04-27 20:19:25"
     },
     {
       "key": "1150427|otc|2724|1",
@@ -502,10 +596,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "serialNumber": 1,
         "enterDate": "1150427",
         "marketKind": "otc",
-        "companyId": "2724"
+        "companyId": "2724",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -581,9 +675,9 @@
           ],
           "companyAbbreviation": "藝舍-KY"
         },
-        "datetime": "115/04/27 18:31:06"
+        "datetime": "115/04/27 20:19:44"
       },
-      "fetched_at_tw": "2026-04-27 18:30:57"
+      "fetched_at_tw": "2026-04-27 20:19:25"
     },
     {
       "key": "1150427|otc|6535|1",
@@ -596,10 +690,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "serialNumber": 1,
         "enterDate": "1150427",
         "marketKind": "otc",
-        "companyId": "6535"
+        "companyId": "6535",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -675,9 +769,9 @@
           ],
           "companyAbbreviation": "順藥"
         },
-        "datetime": "115/04/27 18:31:06"
+        "datetime": "115/04/27 20:19:46"
       },
-      "fetched_at_tw": "2026-04-27 18:30:57"
+      "fetched_at_tw": "2026-04-27 20:19:25"
     },
     {
       "key": "1150427|otc|7584|1",
@@ -690,10 +784,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "serialNumber": 1,
         "enterDate": "1150427",
         "marketKind": "otc",
-        "companyId": "7584"
+        "companyId": "7584",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -769,9 +863,9 @@
           ],
           "companyAbbreviation": "樂意"
         },
-        "datetime": "115/04/27 18:31:07"
+        "datetime": "115/04/27 20:19:48"
       },
-      "fetched_at_tw": "2026-04-27 18:30:57"
+      "fetched_at_tw": "2026-04-27 20:19:25"
     },
     {
       "key": "1150427|otc|6290|1",
@@ -784,10 +878,10 @@
         "公司債"
       ],
       "detail_params": {
-        "serialNumber": 1,
         "enterDate": "1150427",
         "marketKind": "otc",
-        "companyId": "6290"
+        "companyId": "6290",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -863,9 +957,9 @@
           ],
           "companyAbbreviation": "良維"
         },
-        "datetime": "115/04/27 18:31:07"
+        "datetime": "115/04/27 20:19:49"
       },
-      "fetched_at_tw": "2026-04-27 18:30:57"
+      "fetched_at_tw": "2026-04-27 20:19:25"
     },
     {
       "key": "1150427|otc|8277|2",
@@ -878,10 +972,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "serialNumber": 2,
         "enterDate": "1150427",
         "marketKind": "otc",
-        "companyId": "8277"
+        "companyId": "8277",
+        "serialNumber": 2
       },
       "detail": {
         "code": 200,
@@ -957,9 +1051,9 @@
           ],
           "companyAbbreviation": "商丞"
         },
-        "datetime": "115/04/27 18:31:08"
+        "datetime": "115/04/27 20:19:51"
       },
-      "fetched_at_tw": "2026-04-27 18:30:57"
+      "fetched_at_tw": "2026-04-27 20:19:25"
     },
     {
       "key": "1150427|otc|7723|1",
@@ -972,10 +1066,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "serialNumber": 1,
         "enterDate": "1150427",
         "marketKind": "otc",
-        "companyId": "7723"
+        "companyId": "7723",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -1051,9 +1145,103 @@
           ],
           "companyAbbreviation": "築間"
         },
-        "datetime": "115/04/27 18:31:08"
+        "datetime": "115/04/27 20:19:54"
       },
-      "fetched_at_tw": "2026-04-27 18:30:57"
+      "fetched_at_tw": "2026-04-27 20:19:25"
+    },
+    {
+      "key": "1150427|otc|8908|1",
+      "speech_date": "115/04/27",
+      "speech_time": "18:38:25",
+      "company_id": "8908",
+      "company_name": "欣雄",
+      "subject": "公告本公司買回庫藏股執行完畢",
+      "matched_keywords": [
+        "庫藏股"
+      ],
+      "detail_params": {
+        "enterDate": "1150427",
+        "marketKind": "otc",
+        "companyId": "8908",
+        "serialNumber": 1
+      },
+      "detail": {
+        "code": 200,
+        "message": "查詢成功",
+        "result": {
+          "marketName": "上櫃公司",
+          "companyId": "8908",
+          "data": [
+            [
+              1,
+              "115/04/27",
+              "18:38:25",
+              "王定中",
+              "總經理",
+              "(07)7416101",
+              "公告本公司買回庫藏股執行完畢",
+              "35",
+              "115/04/27",
+              "1.原預定買回股份總金額上限(元):771,367,990\r\n2.原預定買回之期間:115/04/15~115/06/14\r\n3.原預定買回之數量(股):1,000,000\r\n4.原預定買回區間價格(元):30.00~60.00\r\n5.本次實際買回期間:115/04/15~115/04/27\r\n6.本次已買回股份數量(股):1,000,000\r\n7.本次已買回股份總金額(元):40,923,277\r\n8.本次平均每股買回價格(元):40.92\r\n9.累積已持有自己公司股份數量(股):1,940,000\r\n10.累積已持有自己公司股份數量占公司已發行股份總數之比率(%):0.62\r\n11.本次未執行完畢之原因:\r\n\r\n12.其他應敘明事項:\r\n無"
+            ]
+          ],
+          "footer": [
+            "以上資料均由各公司依發言當時所屬市場別之規定申報後，由本系統對外公佈，資料如有虛偽不實，均由該公司負責。"
+          ],
+          "header": {
+            "note": [],
+            "subTitle": [],
+            "mainTitle": [
+              "公司當日重大訊息之詳細內容"
+            ]
+          },
+          "titles": [
+            {
+              "sub": [],
+              "main": "序號"
+            },
+            {
+              "sub": [],
+              "main": "發言日期"
+            },
+            {
+              "sub": [],
+              "main": "發言時間"
+            },
+            {
+              "sub": [],
+              "main": "發言人"
+            },
+            {
+              "sub": [],
+              "main": "發言人職稱"
+            },
+            {
+              "sub": [],
+              "main": "發言人電話"
+            },
+            {
+              "sub": [],
+              "main": "主旨"
+            },
+            {
+              "sub": [],
+              "main": "符合條款"
+            },
+            {
+              "sub": [],
+              "main": "事實發生日"
+            },
+            {
+              "sub": [],
+              "main": "說明"
+            }
+          ],
+          "companyAbbreviation": "欣雄"
+        },
+        "datetime": "115/04/27 20:19:55"
+      },
+      "fetched_at_tw": "2026-04-27 20:19:25"
     },
     {
       "key": "1150427|rotc|7768|1",
@@ -1066,10 +1254,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "serialNumber": 1,
         "enterDate": "1150427",
         "marketKind": "rotc",
-        "companyId": "7768"
+        "companyId": "7768",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -1145,9 +1333,9 @@
           ],
           "companyAbbreviation": "頌勝科技"
         },
-        "datetime": "115/04/27 18:31:09"
+        "datetime": "115/04/27 20:19:55"
       },
-      "fetched_at_tw": "2026-04-27 18:30:57"
+      "fetched_at_tw": "2026-04-27 20:19:25"
     },
     {
       "key": "1150427|rotc|7818|1",
@@ -1160,10 +1348,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "serialNumber": 1,
         "enterDate": "1150427",
         "marketKind": "rotc",
-        "companyId": "7818"
+        "companyId": "7818",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -1239,9 +1427,9 @@
           ],
           "companyAbbreviation": "溢泰實業"
         },
-        "datetime": "115/04/27 18:31:09"
+        "datetime": "115/04/27 20:19:56"
       },
-      "fetched_at_tw": "2026-04-27 18:30:57"
+      "fetched_at_tw": "2026-04-27 20:19:25"
     },
     {
       "key": "1150427|rotc|7818|2",
@@ -1254,10 +1442,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "serialNumber": 2,
         "enterDate": "1150427",
         "marketKind": "rotc",
-        "companyId": "7818"
+        "companyId": "7818",
+        "serialNumber": 2
       },
       "detail": {
         "code": 200,
@@ -1333,9 +1521,9 @@
           ],
           "companyAbbreviation": "溢泰實業"
         },
-        "datetime": "115/04/27 18:31:10"
+        "datetime": "115/04/27 20:19:57"
       },
-      "fetched_at_tw": "2026-04-27 18:30:57"
+      "fetched_at_tw": "2026-04-27 20:19:25"
     },
     {
       "key": "1150427|rotc|6810|2",
@@ -1348,10 +1536,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "serialNumber": 2,
         "enterDate": "1150427",
         "marketKind": "rotc",
-        "companyId": "6810"
+        "companyId": "6810",
+        "serialNumber": 2
       },
       "detail": {
         "code": 200,
@@ -1427,9 +1615,9 @@
           ],
           "companyAbbreviation": "新穎生醫"
         },
-        "datetime": "115/04/27 18:31:10"
+        "datetime": "115/04/27 20:19:58"
       },
-      "fetched_at_tw": "2026-04-27 18:30:57"
+      "fetched_at_tw": "2026-04-27 20:19:25"
     },
     {
       "key": "1150427|rotc|6810|3",
@@ -1442,10 +1630,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "serialNumber": 3,
         "enterDate": "1150427",
         "marketKind": "rotc",
-        "companyId": "6810"
+        "companyId": "6810",
+        "serialNumber": 3
       },
       "detail": {
         "code": 200,
@@ -1521,9 +1709,9 @@
           ],
           "companyAbbreviation": "新穎生醫"
         },
-        "datetime": "115/04/27 18:31:11"
+        "datetime": "115/04/27 20:19:59"
       },
-      "fetched_at_tw": "2026-04-27 18:30:57"
+      "fetched_at_tw": "2026-04-27 20:19:25"
     },
     {
       "key": "1150427|rotc|6833|1",
@@ -1536,10 +1724,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "serialNumber": 1,
         "enterDate": "1150427",
         "marketKind": "rotc",
-        "companyId": "6833"
+        "companyId": "6833",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -1615,9 +1803,9 @@
           ],
           "companyAbbreviation": "太康精密"
         },
-        "datetime": "115/04/27 18:31:12"
+        "datetime": "115/04/27 20:20:02"
       },
-      "fetched_at_tw": "2026-04-27 18:30:57"
+      "fetched_at_tw": "2026-04-27 20:19:25"
     },
     {
       "key": "1150427|pub|6623|1",
@@ -1630,10 +1818,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "serialNumber": 1,
         "enterDate": "1150427",
         "marketKind": "pub",
-        "companyId": "6623"
+        "companyId": "6623",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -1709,9 +1897,9 @@
           ],
           "companyAbbreviation": "施吉生技"
         },
-        "datetime": "115/04/27 18:31:12"
+        "datetime": "115/04/27 20:20:05"
       },
-      "fetched_at_tw": "2026-04-27 18:30:57"
+      "fetched_at_tw": "2026-04-27 20:19:25"
     },
     {
       "key": "1150427|pub|4427|1",
@@ -1724,10 +1912,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "serialNumber": 1,
         "enterDate": "1150427",
         "marketKind": "pub",
-        "companyId": "4427"
+        "companyId": "4427",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -1803,9 +1991,9 @@
           ],
           "companyAbbreviation": "展頌"
         },
-        "datetime": "115/04/27 18:31:13"
+        "datetime": "115/04/27 20:20:06"
       },
-      "fetched_at_tw": "2026-04-27 18:30:57"
+      "fetched_at_tw": "2026-04-27 20:19:25"
     }
   ]
 }
