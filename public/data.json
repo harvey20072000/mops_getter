@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-04-28 10:52:53",
+    "run_at_tw": "2026-04-28 14:07:01",
     "query": {
       "year": "115",
       "month": "4",
@@ -17,7 +17,7 @@
       "公司債",
       "庫藏股"
     ],
-    "matched_count": 10,
+    "matched_count": 11,
     "new_matched_count": 1
   },
   "items": [
@@ -32,10 +32,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "serialNumber": 1,
         "enterDate": "1150427",
         "marketKind": "sii",
-        "companyId": "3711"
+        "companyId": "3711",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "日月光投控"
         },
-        "datetime": "115/04/28 10:52:55"
+        "datetime": "115/04/28 14:07:03"
       },
-      "fetched_at_tw": "2026-04-28 10:52:53"
+      "fetched_at_tw": "2026-04-28 14:07:01"
     },
     {
       "key": "1150427|sii|2308|1",
@@ -126,10 +126,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "serialNumber": 1,
         "enterDate": "1150427",
         "marketKind": "sii",
-        "companyId": "2308"
+        "companyId": "2308",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,103 @@
           ],
           "companyAbbreviation": "台達電"
         },
-        "datetime": "115/04/28 10:52:56"
+        "datetime": "115/04/28 14:07:04"
       },
-      "fetched_at_tw": "2026-04-28 10:52:53"
+      "fetched_at_tw": "2026-04-28 14:07:01"
+    },
+    {
+      "key": "1150428|sii|2486|1",
+      "speech_date": "115/04/28",
+      "speech_time": "13:27:45",
+      "company_id": "2486",
+      "company_name": "一詮",
+      "subject": "公告本公司董事長訂定除息基準日暨國內轉換公司債停止轉換事宜",
+      "matched_keywords": [
+        "公司債"
+      ],
+      "detail_params": {
+        "enterDate": "1150428",
+        "marketKind": "sii",
+        "companyId": "2486",
+        "serialNumber": 1
+      },
+      "detail": {
+        "code": 200,
+        "message": "查詢成功",
+        "result": {
+          "marketName": "上市公司",
+          "companyId": "2486",
+          "data": [
+            [
+              1,
+              "115/04/28",
+              "13:27:45",
+              "劉秀興",
+              "副總經理",
+              "2299-0001",
+              "公告本公司董事長訂定除息基準日暨國內轉換公司債停止轉換事宜",
+              "14",
+              "115/04/28",
+              "1.董事會、股東會決議或公司決定日期:115/04/28\n2.除權、息類別（請填入「除權」、「除息」或「除權息」）:除息\n3.普通股發放股利種類及金額:\n(1)盈餘分配現金股利新台幣57,989,645元。\n(2)資本公積發放現金新台幣57,989,645元。\n4.除權（息）交易日:115/05/25\n5.最後過戶日:115/05/26\n6.停止過戶起始日期:115/05/27\n7.停止過戶截止日期:115/05/31\n8.除權（息）基準日:115/05/31\n9.債券最後申請轉換日期:115/05/04\n10.債券停止轉換起始日期:115/05/06\n11.債券停止轉換截止日期:115/05/31\n12.普通股現金股利發放日期:115/06/30\n13.其他應敘明事項:\n(1)依115年03月10日董事會決議，授權董事長訂定除息基準日及調整配息率相關事項。"
+            ]
+          ],
+          "footer": [
+            "以上資料均由各公司依發言當時所屬市場別之規定申報後，由本系統對外公佈，資料如有虛偽不實，均由該公司負責。"
+          ],
+          "header": {
+            "note": [],
+            "subTitle": [],
+            "mainTitle": [
+              "公司當日重大訊息之詳細內容"
+            ]
+          },
+          "titles": [
+            {
+              "sub": [],
+              "main": "序號"
+            },
+            {
+              "sub": [],
+              "main": "發言日期"
+            },
+            {
+              "sub": [],
+              "main": "發言時間"
+            },
+            {
+              "sub": [],
+              "main": "發言人"
+            },
+            {
+              "sub": [],
+              "main": "發言人職稱"
+            },
+            {
+              "sub": [],
+              "main": "發言人電話"
+            },
+            {
+              "sub": [],
+              "main": "主旨"
+            },
+            {
+              "sub": [],
+              "main": "符合條款"
+            },
+            {
+              "sub": [],
+              "main": "事實發生日"
+            },
+            {
+              "sub": [],
+              "main": "說明"
+            }
+          ],
+          "companyAbbreviation": "一詮"
+        },
+        "datetime": "115/04/28 14:07:05"
+      },
+      "fetched_at_tw": "2026-04-28 14:07:01"
     },
     {
       "key": "1150427|otc|7723|1",
@@ -220,10 +314,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "serialNumber": 1,
         "enterDate": "1150427",
         "marketKind": "otc",
-        "companyId": "7723"
+        "companyId": "7723",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -299,9 +393,9 @@
           ],
           "companyAbbreviation": "築間"
         },
-        "datetime": "115/04/28 10:52:57"
+        "datetime": "115/04/28 14:07:06"
       },
-      "fetched_at_tw": "2026-04-28 10:52:53"
+      "fetched_at_tw": "2026-04-28 14:07:01"
     },
     {
       "key": "1150427|otc|8908|1",
@@ -314,10 +408,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "serialNumber": 1,
         "enterDate": "1150427",
         "marketKind": "otc",
-        "companyId": "8908"
+        "companyId": "8908",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -393,9 +487,9 @@
           ],
           "companyAbbreviation": "欣雄"
         },
-        "datetime": "115/04/28 10:52:58"
+        "datetime": "115/04/28 14:07:07"
       },
-      "fetched_at_tw": "2026-04-28 10:52:53"
+      "fetched_at_tw": "2026-04-28 14:07:01"
     },
     {
       "key": "1150427|rotc|6810|2",
@@ -408,10 +502,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "serialNumber": 2,
         "enterDate": "1150427",
         "marketKind": "rotc",
-        "companyId": "6810"
+        "companyId": "6810",
+        "serialNumber": 2
       },
       "detail": {
         "code": 200,
@@ -487,9 +581,9 @@
           ],
           "companyAbbreviation": "新穎生醫"
         },
-        "datetime": "115/04/28 10:52:58"
+        "datetime": "115/04/28 14:07:08"
       },
-      "fetched_at_tw": "2026-04-28 10:52:53"
+      "fetched_at_tw": "2026-04-28 14:07:01"
     },
     {
       "key": "1150427|rotc|6810|3",
@@ -502,10 +596,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "serialNumber": 3,
         "enterDate": "1150427",
         "marketKind": "rotc",
-        "companyId": "6810"
+        "companyId": "6810",
+        "serialNumber": 3
       },
       "detail": {
         "code": 200,
@@ -581,9 +675,9 @@
           ],
           "companyAbbreviation": "新穎生醫"
         },
-        "datetime": "115/04/28 10:52:59"
+        "datetime": "115/04/28 14:07:10"
       },
-      "fetched_at_tw": "2026-04-28 10:52:53"
+      "fetched_at_tw": "2026-04-28 14:07:01"
     },
     {
       "key": "1150427|rotc|6833|1",
@@ -596,10 +690,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "serialNumber": 1,
         "enterDate": "1150427",
         "marketKind": "rotc",
-        "companyId": "6833"
+        "companyId": "6833",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -675,9 +769,9 @@
           ],
           "companyAbbreviation": "太康精密"
         },
-        "datetime": "115/04/28 10:53:00"
+        "datetime": "115/04/28 14:07:11"
       },
-      "fetched_at_tw": "2026-04-28 10:52:53"
+      "fetched_at_tw": "2026-04-28 14:07:01"
     },
     {
       "key": "1150427|rotc|6940|5",
@@ -690,10 +784,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "serialNumber": 5,
         "enterDate": "1150427",
         "marketKind": "rotc",
-        "companyId": "6940"
+        "companyId": "6940",
+        "serialNumber": 5
       },
       "detail": {
         "code": 200,
@@ -769,9 +863,9 @@
           ],
           "companyAbbreviation": "格斯科技*"
         },
-        "datetime": "115/04/28 10:53:00"
+        "datetime": "115/04/28 14:07:12"
       },
-      "fetched_at_tw": "2026-04-28 10:52:53"
+      "fetched_at_tw": "2026-04-28 14:07:01"
     },
     {
       "key": "1150427|rotc|6940|6",
@@ -784,10 +878,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "serialNumber": 6,
         "enterDate": "1150427",
         "marketKind": "rotc",
-        "companyId": "6940"
+        "companyId": "6940",
+        "serialNumber": 6
       },
       "detail": {
         "code": 200,
@@ -863,9 +957,9 @@
           ],
           "companyAbbreviation": "格斯科技*"
         },
-        "datetime": "115/04/28 10:53:01"
+        "datetime": "115/04/28 14:07:13"
       },
-      "fetched_at_tw": "2026-04-28 10:52:53"
+      "fetched_at_tw": "2026-04-28 14:07:01"
     },
     {
       "key": "1150428|rotc|7826|1",
@@ -878,10 +972,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "serialNumber": 1,
         "enterDate": "1150428",
         "marketKind": "rotc",
-        "companyId": "7826"
+        "companyId": "7826",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -957,9 +1051,9 @@
           ],
           "companyAbbreviation": "極風雲創"
         },
-        "datetime": "115/04/28 10:53:02"
+        "datetime": "115/04/28 14:07:14"
       },
-      "fetched_at_tw": "2026-04-28 10:52:53"
+      "fetched_at_tw": "2026-04-28 14:07:01"
     }
   ]
 }
