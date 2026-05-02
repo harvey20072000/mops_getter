@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-05-02 18:57:30",
+    "run_at_tw": "2026-05-02 19:50:46",
     "query": {
       "year": "115",
       "month": "5",
@@ -32,10 +32,10 @@
         "自結合併"
       ],
       "detail_params": {
-        "enterDate": "1150502",
         "marketKind": "sii",
         "companyId": "3004",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150502"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "豐達科"
         },
-        "datetime": "115/05/02 18:57:32"
+        "datetime": "115/05/02 19:50:48"
       },
-      "fetched_at_tw": "2026-05-02 18:57:30"
+      "fetched_at_tw": "2026-05-02 19:50:46"
     },
     {
       "key": "1150501|sii|6235|1",
@@ -126,10 +126,10 @@
         "自結合併"
       ],
       "detail_params": {
-        "enterDate": "1150501",
         "marketKind": "sii",
         "companyId": "6235",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150501"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "華孚"
         },
-        "datetime": "115/05/02 18:57:33"
+        "datetime": "115/05/02 19:50:49"
       },
-      "fetched_at_tw": "2026-05-02 18:57:30"
+      "fetched_at_tw": "2026-05-02 19:50:46"
     }
   ]
 }
