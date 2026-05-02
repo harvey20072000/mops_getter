@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-05-02 21:11:15",
+    "run_at_tw": "2026-05-02 22:29:44",
     "query": {
       "year": "115",
       "month": "5",
@@ -32,10 +32,10 @@
         "自結合併"
       ],
       "detail_params": {
-        "marketKind": "sii",
         "companyId": "3004",
-        "serialNumber": 1,
-        "enterDate": "1150502"
+        "marketKind": "sii",
+        "enterDate": "1150502",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -69,51 +69,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "豐達科"
         },
-        "datetime": "115/05/02 21:11:16"
+        "datetime": "115/05/02 22:29:45"
       },
-      "fetched_at_tw": "2026-05-02 21:11:15"
+      "fetched_at_tw": "2026-05-02 22:29:44"
     },
     {
       "key": "1150501|sii|6235|1",
@@ -126,10 +126,10 @@
         "自結合併"
       ],
       "detail_params": {
-        "marketKind": "sii",
         "companyId": "6235",
-        "serialNumber": 1,
-        "enterDate": "1150501"
+        "marketKind": "sii",
+        "enterDate": "1150501",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -163,51 +163,51 @@
           },
           "titles": [
             {
-              "sub": [],
-              "main": "序號"
+              "main": "序號",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言日期"
+              "main": "發言日期",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言時間"
+              "main": "發言時間",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人"
+              "main": "發言人",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人職稱"
+              "main": "發言人職稱",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "發言人電話"
+              "main": "發言人電話",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "主旨"
+              "main": "主旨",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "符合條款"
+              "main": "符合條款",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "事實發生日"
+              "main": "事實發生日",
+              "sub": []
             },
             {
-              "sub": [],
-              "main": "說明"
+              "main": "說明",
+              "sub": []
             }
           ],
           "companyAbbreviation": "華孚"
         },
-        "datetime": "115/05/02 21:11:16"
+        "datetime": "115/05/02 22:29:45"
       },
-      "fetched_at_tw": "2026-05-02 21:11:15"
+      "fetched_at_tw": "2026-05-02 22:29:44"
     }
   ]
 }
