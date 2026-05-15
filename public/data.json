@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-05-16 05:59:23",
+    "run_at_tw": "2026-05-16 07:04:10",
     "query": {
       "year": "115",
       "month": "5",
@@ -32,10 +32,10 @@
         "機器設備"
       ],
       "detail_params": {
+        "serialNumber": 1,
         "companyId": "4958",
         "marketKind": "sii",
-        "enterDate": "1150515",
-        "serialNumber": 1
+        "enterDate": "1150515"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "臻鼎-KY"
         },
-        "datetime": "115/05/16 05:59:25"
+        "datetime": "115/05/16 07:04:11"
       },
-      "fetched_at_tw": "2026-05-16 05:59:23"
+      "fetched_at_tw": "2026-05-16 07:04:10"
     },
     {
       "key": "1150515|sii|4958|2",
@@ -126,10 +126,10 @@
         "機器設備"
       ],
       "detail_params": {
+        "serialNumber": 2,
         "companyId": "4958",
         "marketKind": "sii",
-        "enterDate": "1150515",
-        "serialNumber": 2
+        "enterDate": "1150515"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "臻鼎-KY"
         },
-        "datetime": "115/05/16 05:59:26"
+        "datetime": "115/05/16 07:04:13"
       },
-      "fetched_at_tw": "2026-05-16 05:59:23"
+      "fetched_at_tw": "2026-05-16 07:04:10"
     },
     {
       "key": "1150515|sii|4958|3",
@@ -220,10 +220,10 @@
         "機器設備"
       ],
       "detail_params": {
+        "serialNumber": 3,
         "companyId": "4958",
         "marketKind": "sii",
-        "enterDate": "1150515",
-        "serialNumber": 3
+        "enterDate": "1150515"
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "臻鼎-KY"
         },
-        "datetime": "115/05/16 05:59:26"
+        "datetime": "115/05/16 07:04:14"
       },
-      "fetched_at_tw": "2026-05-16 05:59:23"
+      "fetched_at_tw": "2026-05-16 07:04:10"
     },
     {
       "key": "1150515|otc|4804|3",
@@ -314,10 +314,10 @@
         "公司債"
       ],
       "detail_params": {
+        "serialNumber": 3,
         "companyId": "4804",
         "marketKind": "otc",
-        "enterDate": "1150515",
-        "serialNumber": 3
+        "enterDate": "1150515"
       },
       "detail": {
         "code": 200,
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "大略-KY"
         },
-        "datetime": "115/05/16 05:59:27"
+        "datetime": "115/05/16 07:04:15"
       },
-      "fetched_at_tw": "2026-05-16 05:59:23"
+      "fetched_at_tw": "2026-05-16 07:04:10"
     },
     {
       "key": "1150515|rotc|6912|2",
@@ -408,10 +408,10 @@
         "現金增資"
       ],
       "detail_params": {
+        "serialNumber": 2,
         "companyId": "6912",
         "marketKind": "rotc",
-        "enterDate": "1150515",
-        "serialNumber": 2
+        "enterDate": "1150515"
       },
       "detail": {
         "code": 200,
@@ -487,9 +487,9 @@
           ],
           "companyAbbreviation": "益鈞環科*"
         },
-        "datetime": "115/05/16 05:59:28"
+        "datetime": "115/05/16 07:04:16"
       },
-      "fetched_at_tw": "2026-05-16 05:59:23"
+      "fetched_at_tw": "2026-05-16 07:04:10"
     }
   ]
 }
