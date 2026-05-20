@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-05-21 01:38:49",
+    "run_at_tw": "2026-05-21 04:13:35",
     "query": {
       "year": "115",
       "month": "5",
@@ -32,9 +32,9 @@
         "公司債"
       ],
       "detail_params": {
-        "companyId": "2881",
-        "marketKind": "sii",
         "enterDate": "1150520",
+        "marketKind": "sii",
+        "companyId": "2881",
         "serialNumber": 2
       },
       "detail": {
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "富邦金"
         },
-        "datetime": "115/05/21 01:38:50"
+        "datetime": "115/05/21 04:13:36"
       },
-      "fetched_at_tw": "2026-05-21 01:38:49"
+      "fetched_at_tw": "2026-05-21 04:13:35"
     },
     {
       "key": "1150520|sii|3717|1",
@@ -126,9 +126,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "3717",
-        "marketKind": "sii",
         "enterDate": "1150520",
+        "marketKind": "sii",
+        "companyId": "3717",
         "serialNumber": 1
       },
       "detail": {
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "聯嘉投控"
         },
-        "datetime": "115/05/21 01:38:50"
+        "datetime": "115/05/21 04:13:37"
       },
-      "fetched_at_tw": "2026-05-21 01:38:49"
+      "fetched_at_tw": "2026-05-21 04:13:35"
     },
     {
       "key": "1150520|sii|3717|2",
@@ -220,9 +220,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "3717",
-        "marketKind": "sii",
         "enterDate": "1150520",
+        "marketKind": "sii",
+        "companyId": "3717",
         "serialNumber": 2
       },
       "detail": {
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "聯嘉投控"
         },
-        "datetime": "115/05/21 01:38:51"
+        "datetime": "115/05/21 04:13:37"
       },
-      "fetched_at_tw": "2026-05-21 01:38:49"
+      "fetched_at_tw": "2026-05-21 04:13:35"
     },
     {
       "key": "1150520|sii|2206|1",
@@ -314,9 +314,9 @@
         "庫藏股"
       ],
       "detail_params": {
-        "companyId": "2206",
-        "marketKind": "sii",
         "enterDate": "1150520",
+        "marketKind": "sii",
+        "companyId": "2206",
         "serialNumber": 1
       },
       "detail": {
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "三陽工業"
         },
-        "datetime": "115/05/21 01:38:52"
+        "datetime": "115/05/21 04:13:38"
       },
-      "fetched_at_tw": "2026-05-21 01:38:49"
+      "fetched_at_tw": "2026-05-21 04:13:35"
     },
     {
       "key": "1150520|otc|6584|1",
@@ -408,9 +408,9 @@
         "公司債"
       ],
       "detail_params": {
-        "companyId": "6584",
-        "marketKind": "otc",
         "enterDate": "1150520",
+        "marketKind": "otc",
+        "companyId": "6584",
         "serialNumber": 1
       },
       "detail": {
@@ -487,9 +487,9 @@
           ],
           "companyAbbreviation": "南俊國際"
         },
-        "datetime": "115/05/21 01:38:52"
+        "datetime": "115/05/21 04:13:39"
       },
-      "fetched_at_tw": "2026-05-21 01:38:49"
+      "fetched_at_tw": "2026-05-21 04:13:35"
     },
     {
       "key": "1150520|otc|5289|1",
@@ -502,9 +502,9 @@
         "公司債"
       ],
       "detail_params": {
-        "companyId": "5289",
-        "marketKind": "otc",
         "enterDate": "1150520",
+        "marketKind": "otc",
+        "companyId": "5289",
         "serialNumber": 1
       },
       "detail": {
@@ -581,9 +581,9 @@
           ],
           "companyAbbreviation": "宜鼎"
         },
-        "datetime": "115/05/21 01:38:53"
+        "datetime": "115/05/21 04:13:39"
       },
-      "fetched_at_tw": "2026-05-21 01:38:49"
+      "fetched_at_tw": "2026-05-21 04:13:35"
     },
     {
       "key": "1150520|rotc|4573|3",
@@ -596,9 +596,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "4573",
-        "marketKind": "rotc",
         "enterDate": "1150520",
+        "marketKind": "rotc",
+        "companyId": "4573",
         "serialNumber": 3
       },
       "detail": {
@@ -675,9 +675,9 @@
           ],
           "companyAbbreviation": "高明鐵"
         },
-        "datetime": "115/05/21 01:38:54"
+        "datetime": "115/05/21 04:13:40"
       },
-      "fetched_at_tw": "2026-05-21 01:38:49"
+      "fetched_at_tw": "2026-05-21 04:13:35"
     },
     {
       "key": "1150520|rotc|6707|1",
@@ -690,9 +690,9 @@
         "自結合併"
       ],
       "detail_params": {
-        "companyId": "6707",
-        "marketKind": "rotc",
         "enterDate": "1150520",
+        "marketKind": "rotc",
+        "companyId": "6707",
         "serialNumber": 1
       },
       "detail": {
@@ -769,9 +769,9 @@
           ],
           "companyAbbreviation": "富基電通"
         },
-        "datetime": "115/05/21 01:38:54"
+        "datetime": "115/05/21 04:13:40"
       },
-      "fetched_at_tw": "2026-05-21 01:38:49"
+      "fetched_at_tw": "2026-05-21 04:13:35"
     }
   ]
 }
