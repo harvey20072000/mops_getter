@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-05-23 06:58:10",
+    "run_at_tw": "2026-05-23 08:12:24",
     "query": {
       "year": "115",
       "month": "5",
@@ -32,10 +32,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "3036",
         "marketKind": "sii",
-        "enterDate": "1150522",
-        "serialNumber": 1
+        "companyId": "3036",
+        "serialNumber": 1,
+        "enterDate": "1150522"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "文曄"
         },
-        "datetime": "115/05/23 06:58:11"
+        "datetime": "115/05/23 08:12:26"
       },
-      "fetched_at_tw": "2026-05-23 06:58:10"
+      "fetched_at_tw": "2026-05-23 08:12:24"
     },
     {
       "key": "1150522|sii|3036|2",
@@ -126,10 +126,10 @@
         "公司債"
       ],
       "detail_params": {
-        "companyId": "3036",
         "marketKind": "sii",
-        "enterDate": "1150522",
-        "serialNumber": 2
+        "companyId": "3036",
+        "serialNumber": 2,
+        "enterDate": "1150522"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "文曄"
         },
-        "datetime": "115/05/23 06:58:12"
+        "datetime": "115/05/23 08:12:27"
       },
-      "fetched_at_tw": "2026-05-23 06:58:10"
+      "fetched_at_tw": "2026-05-23 08:12:24"
     },
     {
       "key": "1150522|sii|3036|3",
@@ -220,10 +220,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "3036",
         "marketKind": "sii",
-        "enterDate": "1150522",
-        "serialNumber": 3
+        "companyId": "3036",
+        "serialNumber": 3,
+        "enterDate": "1150522"
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "文曄"
         },
-        "datetime": "115/05/23 06:58:13"
+        "datetime": "115/05/23 08:12:28"
       },
-      "fetched_at_tw": "2026-05-23 06:58:10"
+      "fetched_at_tw": "2026-05-23 08:12:24"
     },
     {
       "key": "1150522|sii|3056|1",
@@ -314,10 +314,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "companyId": "3056",
         "marketKind": "sii",
-        "enterDate": "1150522",
-        "serialNumber": 1
+        "companyId": "3056",
+        "serialNumber": 1,
+        "enterDate": "1150522"
       },
       "detail": {
         "code": 200,
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "富華新"
         },
-        "datetime": "115/05/23 06:58:14"
+        "datetime": "115/05/23 08:12:29"
       },
-      "fetched_at_tw": "2026-05-23 06:58:10"
+      "fetched_at_tw": "2026-05-23 08:12:24"
     },
     {
       "key": "1150522|sii|4934|4",
@@ -408,10 +408,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "4934",
         "marketKind": "sii",
-        "enterDate": "1150522",
-        "serialNumber": 4
+        "companyId": "4934",
+        "serialNumber": 4,
+        "enterDate": "1150522"
       },
       "detail": {
         "code": 200,
@@ -487,9 +487,9 @@
           ],
           "companyAbbreviation": "太極"
         },
-        "datetime": "115/05/23 06:58:14"
+        "datetime": "115/05/23 08:12:29"
       },
-      "fetched_at_tw": "2026-05-23 06:58:10"
+      "fetched_at_tw": "2026-05-23 08:12:24"
     },
     {
       "key": "1150522|sii|2328|4",
@@ -502,10 +502,10 @@
         "自結合併"
       ],
       "detail_params": {
-        "companyId": "2328",
         "marketKind": "sii",
-        "enterDate": "1150522",
-        "serialNumber": 4
+        "companyId": "2328",
+        "serialNumber": 4,
+        "enterDate": "1150522"
       },
       "detail": {
         "code": 200,
@@ -581,9 +581,9 @@
           ],
           "companyAbbreviation": "廣宇"
         },
-        "datetime": "115/05/23 06:58:15"
+        "datetime": "115/05/23 08:12:30"
       },
-      "fetched_at_tw": "2026-05-23 06:58:10"
+      "fetched_at_tw": "2026-05-23 08:12:24"
     },
     {
       "key": "1150522|rotc|6775|2",
@@ -596,10 +596,10 @@
         "自結合併"
       ],
       "detail_params": {
-        "companyId": "6775",
         "marketKind": "rotc",
-        "enterDate": "1150522",
-        "serialNumber": 2
+        "companyId": "6775",
+        "serialNumber": 2,
+        "enterDate": "1150522"
       },
       "detail": {
         "code": 200,
@@ -675,9 +675,9 @@
           ],
           "companyAbbreviation": "穎台科技"
         },
-        "datetime": "115/05/23 06:58:16"
+        "datetime": "115/05/23 08:12:31"
       },
-      "fetched_at_tw": "2026-05-23 06:58:10"
+      "fetched_at_tw": "2026-05-23 08:12:24"
     }
   ]
 }
