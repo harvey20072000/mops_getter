@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-05-24 19:16:06",
+    "run_at_tw": "2026-05-24 20:40:22",
     "query": {
       "year": "115",
       "month": "5",
@@ -32,10 +32,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "marketKind": "sii",
         "companyId": "4958",
-        "serialNumber": 4,
-        "enterDate": "1150523"
+        "marketKind": "sii",
+        "enterDate": "1150523",
+        "serialNumber": 4
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "臻鼎-KY"
         },
-        "datetime": "115/05/24 19:16:07"
+        "datetime": "115/05/24 20:40:22"
       },
-      "fetched_at_tw": "2026-05-24 19:16:06"
+      "fetched_at_tw": "2026-05-24 20:40:22"
     }
   ]
 }
