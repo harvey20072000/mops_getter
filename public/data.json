@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-05-28 04:34:35",
+    "run_at_tw": "2026-05-28 06:40:20",
     "query": {
       "year": "115",
       "month": "5",
@@ -32,10 +32,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "2887",
         "marketKind": "sii",
-        "enterDate": "1150527",
-        "serialNumber": 3
+        "companyId": "2887",
+        "serialNumber": 3,
+        "enterDate": "1150527"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "台新新光金"
         },
-        "datetime": "115/05/28 04:34:36"
+        "datetime": "115/05/28 06:40:21"
       },
-      "fetched_at_tw": "2026-05-28 04:34:35"
+      "fetched_at_tw": "2026-05-28 06:40:20"
     },
     {
       "key": "1150527|sii|1909|7",
@@ -126,10 +126,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "companyId": "1909",
         "marketKind": "sii",
-        "enterDate": "1150527",
-        "serialNumber": 7
+        "companyId": "1909",
+        "serialNumber": 7,
+        "enterDate": "1150527"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "榮成"
         },
-        "datetime": "115/05/28 04:34:37"
+        "datetime": "115/05/28 06:40:21"
       },
-      "fetched_at_tw": "2026-05-28 04:34:35"
+      "fetched_at_tw": "2026-05-28 06:40:20"
     },
     {
       "key": "1150527|sii|6670|8",
@@ -220,10 +220,10 @@
         "公司債"
       ],
       "detail_params": {
-        "companyId": "6670",
         "marketKind": "sii",
-        "enterDate": "1150527",
-        "serialNumber": 8
+        "companyId": "6670",
+        "serialNumber": 8,
+        "enterDate": "1150527"
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "復盛應用"
         },
-        "datetime": "115/05/28 04:34:38"
+        "datetime": "115/05/28 06:40:22"
       },
-      "fetched_at_tw": "2026-05-28 04:34:35"
+      "fetched_at_tw": "2026-05-28 06:40:20"
     },
     {
       "key": "1150527|otc|6125|1",
@@ -314,10 +314,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "6125",
         "marketKind": "otc",
-        "enterDate": "1150527",
-        "serialNumber": 1
+        "companyId": "6125",
+        "serialNumber": 1,
+        "enterDate": "1150527"
       },
       "detail": {
         "code": 200,
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "廣運"
         },
-        "datetime": "115/05/28 04:34:39"
+        "datetime": "115/05/28 06:40:23"
       },
-      "fetched_at_tw": "2026-05-28 04:34:35"
+      "fetched_at_tw": "2026-05-28 06:40:20"
     },
     {
       "key": "1150527|rotc|6682|3",
@@ -408,10 +408,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "6682",
         "marketKind": "rotc",
-        "enterDate": "1150527",
-        "serialNumber": 3
+        "companyId": "6682",
+        "serialNumber": 3,
+        "enterDate": "1150527"
       },
       "detail": {
         "code": 200,
@@ -487,9 +487,9 @@
           ],
           "companyAbbreviation": "華旭先進"
         },
-        "datetime": "115/05/28 04:34:40"
+        "datetime": "115/05/28 06:40:24"
       },
-      "fetched_at_tw": "2026-05-28 04:34:35"
+      "fetched_at_tw": "2026-05-28 06:40:20"
     }
   ]
 }
