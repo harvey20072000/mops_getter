@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-05-29 00:12:23",
+    "run_at_tw": "2026-05-29 03:10:15",
     "query": {
       "year": "115",
       "month": "5",
@@ -32,10 +32,10 @@
         "公司債"
       ],
       "detail_params": {
+        "enterDate": "1150528",
         "marketKind": "sii",
         "companyId": "3045",
-        "serialNumber": 1,
-        "enterDate": "1150528"
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "台灣大"
         },
-        "datetime": "115/05/29 00:12:25"
+        "datetime": "115/05/29 03:10:17"
       },
-      "fetched_at_tw": "2026-05-29 00:12:23"
+      "fetched_at_tw": "2026-05-29 03:10:15"
     },
     {
       "key": "1150528|sii|3045|2",
@@ -126,10 +126,10 @@
         "公司債"
       ],
       "detail_params": {
+        "enterDate": "1150528",
         "marketKind": "sii",
         "companyId": "3045",
-        "serialNumber": 2,
-        "enterDate": "1150528"
+        "serialNumber": 2
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "台灣大"
         },
-        "datetime": "115/05/29 00:12:26"
+        "datetime": "115/05/29 03:10:17"
       },
-      "fetched_at_tw": "2026-05-29 00:12:23"
+      "fetched_at_tw": "2026-05-29 03:10:15"
     },
     {
       "key": "1150528|sii|6446|4",
@@ -220,10 +220,10 @@
         "資本支出"
       ],
       "detail_params": {
+        "enterDate": "1150528",
         "marketKind": "sii",
         "companyId": "6446",
-        "serialNumber": 4,
-        "enterDate": "1150528"
+        "serialNumber": 4
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "藥華藥"
         },
-        "datetime": "115/05/29 00:12:26"
+        "datetime": "115/05/29 03:10:18"
       },
-      "fetched_at_tw": "2026-05-29 00:12:23"
+      "fetched_at_tw": "2026-05-29 03:10:15"
     },
     {
       "key": "1150528|otc|6223|1",
@@ -314,10 +314,10 @@
         "公司債"
       ],
       "detail_params": {
+        "enterDate": "1150528",
         "marketKind": "otc",
         "companyId": "6223",
-        "serialNumber": 1,
-        "enterDate": "1150528"
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "旺矽"
         },
-        "datetime": "115/05/29 00:12:27"
+        "datetime": "115/05/29 03:10:19"
       },
-      "fetched_at_tw": "2026-05-29 00:12:23"
+      "fetched_at_tw": "2026-05-29 03:10:15"
     },
     {
       "key": "1150528|otc|4745|2",
@@ -408,10 +408,10 @@
         "庫藏股"
       ],
       "detail_params": {
+        "enterDate": "1150528",
         "marketKind": "otc",
         "companyId": "4745",
-        "serialNumber": 2,
-        "enterDate": "1150528"
+        "serialNumber": 2
       },
       "detail": {
         "code": 200,
@@ -487,9 +487,9 @@
           ],
           "companyAbbreviation": "合富-KY"
         },
-        "datetime": "115/05/29 00:12:28"
+        "datetime": "115/05/29 03:10:19"
       },
-      "fetched_at_tw": "2026-05-29 00:12:23"
+      "fetched_at_tw": "2026-05-29 03:10:15"
     }
   ]
 }
