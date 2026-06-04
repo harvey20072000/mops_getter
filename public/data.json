@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-06-04 06:09:52",
+    "run_at_tw": "2026-06-04 08:12:30",
     "query": {
       "year": "115",
       "month": "6",
@@ -32,9 +32,9 @@
         "廠務設備"
       ],
       "detail_params": {
-        "enterDate": "1150603",
-        "serialNumber": 1,
         "companyId": "2408",
+        "serialNumber": 1,
+        "enterDate": "1150603",
         "marketKind": "sii"
       },
       "detail": {
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "南亞科"
         },
-        "datetime": "115/06/04 06:09:54"
+        "datetime": "115/06/04 08:12:31"
       },
-      "fetched_at_tw": "2026-06-04 06:09:52"
+      "fetched_at_tw": "2026-06-04 08:12:30"
     },
     {
       "key": "1150603|sii|4958|2",
@@ -126,9 +126,9 @@
         "機器設備"
       ],
       "detail_params": {
-        "enterDate": "1150603",
-        "serialNumber": 2,
         "companyId": "4958",
+        "serialNumber": 2,
+        "enterDate": "1150603",
         "marketKind": "sii"
       },
       "detail": {
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "臻鼎-KY"
         },
-        "datetime": "115/06/04 06:09:54"
+        "datetime": "115/06/04 08:12:32"
       },
-      "fetched_at_tw": "2026-06-04 06:09:52"
+      "fetched_at_tw": "2026-06-04 08:12:30"
     }
   ]
 }
