@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-06-13 16:36:02",
+    "run_at_tw": "2026-06-13 19:13:28",
     "query": {
       "year": "115",
       "month": "6",
@@ -32,10 +32,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "serialNumber": 1,
-        "enterDate": "1150612",
+        "companyId": "2408",
         "marketKind": "sii",
-        "companyId": "2408"
+        "enterDate": "1150612",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "南亞科"
         },
-        "datetime": "115/06/13 16:36:04"
+        "datetime": "115/06/13 19:13:29"
       },
-      "fetched_at_tw": "2026-06-13 16:36:02"
+      "fetched_at_tw": "2026-06-13 19:13:28"
     },
     {
       "key": "1150612|sii|3711|1",
@@ -126,10 +126,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "serialNumber": 1,
-        "enterDate": "1150612",
+        "companyId": "3711",
         "marketKind": "sii",
-        "companyId": "3711"
+        "enterDate": "1150612",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "日月光投控"
         },
-        "datetime": "115/06/13 16:36:04"
+        "datetime": "115/06/13 19:13:29"
       },
-      "fetched_at_tw": "2026-06-13 16:36:02"
+      "fetched_at_tw": "2026-06-13 19:13:28"
     },
     {
       "key": "1150612|sii|3711|2",
@@ -220,10 +220,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "serialNumber": 2,
-        "enterDate": "1150612",
+        "companyId": "3711",
         "marketKind": "sii",
-        "companyId": "3711"
+        "enterDate": "1150612",
+        "serialNumber": 2
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "日月光投控"
         },
-        "datetime": "115/06/13 16:36:05"
+        "datetime": "115/06/13 19:13:30"
       },
-      "fetched_at_tw": "2026-06-13 16:36:02"
+      "fetched_at_tw": "2026-06-13 19:13:28"
     },
     {
       "key": "1150612|sii|3711|3",
@@ -314,10 +314,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "serialNumber": 3,
-        "enterDate": "1150612",
+        "companyId": "3711",
         "marketKind": "sii",
-        "companyId": "3711"
+        "enterDate": "1150612",
+        "serialNumber": 3
       },
       "detail": {
         "code": 200,
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "日月光投控"
         },
-        "datetime": "115/06/13 16:36:06"
+        "datetime": "115/06/13 19:13:30"
       },
-      "fetched_at_tw": "2026-06-13 16:36:02"
+      "fetched_at_tw": "2026-06-13 19:13:28"
     },
     {
       "key": "1150612|sii|3717|2",
@@ -408,10 +408,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "serialNumber": 2,
-        "enterDate": "1150612",
+        "companyId": "3717",
         "marketKind": "sii",
-        "companyId": "3717"
+        "enterDate": "1150612",
+        "serialNumber": 2
       },
       "detail": {
         "code": 200,
@@ -487,9 +487,9 @@
           ],
           "companyAbbreviation": "聯嘉投控"
         },
-        "datetime": "115/06/13 16:36:07"
+        "datetime": "115/06/13 19:13:32"
       },
-      "fetched_at_tw": "2026-06-13 16:36:02"
+      "fetched_at_tw": "2026-06-13 19:13:28"
     },
     {
       "key": "1150612|sii|4414|1",
@@ -502,10 +502,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "serialNumber": 1,
-        "enterDate": "1150612",
+        "companyId": "4414",
         "marketKind": "sii",
-        "companyId": "4414"
+        "enterDate": "1150612",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -581,9 +581,9 @@
           ],
           "companyAbbreviation": "如興"
         },
-        "datetime": "115/06/13 16:36:07"
+        "datetime": "115/06/13 19:13:33"
       },
-      "fetched_at_tw": "2026-06-13 16:36:02"
+      "fetched_at_tw": "2026-06-13 19:13:28"
     }
   ]
 }
