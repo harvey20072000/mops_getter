@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-06-18 00:10:59",
+    "run_at_tw": "2026-06-18 02:40:38",
     "query": {
       "year": "115",
       "month": "6",
@@ -32,10 +32,10 @@
         "公司債"
       ],
       "detail_params": {
-        "serialNumber": 1,
-        "enterDate": "1150617",
+        "companyId": "4967",
         "marketKind": "sii",
-        "companyId": "4967"
+        "enterDate": "1150617",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "十銓"
         },
-        "datetime": "115/06/18 00:11:00"
+        "datetime": "115/06/18 02:40:39"
       },
-      "fetched_at_tw": "2026-06-18 00:10:59"
+      "fetched_at_tw": "2026-06-18 02:40:38"
     },
     {
       "key": "1150617|sii|4977|3",
@@ -126,10 +126,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "serialNumber": 3,
-        "enterDate": "1150617",
+        "companyId": "4977",
         "marketKind": "sii",
-        "companyId": "4977"
+        "enterDate": "1150617",
+        "serialNumber": 3
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "眾達-KY"
         },
-        "datetime": "115/06/18 00:11:01"
+        "datetime": "115/06/18 02:40:40"
       },
-      "fetched_at_tw": "2026-06-18 00:10:59"
+      "fetched_at_tw": "2026-06-18 02:40:38"
     },
     {
       "key": "1150617|sii|2301|2",
@@ -220,10 +220,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "serialNumber": 2,
-        "enterDate": "1150617",
+        "companyId": "2301",
         "marketKind": "sii",
-        "companyId": "2301"
+        "enterDate": "1150617",
+        "serialNumber": 2
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "光寶科"
         },
-        "datetime": "115/06/18 00:11:02"
+        "datetime": "115/06/18 02:40:40"
       },
-      "fetched_at_tw": "2026-06-18 00:10:59"
+      "fetched_at_tw": "2026-06-18 02:40:38"
     },
     {
       "key": "1150617|sii|2885|5",
@@ -314,10 +314,10 @@
         "公司債"
       ],
       "detail_params": {
-        "serialNumber": 5,
-        "enterDate": "1150617",
+        "companyId": "2885",
         "marketKind": "sii",
-        "companyId": "2885"
+        "enterDate": "1150617",
+        "serialNumber": 5
       },
       "detail": {
         "code": 200,
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "元大金"
         },
-        "datetime": "115/06/18 00:11:03"
+        "datetime": "115/06/18 02:40:41"
       },
-      "fetched_at_tw": "2026-06-18 00:10:59"
+      "fetched_at_tw": "2026-06-18 02:40:38"
     },
     {
       "key": "1150617|otc|6182|2",
@@ -408,10 +408,10 @@
         "公司債"
       ],
       "detail_params": {
-        "serialNumber": 2,
-        "enterDate": "1150617",
+        "companyId": "6182",
         "marketKind": "otc",
-        "companyId": "6182"
+        "enterDate": "1150617",
+        "serialNumber": 2
       },
       "detail": {
         "code": 200,
@@ -487,9 +487,9 @@
           ],
           "companyAbbreviation": "合晶"
         },
-        "datetime": "115/06/18 00:11:05"
+        "datetime": "115/06/18 02:40:42"
       },
-      "fetched_at_tw": "2026-06-18 00:10:59"
+      "fetched_at_tw": "2026-06-18 02:40:38"
     },
     {
       "key": "1150617|otc|6182|3",
@@ -502,10 +502,10 @@
         "公司債"
       ],
       "detail_params": {
-        "serialNumber": 3,
-        "enterDate": "1150617",
+        "companyId": "6182",
         "marketKind": "otc",
-        "companyId": "6182"
+        "enterDate": "1150617",
+        "serialNumber": 3
       },
       "detail": {
         "code": 200,
@@ -581,9 +581,9 @@
           ],
           "companyAbbreviation": "合晶"
         },
-        "datetime": "115/06/18 00:11:05"
+        "datetime": "115/06/18 02:40:43"
       },
-      "fetched_at_tw": "2026-06-18 00:10:59"
+      "fetched_at_tw": "2026-06-18 02:40:38"
     },
     {
       "key": "1150617|pub|6954|1",
@@ -596,10 +596,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "serialNumber": 1,
-        "enterDate": "1150617",
+        "companyId": "6954",
         "marketKind": "pub",
-        "companyId": "6954"
+        "enterDate": "1150617",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -675,9 +675,9 @@
           ],
           "companyAbbreviation": "全盈支付"
         },
-        "datetime": "115/06/18 00:11:07"
+        "datetime": "115/06/18 02:40:44"
       },
-      "fetched_at_tw": "2026-06-18 00:10:59"
+      "fetched_at_tw": "2026-06-18 02:40:38"
     }
   ]
 }
