@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-06-30 06:35:50",
+    "run_at_tw": "2026-06-30 08:03:26",
     "query": {
       "year": "115",
       "month": "6",
@@ -17,8 +17,8 @@
       "公司債",
       "庫藏股"
     ],
-    "matched_count": 15,
-    "new_matched_count": 0
+    "matched_count": 17,
+    "new_matched_count": 2
   },
   "items": [
     {
@@ -32,10 +32,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "companyId": "3711",
-        "marketKind": "sii",
+        "serialNumber": 5,
         "enterDate": "1150629",
-        "serialNumber": 5
+        "marketKind": "sii",
+        "companyId": "3711"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "日月光投控"
         },
-        "datetime": "115/06/30 06:35:52"
+        "datetime": "115/06/30 08:03:28"
       },
-      "fetched_at_tw": "2026-06-30 06:35:50"
+      "fetched_at_tw": "2026-06-30 08:03:26"
     },
     {
       "key": "1150629|sii|2408|1",
@@ -126,10 +126,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "companyId": "2408",
-        "marketKind": "sii",
+        "serialNumber": 1,
         "enterDate": "1150629",
-        "serialNumber": 1
+        "marketKind": "sii",
+        "companyId": "2408"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "南亞科"
         },
-        "datetime": "115/06/30 06:35:52"
+        "datetime": "115/06/30 08:03:29"
       },
-      "fetched_at_tw": "2026-06-30 06:35:50"
+      "fetched_at_tw": "2026-06-30 08:03:26"
     },
     {
       "key": "1150629|sii|3711|6",
@@ -220,10 +220,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "companyId": "3711",
-        "marketKind": "sii",
+        "serialNumber": 6,
         "enterDate": "1150629",
-        "serialNumber": 6
+        "marketKind": "sii",
+        "companyId": "3711"
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "日月光投控"
         },
-        "datetime": "115/06/30 06:35:53"
+        "datetime": "115/06/30 08:03:30"
       },
-      "fetched_at_tw": "2026-06-30 06:35:50"
+      "fetched_at_tw": "2026-06-30 08:03:26"
     },
     {
       "key": "1150629|sii|2303|1",
@@ -314,10 +314,10 @@
         "買回公司股份"
       ],
       "detail_params": {
-        "companyId": "2303",
-        "marketKind": "sii",
+        "serialNumber": 1,
         "enterDate": "1150629",
-        "serialNumber": 1
+        "marketKind": "sii",
+        "companyId": "2303"
       },
       "detail": {
         "code": 200,
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "聯電"
         },
-        "datetime": "115/06/30 06:35:53"
+        "datetime": "115/06/30 08:03:33"
       },
-      "fetched_at_tw": "2026-06-30 06:35:50"
+      "fetched_at_tw": "2026-06-30 08:03:26"
     },
     {
       "key": "1150629|sii|4958|8",
@@ -408,10 +408,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "companyId": "4958",
-        "marketKind": "sii",
+        "serialNumber": 8,
         "enterDate": "1150629",
-        "serialNumber": 8
+        "marketKind": "sii",
+        "companyId": "4958"
       },
       "detail": {
         "code": 200,
@@ -487,9 +487,9 @@
           ],
           "companyAbbreviation": "臻鼎-KY"
         },
-        "datetime": "115/06/30 06:35:54"
+        "datetime": "115/06/30 08:03:34"
       },
-      "fetched_at_tw": "2026-06-30 06:35:50"
+      "fetched_at_tw": "2026-06-30 08:03:26"
     },
     {
       "key": "1150629|sii|7610|1",
@@ -502,10 +502,10 @@
         "公司債"
       ],
       "detail_params": {
-        "companyId": "7610",
-        "marketKind": "sii",
+        "serialNumber": 1,
         "enterDate": "1150629",
-        "serialNumber": 1
+        "marketKind": "sii",
+        "companyId": "7610"
       },
       "detail": {
         "code": 200,
@@ -581,9 +581,103 @@
           ],
           "companyAbbreviation": "聯友金屬-創"
         },
-        "datetime": "115/06/30 06:35:54"
+        "datetime": "115/06/30 08:03:35"
       },
-      "fetched_at_tw": "2026-06-30 06:35:50"
+      "fetched_at_tw": "2026-06-30 08:03:26"
+    },
+    {
+      "key": "1150629|sii|6908|1",
+      "speech_date": "115/06/30",
+      "speech_time": "06:59:00",
+      "company_id": "6908",
+      "company_name": "宏碁遊戲-創",
+      "subject": "代子公司WinkingStudiosLimited公告庫藏股執行情形",
+      "matched_keywords": [
+        "庫藏股"
+      ],
+      "detail_params": {
+        "serialNumber": 1,
+        "enterDate": "1150629",
+        "marketKind": "sii",
+        "companyId": "6908"
+      },
+      "detail": {
+        "code": 200,
+        "message": "查詢成功",
+        "result": {
+          "marketName": "上市公司",
+          "companyId": "6908",
+          "data": [
+            [
+              1,
+              "115/06/30",
+              "06:59:00",
+              "徐挺洋",
+              "總經理",
+              "(02)26960068",
+              "代子公司Winking Studios Limited公告庫藏股執行情形",
+              "51",
+              "115/06/29",
+              "1.事實發生日:115/06/29\n2.公司名稱:Winking Studios Limited\n3.與公司關係(請輸入本公司或子公司):子公司\n4.相互持股比例:57.19%\n5.發生緣由:無\n6.因應措施:無\n7.其他應敘明事項(若事件發生或決議之主體係屬公開發行以上公司，本則重大訊息同時\n  符合證券交易法施行細則第7條第9款所定對股東權益或證券價格有重大影響之事項):\n每日股票回購指示的生效日期: 2026/06/29\n授權購買的最大股份數量: 44,193,811\n透過市場收購方式進行的購買: 是\n購買日期: 2026/06/29\n購買股份總數: 20,000\n註銷股份數量:0\n庫存股數量: 389,000\n每股最高價格: SGD 0.22\n每股最低價格: SGD 0.22\n股份已支付或應付的總對價(包括印花稅、清算費用等): SGD 4,426.76\n截至目前累計購買股數: 389,000\n已發行股份數量(不包括購買後的庫存股): 441,549,118\n購買後持有的庫存股數量: 389,000"
+            ]
+          ],
+          "footer": [
+            "以上資料均由各公司依發言當時所屬市場別之規定申報後，由本系統對外公佈，資料如有虛偽不實，均由該公司負責。"
+          ],
+          "header": {
+            "note": [],
+            "subTitle": [],
+            "mainTitle": [
+              "公司當日重大訊息之詳細內容"
+            ]
+          },
+          "titles": [
+            {
+              "sub": [],
+              "main": "序號"
+            },
+            {
+              "sub": [],
+              "main": "發言日期"
+            },
+            {
+              "sub": [],
+              "main": "發言時間"
+            },
+            {
+              "sub": [],
+              "main": "發言人"
+            },
+            {
+              "sub": [],
+              "main": "發言人職稱"
+            },
+            {
+              "sub": [],
+              "main": "發言人電話"
+            },
+            {
+              "sub": [],
+              "main": "主旨"
+            },
+            {
+              "sub": [],
+              "main": "符合條款"
+            },
+            {
+              "sub": [],
+              "main": "事實發生日"
+            },
+            {
+              "sub": [],
+              "main": "說明"
+            }
+          ],
+          "companyAbbreviation": "宏碁遊戲-創"
+        },
+        "datetime": "115/06/30 08:03:36"
+      },
+      "fetched_at_tw": "2026-06-30 08:03:26"
     },
     {
       "key": "1150629|otc|3664|1",
@@ -596,10 +690,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "companyId": "3664",
-        "marketKind": "otc",
+        "serialNumber": 1,
         "enterDate": "1150629",
-        "serialNumber": 1
+        "marketKind": "otc",
+        "companyId": "3664"
       },
       "detail": {
         "code": 200,
@@ -675,9 +769,9 @@
           ],
           "companyAbbreviation": "安瑞-KY"
         },
-        "datetime": "115/06/30 06:35:55"
+        "datetime": "115/06/30 08:03:37"
       },
-      "fetched_at_tw": "2026-06-30 06:35:50"
+      "fetched_at_tw": "2026-06-30 08:03:26"
     },
     {
       "key": "1150629|otc|3664|2",
@@ -690,10 +784,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "companyId": "3664",
-        "marketKind": "otc",
+        "serialNumber": 2,
         "enterDate": "1150629",
-        "serialNumber": 2
+        "marketKind": "otc",
+        "companyId": "3664"
       },
       "detail": {
         "code": 200,
@@ -769,9 +863,9 @@
           ],
           "companyAbbreviation": "安瑞-KY"
         },
-        "datetime": "115/06/30 06:35:56"
+        "datetime": "115/06/30 08:03:38"
       },
-      "fetched_at_tw": "2026-06-30 06:35:50"
+      "fetched_at_tw": "2026-06-30 08:03:26"
     },
     {
       "key": "1150629|otc|3479|1",
@@ -784,10 +878,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "companyId": "3479",
-        "marketKind": "otc",
+        "serialNumber": 1,
         "enterDate": "1150629",
-        "serialNumber": 1
+        "marketKind": "otc",
+        "companyId": "3479"
       },
       "detail": {
         "code": 200,
@@ -863,9 +957,9 @@
           ],
           "companyAbbreviation": "安勤"
         },
-        "datetime": "115/06/30 06:35:56"
+        "datetime": "115/06/30 08:03:40"
       },
-      "fetched_at_tw": "2026-06-30 06:35:50"
+      "fetched_at_tw": "2026-06-30 08:03:26"
     },
     {
       "key": "1150629|otc|6111|1",
@@ -878,10 +972,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "6111",
-        "marketKind": "otc",
+        "serialNumber": 1,
         "enterDate": "1150629",
-        "serialNumber": 1
+        "marketKind": "otc",
+        "companyId": "6111"
       },
       "detail": {
         "code": 200,
@@ -957,9 +1051,9 @@
           ],
           "companyAbbreviation": "光聚晶電"
         },
-        "datetime": "115/06/30 06:35:57"
+        "datetime": "115/06/30 08:03:41"
       },
-      "fetched_at_tw": "2026-06-30 06:35:50"
+      "fetched_at_tw": "2026-06-30 08:03:26"
     },
     {
       "key": "1150629|otc|6182|1",
@@ -972,10 +1066,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "6182",
-        "marketKind": "otc",
+        "serialNumber": 1,
         "enterDate": "1150629",
-        "serialNumber": 1
+        "marketKind": "otc",
+        "companyId": "6182"
       },
       "detail": {
         "code": 200,
@@ -1051,9 +1145,9 @@
           ],
           "companyAbbreviation": "合晶"
         },
-        "datetime": "115/06/30 06:35:57"
+        "datetime": "115/06/30 08:03:42"
       },
-      "fetched_at_tw": "2026-06-30 06:35:50"
+      "fetched_at_tw": "2026-06-30 08:03:26"
     },
     {
       "key": "1150629|otc|5263|1",
@@ -1066,10 +1160,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "5263",
-        "marketKind": "otc",
+        "serialNumber": 1,
         "enterDate": "1150629",
-        "serialNumber": 1
+        "marketKind": "otc",
+        "companyId": "5263"
       },
       "detail": {
         "code": 200,
@@ -1145,9 +1239,9 @@
           ],
           "companyAbbreviation": "智崴"
         },
-        "datetime": "115/06/30 06:35:58"
+        "datetime": "115/06/30 08:03:44"
       },
-      "fetched_at_tw": "2026-06-30 06:35:50"
+      "fetched_at_tw": "2026-06-30 08:03:26"
     },
     {
       "key": "1150629|otc|8059|2",
@@ -1160,10 +1254,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "8059",
-        "marketKind": "otc",
+        "serialNumber": 2,
         "enterDate": "1150629",
-        "serialNumber": 2
+        "marketKind": "otc",
+        "companyId": "8059"
       },
       "detail": {
         "code": 200,
@@ -1239,9 +1333,9 @@
           ],
           "companyAbbreviation": "凱碩"
         },
-        "datetime": "115/06/30 06:35:59"
+        "datetime": "115/06/30 08:03:45"
       },
-      "fetched_at_tw": "2026-06-30 06:35:50"
+      "fetched_at_tw": "2026-06-30 08:03:26"
     },
     {
       "key": "1150629|rotc|6734|3",
@@ -1254,10 +1348,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "6734",
-        "marketKind": "rotc",
+        "serialNumber": 3,
         "enterDate": "1150629",
-        "serialNumber": 3
+        "marketKind": "rotc",
+        "companyId": "6734"
       },
       "detail": {
         "code": 200,
@@ -1333,9 +1427,9 @@
           ],
           "companyAbbreviation": "安盛生"
         },
-        "datetime": "115/06/30 06:35:59"
+        "datetime": "115/06/30 08:03:45"
       },
-      "fetched_at_tw": "2026-06-30 06:35:50"
+      "fetched_at_tw": "2026-06-30 08:03:26"
     },
     {
       "key": "1150629|rotc|6734|4",
@@ -1348,10 +1442,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "6734",
-        "marketKind": "rotc",
+        "serialNumber": 4,
         "enterDate": "1150629",
-        "serialNumber": 4
+        "marketKind": "rotc",
+        "companyId": "6734"
       },
       "detail": {
         "code": 200,
@@ -1427,9 +1521,103 @@
           ],
           "companyAbbreviation": "安盛生"
         },
-        "datetime": "115/06/30 06:36:00"
+        "datetime": "115/06/30 08:03:46"
       },
-      "fetched_at_tw": "2026-06-30 06:35:50"
+      "fetched_at_tw": "2026-06-30 08:03:26"
+    },
+    {
+      "key": "1150630|rotc|6704|1",
+      "speech_date": "115/06/30",
+      "speech_time": "06:52:16",
+      "company_id": "6704",
+      "company_name": "國璽幹細胞",
+      "subject": "公告本公司決議申請調整115年度現金增資發行股數案。",
+      "matched_keywords": [
+        "現金增資"
+      ],
+      "detail_params": {
+        "serialNumber": 1,
+        "enterDate": "1150630",
+        "marketKind": "rotc",
+        "companyId": "6704"
+      },
+      "detail": {
+        "code": 200,
+        "message": "查詢成功",
+        "result": {
+          "marketName": "興櫃公司",
+          "companyId": "6704",
+          "data": [
+            [
+              1,
+              "115/06/30",
+              "06:52:16",
+              "邱淳芬",
+              "總經理",
+              "(03)658-5959",
+              "公告本公司決議申請調整115年度現金增資發行股數案。",
+              "44",
+              "115/06/30",
+              "1.事實發生日:115/06/30\n2.公司名稱:國璽幹細胞應用技術股份有限公司\n3.與公司關係(請輸入本公司或子公司):本公司\n4.相互持股比例:不適用\n5.發生緣由:\n  (1)本公司於115年3月20日董事會決議辦理現金增資發行普通股，並授權董事長視實\n     際情況全權處理發行股數等現金增資相關事宜，業經金融監督管理委員會115年4\n     月7日金管證字第1150338330號函核准生效本次現金增資發行普通股13,000,000股\n     申報生效在案。\n  (2)因應近期國內外通膨及經濟情勢變化不定，為避免損及本公司股東權益且考量認\n     購人投資意願，由董事長於115年6月30日出具承諾書，擬調整本次現金增資發發\n     行股數，自13,000,000股調整為10,000,000股，發行價格維持每股新台幣22元，\n     總募集金額為新台幣220,000,000元，俾使本次募資作業順利完成。\n6.因應措施:\n (1)115年6月30日向主管機關申請調整發行股數。\n (2)為確保原股東及員工之權益，將本次現金增資調整發行股數，對投資人權益所造成\n    之影響，特訂相關補償方案如下:\n    A.適用對象:本補償方案公告前已繳款之原股東、員工及認股人。\n    B.申請期間:自115年7月10日起至115年7月17日止。\n    C.申請方式:於本補償方案公告日(含)前已繳款之原股東、員工如已無認購意願，\n               請填具「股款退回申請書」，並檢附原現金增資認股繳款證明影本\n               (若遺失繳款整明請填具「切結書」)，填妥匯款銀行帳號，於115年\n               7月17日以前親自送達或掛號郵寄(以郵件送達為準)本公司股務代理\n               機構兆豐證券股份有限公司股務代理部【地址:臺北市中正區忠孝東\n               路二段95號1樓；電話:(02)3393-0898】，逾期未送(寄)達或上列文\n               件未齊全者，視同維持原認購意願。\n    D.補償金之計算:\n      對於本補償方案公告日前已繳款之原股東、員工及認股人如已無認購意願者，\n      本公司將加計利息退還其所繳納之股款，計算公式如下：\n      認購股款x【1+(自繳款日至實際退款日(註1)之天數)x中華郵政之一年期定期\n      儲金(小額)牌告機動利率(註2)/365】\n      註1：實際退款日訂於115年7月22日，應付款項將以匯款方式支付。\n      註2：中華郵政之一年期定期儲金(小額)牌告機動利率係以115年06月30日中華\n           郵政公告之利率計算之。\n      註3：應退還之已繳股款以新台幣元為計算單位，元以下無條件進位之元。\n    E.對於已繳款人要求退還原認購股數之股款，本公司負責人或洽特定人承諾悉數\n      認購，或洽其他特定人認足，並負責退還原繳款者所繳款項及支付應計利息。\n\n (3)承諾書\n        國璽幹細胞應用技術股份有限公司(下稱本公司)辦理115年度現金增資發行新\n    股案，經金融監督管理委員會115年04月07日金管證發字第1150338330號函申報生\n    效在案。\n        茲因近期國內外通膨及經濟情勢變化不定，為避免損及本公司股東權益且考\n    量認購人投資意願，經董事長於115年6月30日調整發行股數為10,000仟股，俾使\n    本次募資作業順利完成。\n        本公司及本人特此聲明，於本次現金增資募集作業期間將不影響原股東、員\n    工及認股人權益，若因發行股數調整，而造成參與此次現金增資之原股東、員工\n    及認股人權益受損，經提出合理及具體理由主張其權利受損部份，本公司及本人\n    願負相關損失賠償責任。\n    此致\n    金融監督管理委員會\n    立書承諾人:國璽幹細胞應用技術股份有限公司\n    董事長:莊明熙\n    中華民國   115  年  6  月  30  日\n7.其他應敘明事項(若事件發生或決議之主體係屬公開發行以上公司，\n本則重大訊息同時符合證券交易法施行細則第7條第9款所定\n對股東權益或證券價格有重大影響之事項):\n待取得主管機關調整發行股數核准函後，本次現金增資募足股款時之增資基準日及相關\n事宜依實際募款情形授權董事長另訂之。"
+            ]
+          ],
+          "footer": [
+            "以上資料均由各公司依發言當時所屬市場別之規定申報後，由本系統對外公佈，資料如有虛偽不實，均由該公司負責。"
+          ],
+          "header": {
+            "note": [],
+            "subTitle": [],
+            "mainTitle": [
+              "公司當日重大訊息之詳細內容"
+            ]
+          },
+          "titles": [
+            {
+              "sub": [],
+              "main": "序號"
+            },
+            {
+              "sub": [],
+              "main": "發言日期"
+            },
+            {
+              "sub": [],
+              "main": "發言時間"
+            },
+            {
+              "sub": [],
+              "main": "發言人"
+            },
+            {
+              "sub": [],
+              "main": "發言人職稱"
+            },
+            {
+              "sub": [],
+              "main": "發言人電話"
+            },
+            {
+              "sub": [],
+              "main": "主旨"
+            },
+            {
+              "sub": [],
+              "main": "符合條款"
+            },
+            {
+              "sub": [],
+              "main": "事實發生日"
+            },
+            {
+              "sub": [],
+              "main": "說明"
+            }
+          ],
+          "companyAbbreviation": "國璽幹細胞"
+        },
+        "datetime": "115/06/30 08:03:47"
+      },
+      "fetched_at_tw": "2026-06-30 08:03:26"
     }
   ]
 }
