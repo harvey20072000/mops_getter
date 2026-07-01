@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-07-02 06:00:35",
+    "run_at_tw": "2026-07-02 07:51:01",
     "query": {
       "year": "115",
       "month": "7",
@@ -32,10 +32,10 @@
         "公司債"
       ],
       "detail_params": {
-        "serialNumber": 3,
-        "enterDate": "1150701",
+        "companyId": "2247",
         "marketKind": "sii",
-        "companyId": "2247"
+        "enterDate": "1150701",
+        "serialNumber": 3
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "汎德永業"
         },
-        "datetime": "115/07/02 06:00:37"
+        "datetime": "115/07/02 07:51:03"
       },
-      "fetched_at_tw": "2026-07-02 06:00:35"
+      "fetched_at_tw": "2026-07-02 07:51:01"
     },
     {
       "key": "1150701|sii|2247|4",
@@ -126,10 +126,10 @@
         "公司債"
       ],
       "detail_params": {
-        "serialNumber": 4,
-        "enterDate": "1150701",
+        "companyId": "2247",
         "marketKind": "sii",
-        "companyId": "2247"
+        "enterDate": "1150701",
+        "serialNumber": 4
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "汎德永業"
         },
-        "datetime": "115/07/02 06:00:38"
+        "datetime": "115/07/02 07:51:05"
       },
-      "fetched_at_tw": "2026-07-02 06:00:35"
+      "fetched_at_tw": "2026-07-02 07:51:01"
     },
     {
       "key": "1150630|otc|3551|2",
@@ -220,10 +220,10 @@
         "公司債"
       ],
       "detail_params": {
-        "serialNumber": 2,
-        "enterDate": "1150630",
+        "companyId": "3551",
         "marketKind": "otc",
-        "companyId": "3551"
+        "enterDate": "1150630",
+        "serialNumber": 2
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "世禾"
         },
-        "datetime": "115/07/02 06:00:39"
+        "datetime": "115/07/02 07:51:06"
       },
-      "fetched_at_tw": "2026-07-02 06:00:35"
+      "fetched_at_tw": "2026-07-02 07:51:01"
     },
     {
       "key": "1150701|otc|4533|1",
@@ -314,10 +314,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "serialNumber": 1,
-        "enterDate": "1150701",
+        "companyId": "4533",
         "marketKind": "otc",
-        "companyId": "4533"
+        "enterDate": "1150701",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "協易機"
         },
-        "datetime": "115/07/02 06:00:39"
+        "datetime": "115/07/02 07:51:06"
       },
-      "fetched_at_tw": "2026-07-02 06:00:35"
+      "fetched_at_tw": "2026-07-02 07:51:01"
     },
     {
       "key": "1150701|otc|3219|1",
@@ -408,10 +408,10 @@
         "公司債"
       ],
       "detail_params": {
-        "serialNumber": 1,
-        "enterDate": "1150701",
+        "companyId": "3219",
         "marketKind": "otc",
-        "companyId": "3219"
+        "enterDate": "1150701",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -487,9 +487,9 @@
           ],
           "companyAbbreviation": "倚強科"
         },
-        "datetime": "115/07/02 06:00:40"
+        "datetime": "115/07/02 07:51:07"
       },
-      "fetched_at_tw": "2026-07-02 06:00:35"
+      "fetched_at_tw": "2026-07-02 07:51:01"
     },
     {
       "key": "1150701|rotc|7689|2",
@@ -502,10 +502,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "serialNumber": 2,
-        "enterDate": "1150701",
+        "companyId": "7689",
         "marketKind": "rotc",
-        "companyId": "7689"
+        "enterDate": "1150701",
+        "serialNumber": 2
       },
       "detail": {
         "code": 200,
@@ -581,9 +581,9 @@
           ],
           "companyAbbreviation": "大鵬科CLMX"
         },
-        "datetime": "115/07/02 06:00:41"
+        "datetime": "115/07/02 07:51:08"
       },
-      "fetched_at_tw": "2026-07-02 06:00:35"
+      "fetched_at_tw": "2026-07-02 07:51:01"
     }
   ]
 }
