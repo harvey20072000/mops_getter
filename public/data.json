@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-07-11 22:21:32",
+    "run_at_tw": "2026-07-11 23:30:13",
     "query": {
       "year": "115",
       "month": "7",
@@ -32,10 +32,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "3711",
         "serialNumber": 3,
-        "enterDate": "1150710"
+        "enterDate": "1150710",
+        "marketKind": "sii",
+        "companyId": "3711"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "日月光投控"
         },
-        "datetime": "115/07/11 22:21:33"
+        "datetime": "115/07/11 23:30:15"
       },
-      "fetched_at_tw": "2026-07-11 22:21:32"
+      "fetched_at_tw": "2026-07-11 23:30:13"
     },
     {
       "key": "1150710|rotc|6604|1",
@@ -126,10 +126,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "companyId": "6604",
         "serialNumber": 1,
-        "enterDate": "1150710"
+        "enterDate": "1150710",
+        "marketKind": "rotc",
+        "companyId": "6604"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "儒億"
         },
-        "datetime": "115/07/11 22:21:34"
+        "datetime": "115/07/11 23:30:17"
       },
-      "fetched_at_tw": "2026-07-11 22:21:32"
+      "fetched_at_tw": "2026-07-11 23:30:13"
     },
     {
       "key": "1150710|rotc|7887|2",
@@ -220,10 +220,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "companyId": "7887",
         "serialNumber": 2,
-        "enterDate": "1150710"
+        "enterDate": "1150710",
+        "marketKind": "rotc",
+        "companyId": "7887"
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "宇川精材"
         },
-        "datetime": "115/07/11 22:21:35"
+        "datetime": "115/07/11 23:30:17"
       },
-      "fetched_at_tw": "2026-07-11 22:21:32"
+      "fetched_at_tw": "2026-07-11 23:30:13"
     }
   ]
 }
