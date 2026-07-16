@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-07-17 04:25:38",
+    "run_at_tw": "2026-07-17 05:32:05",
     "query": {
       "year": "115",
       "month": "7",
@@ -32,10 +32,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "serialNumber": 1,
-        "enterDate": "1150716",
         "marketKind": "sii",
-        "companyId": "3450"
+        "companyId": "3450",
+        "serialNumber": 1,
+        "enterDate": "1150716"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "聯鈞"
         },
-        "datetime": "115/07/17 04:25:39"
+        "datetime": "115/07/17 05:32:06"
       },
-      "fetched_at_tw": "2026-07-17 04:25:38"
+      "fetched_at_tw": "2026-07-17 05:32:05"
     },
     {
       "key": "1150716|sii|3028|1",
@@ -126,10 +126,10 @@
         "公司債"
       ],
       "detail_params": {
-        "serialNumber": 1,
-        "enterDate": "1150716",
         "marketKind": "sii",
-        "companyId": "3028"
+        "companyId": "3028",
+        "serialNumber": 1,
+        "enterDate": "1150716"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "增你強"
         },
-        "datetime": "115/07/17 04:25:40"
+        "datetime": "115/07/17 05:32:07"
       },
-      "fetched_at_tw": "2026-07-17 04:25:38"
+      "fetched_at_tw": "2026-07-17 05:32:05"
     },
     {
       "key": "1150716|sii|3711|1",
@@ -220,10 +220,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "serialNumber": 1,
-        "enterDate": "1150716",
         "marketKind": "sii",
-        "companyId": "3711"
+        "companyId": "3711",
+        "serialNumber": 1,
+        "enterDate": "1150716"
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "日月光投控"
         },
-        "datetime": "115/07/17 04:25:40"
+        "datetime": "115/07/17 05:32:08"
       },
-      "fetched_at_tw": "2026-07-17 04:25:38"
+      "fetched_at_tw": "2026-07-17 05:32:05"
     },
     {
       "key": "1150716|sii|3711|2",
@@ -314,10 +314,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "serialNumber": 2,
-        "enterDate": "1150716",
         "marketKind": "sii",
-        "companyId": "3711"
+        "companyId": "3711",
+        "serialNumber": 2,
+        "enterDate": "1150716"
       },
       "detail": {
         "code": 200,
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "日月光投控"
         },
-        "datetime": "115/07/17 04:25:41"
+        "datetime": "115/07/17 05:32:09"
       },
-      "fetched_at_tw": "2026-07-17 04:25:38"
+      "fetched_at_tw": "2026-07-17 05:32:05"
     },
     {
       "key": "1150716|sii|3711|3",
@@ -408,10 +408,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "serialNumber": 3,
-        "enterDate": "1150716",
         "marketKind": "sii",
-        "companyId": "3711"
+        "companyId": "3711",
+        "serialNumber": 3,
+        "enterDate": "1150716"
       },
       "detail": {
         "code": 200,
@@ -487,9 +487,9 @@
           ],
           "companyAbbreviation": "日月光投控"
         },
-        "datetime": "115/07/17 04:25:42"
+        "datetime": "115/07/17 05:32:10"
       },
-      "fetched_at_tw": "2026-07-17 04:25:38"
+      "fetched_at_tw": "2026-07-17 05:32:05"
     },
     {
       "key": "1150716|sii|3711|4",
@@ -502,10 +502,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "serialNumber": 4,
-        "enterDate": "1150716",
         "marketKind": "sii",
-        "companyId": "3711"
+        "companyId": "3711",
+        "serialNumber": 4,
+        "enterDate": "1150716"
       },
       "detail": {
         "code": 200,
@@ -581,9 +581,9 @@
           ],
           "companyAbbreviation": "日月光投控"
         },
-        "datetime": "115/07/17 04:25:43"
+        "datetime": "115/07/17 05:32:10"
       },
-      "fetched_at_tw": "2026-07-17 04:25:38"
+      "fetched_at_tw": "2026-07-17 05:32:05"
     },
     {
       "key": "1150716|otc|6187|1",
@@ -596,10 +596,10 @@
         "公司債"
       ],
       "detail_params": {
-        "serialNumber": 1,
-        "enterDate": "1150716",
         "marketKind": "otc",
-        "companyId": "6187"
+        "companyId": "6187",
+        "serialNumber": 1,
+        "enterDate": "1150716"
       },
       "detail": {
         "code": 200,
@@ -675,9 +675,9 @@
           ],
           "companyAbbreviation": "萬潤"
         },
-        "datetime": "115/07/17 04:25:44"
+        "datetime": "115/07/17 05:32:11"
       },
-      "fetched_at_tw": "2026-07-17 04:25:38"
+      "fetched_at_tw": "2026-07-17 05:32:05"
     },
     {
       "key": "1150716|rotc|7878|1",
@@ -690,10 +690,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "serialNumber": 1,
-        "enterDate": "1150716",
         "marketKind": "rotc",
-        "companyId": "7878"
+        "companyId": "7878",
+        "serialNumber": 1,
+        "enterDate": "1150716"
       },
       "detail": {
         "code": 200,
@@ -769,9 +769,9 @@
           ],
           "companyAbbreviation": "藥祇"
         },
-        "datetime": "115/07/17 04:25:45"
+        "datetime": "115/07/17 05:32:12"
       },
-      "fetched_at_tw": "2026-07-17 04:25:38"
+      "fetched_at_tw": "2026-07-17 05:32:05"
     },
     {
       "key": "1150716|pub|6851|1",
@@ -784,10 +784,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "serialNumber": 1,
-        "enterDate": "1150716",
         "marketKind": "pub",
-        "companyId": "6851"
+        "companyId": "6851",
+        "serialNumber": 1,
+        "enterDate": "1150716"
       },
       "detail": {
         "code": 200,
@@ -863,9 +863,9 @@
           ],
           "companyAbbreviation": "立視科"
         },
-        "datetime": "115/07/17 04:25:45"
+        "datetime": "115/07/17 05:32:13"
       },
-      "fetched_at_tw": "2026-07-17 04:25:38"
+      "fetched_at_tw": "2026-07-17 05:32:05"
     }
   ]
 }
