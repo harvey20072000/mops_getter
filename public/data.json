@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-07-18 16:19:01",
+    "run_at_tw": "2026-07-18 17:55:43",
     "query": {
       "year": "115",
       "month": "7",
@@ -32,10 +32,10 @@
         "公司債"
       ],
       "detail_params": {
-        "enterDate": "1150717",
         "marketKind": "sii",
         "companyId": "9935",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150717"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "慶豐富"
         },
-        "datetime": "115/07/18 16:19:03"
+        "datetime": "115/07/18 17:55:44"
       },
-      "fetched_at_tw": "2026-07-18 16:19:01"
+      "fetched_at_tw": "2026-07-18 17:55:43"
     },
     {
       "key": "1150717|sii|3231|1",
@@ -126,10 +126,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "enterDate": "1150717",
         "marketKind": "sii",
         "companyId": "3231",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150717"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "緯創"
         },
-        "datetime": "115/07/18 16:19:03"
+        "datetime": "115/07/18 17:55:45"
       },
-      "fetched_at_tw": "2026-07-18 16:19:01"
+      "fetched_at_tw": "2026-07-18 17:55:43"
     },
     {
       "key": "1150717|sii|4958|1",
@@ -220,10 +220,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "enterDate": "1150717",
         "marketKind": "sii",
         "companyId": "4958",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150717"
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "臻鼎-KY"
         },
-        "datetime": "115/07/18 16:19:04"
+        "datetime": "115/07/18 17:55:47"
       },
-      "fetched_at_tw": "2026-07-18 16:19:01"
+      "fetched_at_tw": "2026-07-18 17:55:43"
     },
     {
       "key": "1150717|sii|3711|1",
@@ -314,10 +314,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "enterDate": "1150717",
         "marketKind": "sii",
         "companyId": "3711",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150717"
       },
       "detail": {
         "code": 200,
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "日月光投控"
         },
-        "datetime": "115/07/18 16:19:05"
+        "datetime": "115/07/18 17:55:48"
       },
-      "fetched_at_tw": "2026-07-18 16:19:01"
+      "fetched_at_tw": "2026-07-18 17:55:43"
     },
     {
       "key": "1150717|sii|3711|2",
@@ -408,10 +408,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "enterDate": "1150717",
         "marketKind": "sii",
         "companyId": "3711",
-        "serialNumber": 2
+        "serialNumber": 2,
+        "enterDate": "1150717"
       },
       "detail": {
         "code": 200,
@@ -487,9 +487,9 @@
           ],
           "companyAbbreviation": "日月光投控"
         },
-        "datetime": "115/07/18 16:19:05"
+        "datetime": "115/07/18 17:55:49"
       },
-      "fetched_at_tw": "2026-07-18 16:19:01"
+      "fetched_at_tw": "2026-07-18 17:55:43"
     },
     {
       "key": "1150717|rotc|2237|1",
@@ -502,10 +502,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150717",
         "marketKind": "rotc",
         "companyId": "2237",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150717"
       },
       "detail": {
         "code": 200,
@@ -581,9 +581,9 @@
           ],
           "companyAbbreviation": "華德動能"
         },
-        "datetime": "115/07/18 16:19:06"
+        "datetime": "115/07/18 17:55:49"
       },
-      "fetched_at_tw": "2026-07-18 16:19:01"
+      "fetched_at_tw": "2026-07-18 17:55:43"
     },
     {
       "key": "1150717|rotc|7689|2",
@@ -596,10 +596,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150717",
         "marketKind": "rotc",
         "companyId": "7689",
-        "serialNumber": 2
+        "serialNumber": 2,
+        "enterDate": "1150717"
       },
       "detail": {
         "code": 200,
@@ -675,9 +675,9 @@
           ],
           "companyAbbreviation": "大鵬科CLMX"
         },
-        "datetime": "115/07/18 16:19:06"
+        "datetime": "115/07/18 17:55:50"
       },
-      "fetched_at_tw": "2026-07-18 16:19:01"
+      "fetched_at_tw": "2026-07-18 17:55:43"
     },
     {
       "key": "1150717|pub|7844|1",
@@ -690,10 +690,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150717",
         "marketKind": "pub",
         "companyId": "7844",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150717"
       },
       "detail": {
         "code": 200,
@@ -769,9 +769,9 @@
           ],
           "companyAbbreviation": "揚堡"
         },
-        "datetime": "115/07/18 16:19:07"
+        "datetime": "115/07/18 17:55:51"
       },
-      "fetched_at_tw": "2026-07-18 16:19:01"
+      "fetched_at_tw": "2026-07-18 17:55:43"
     }
   ]
 }
