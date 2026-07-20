@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-07-20 18:09:22",
+    "run_at_tw": "2026-07-20 20:30:41",
     "query": {
       "year": "115",
       "month": "7",
@@ -17,8 +17,8 @@
       "公司債",
       "庫藏股"
     ],
-    "matched_count": 18,
-    "new_matched_count": 18
+    "matched_count": 21,
+    "new_matched_count": 3
   },
   "items": [
     {
@@ -32,10 +32,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150715",
         "marketKind": "sii",
         "companyId": "2439",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150715"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "美律"
         },
-        "datetime": "115/07/20 18:09:23"
+        "datetime": "115/07/20 20:30:43"
       },
-      "fetched_at_tw": "2026-07-20 18:09:22"
+      "fetched_at_tw": "2026-07-20 20:30:41"
     },
     {
       "key": "1150720|sii|2351|1",
@@ -126,10 +126,10 @@
         "公司債"
       ],
       "detail_params": {
-        "enterDate": "1150720",
         "marketKind": "sii",
         "companyId": "2351",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150720"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "順德"
         },
-        "datetime": "115/07/20 18:09:24"
+        "datetime": "115/07/20 20:30:43"
       },
-      "fetched_at_tw": "2026-07-20 18:09:22"
+      "fetched_at_tw": "2026-07-20 20:30:41"
     },
     {
       "key": "1150716|sii|3027|2",
@@ -220,10 +220,10 @@
         "自結合併"
       ],
       "detail_params": {
-        "enterDate": "1150716",
         "marketKind": "sii",
         "companyId": "3027",
-        "serialNumber": 2
+        "serialNumber": 2,
+        "enterDate": "1150716"
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "盛達"
         },
-        "datetime": "115/07/20 18:09:25"
+        "datetime": "115/07/20 20:30:44"
       },
-      "fetched_at_tw": "2026-07-20 18:09:22"
+      "fetched_at_tw": "2026-07-20 20:30:41"
     },
     {
       "key": "1150717|sii|2462|1",
@@ -314,10 +314,10 @@
         "公司債"
       ],
       "detail_params": {
-        "enterDate": "1150717",
         "marketKind": "sii",
         "companyId": "2462",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150717"
       },
       "detail": {
         "code": 200,
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "良得電"
         },
-        "datetime": "115/07/20 18:09:25"
+        "datetime": "115/07/20 20:30:45"
       },
-      "fetched_at_tw": "2026-07-20 18:09:22"
+      "fetched_at_tw": "2026-07-20 20:30:41"
     },
     {
       "key": "1150720|sii|2535|1",
@@ -408,10 +408,10 @@
         "公司債"
       ],
       "detail_params": {
-        "enterDate": "1150720",
         "marketKind": "sii",
         "companyId": "2535",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150720"
       },
       "detail": {
         "code": 200,
@@ -487,9 +487,9 @@
           ],
           "companyAbbreviation": "達欣工"
         },
-        "datetime": "115/07/20 18:09:27"
+        "datetime": "115/07/20 20:30:45"
       },
-      "fetched_at_tw": "2026-07-20 18:09:22"
+      "fetched_at_tw": "2026-07-20 20:30:41"
     },
     {
       "key": "1150720|sii|3021|1",
@@ -502,10 +502,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "enterDate": "1150720",
         "marketKind": "sii",
         "companyId": "3021",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150720"
       },
       "detail": {
         "code": 200,
@@ -581,9 +581,9 @@
           ],
           "companyAbbreviation": "鴻名"
         },
-        "datetime": "115/07/20 18:09:27"
+        "datetime": "115/07/20 20:30:45"
       },
-      "fetched_at_tw": "2026-07-20 18:09:22"
+      "fetched_at_tw": "2026-07-20 20:30:41"
     },
     {
       "key": "1150720|sii|3028|2",
@@ -596,10 +596,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150720",
         "marketKind": "sii",
         "companyId": "3028",
-        "serialNumber": 2
+        "serialNumber": 2,
+        "enterDate": "1150720"
       },
       "detail": {
         "code": 200,
@@ -675,9 +675,9 @@
           ],
           "companyAbbreviation": "增你強"
         },
-        "datetime": "115/07/20 18:09:28"
+        "datetime": "115/07/20 20:30:46"
       },
-      "fetched_at_tw": "2026-07-20 18:09:22"
+      "fetched_at_tw": "2026-07-20 20:30:41"
     },
     {
       "key": "1150720|otc|3512|1",
@@ -690,10 +690,10 @@
         "公司債"
       ],
       "detail_params": {
-        "enterDate": "1150720",
         "marketKind": "otc",
         "companyId": "3512",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150720"
       },
       "detail": {
         "code": 200,
@@ -769,9 +769,9 @@
           ],
           "companyAbbreviation": "皇龍"
         },
-        "datetime": "115/07/20 18:09:29"
+        "datetime": "115/07/20 20:30:47"
       },
-      "fetched_at_tw": "2026-07-20 18:09:22"
+      "fetched_at_tw": "2026-07-20 20:30:41"
     },
     {
       "key": "1150720|otc|5227|2",
@@ -784,10 +784,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150720",
         "marketKind": "otc",
         "companyId": "5227",
-        "serialNumber": 2
+        "serialNumber": 2,
+        "enterDate": "1150720"
       },
       "detail": {
         "code": 200,
@@ -863,9 +863,9 @@
           ],
           "companyAbbreviation": "立凱-KY"
         },
-        "datetime": "115/07/20 18:09:29"
+        "datetime": "115/07/20 20:30:47"
       },
-      "fetched_at_tw": "2026-07-20 18:09:22"
+      "fetched_at_tw": "2026-07-20 20:30:41"
     },
     {
       "key": "1150713|otc|6465|1",
@@ -878,10 +878,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150713",
         "marketKind": "otc",
         "companyId": "6465",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150713"
       },
       "detail": {
         "code": 200,
@@ -957,9 +957,9 @@
           ],
           "companyAbbreviation": "威潤"
         },
-        "datetime": "115/07/20 18:09:30"
+        "datetime": "115/07/20 20:30:48"
       },
-      "fetched_at_tw": "2026-07-20 18:09:22"
+      "fetched_at_tw": "2026-07-20 20:30:41"
     },
     {
       "key": "1150720|otc|8054|1",
@@ -972,10 +972,10 @@
         "公司債"
       ],
       "detail_params": {
-        "enterDate": "1150720",
         "marketKind": "otc",
         "companyId": "8054",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150720"
       },
       "detail": {
         "code": 200,
@@ -1051,9 +1051,9 @@
           ],
           "companyAbbreviation": "安國"
         },
-        "datetime": "115/07/20 18:09:31"
+        "datetime": "115/07/20 20:30:48"
       },
-      "fetched_at_tw": "2026-07-20 18:09:22"
+      "fetched_at_tw": "2026-07-20 20:30:41"
     },
     {
       "key": "1150720|otc|8255|4",
@@ -1066,10 +1066,10 @@
         "公司債"
       ],
       "detail_params": {
-        "enterDate": "1150720",
         "marketKind": "otc",
         "companyId": "8255",
-        "serialNumber": 4
+        "serialNumber": 4,
+        "enterDate": "1150720"
       },
       "detail": {
         "code": 200,
@@ -1145,9 +1145,9 @@
           ],
           "companyAbbreviation": "朋程"
         },
-        "datetime": "115/07/20 18:09:31"
+        "datetime": "115/07/20 20:30:49"
       },
-      "fetched_at_tw": "2026-07-20 18:09:22"
+      "fetched_at_tw": "2026-07-20 20:30:41"
     },
     {
       "key": "1150720|otc|4416|2",
@@ -1160,10 +1160,10 @@
         "公司債"
       ],
       "detail_params": {
-        "enterDate": "1150720",
         "marketKind": "otc",
         "companyId": "4416",
-        "serialNumber": 2
+        "serialNumber": 2,
+        "enterDate": "1150720"
       },
       "detail": {
         "code": 200,
@@ -1239,9 +1239,9 @@
           ],
           "companyAbbreviation": "三圓"
         },
-        "datetime": "115/07/20 18:09:32"
+        "datetime": "115/07/20 20:30:49"
       },
-      "fetched_at_tw": "2026-07-20 18:09:22"
+      "fetched_at_tw": "2026-07-20 20:30:41"
     },
     {
       "key": "1150720|otc|4123|1",
@@ -1254,10 +1254,10 @@
         "公司債"
       ],
       "detail_params": {
-        "enterDate": "1150720",
         "marketKind": "otc",
         "companyId": "4123",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150720"
       },
       "detail": {
         "code": 200,
@@ -1333,9 +1333,9 @@
           ],
           "companyAbbreviation": "晟德"
         },
-        "datetime": "115/07/20 18:09:32"
+        "datetime": "115/07/20 20:30:50"
       },
-      "fetched_at_tw": "2026-07-20 18:09:22"
+      "fetched_at_tw": "2026-07-20 20:30:41"
     },
     {
       "key": "1150720|otc|3349|4",
@@ -1349,10 +1349,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150720",
         "marketKind": "otc",
         "companyId": "3349",
-        "serialNumber": 4
+        "serialNumber": 4,
+        "enterDate": "1150720"
       },
       "detail": {
         "code": 200,
@@ -1428,9 +1428,103 @@
           ],
           "companyAbbreviation": "寶德"
         },
-        "datetime": "115/07/20 18:09:33"
+        "datetime": "115/07/20 20:30:50"
       },
-      "fetched_at_tw": "2026-07-20 18:09:22"
+      "fetched_at_tw": "2026-07-20 20:30:41"
+    },
+    {
+      "key": "1150720|otc|6179|1",
+      "speech_date": "115/07/20",
+      "speech_time": "18:18:48",
+      "company_id": "6179",
+      "company_name": "亞通",
+      "subject": "公告本公司國內第三次無擔保轉換公司債到期及最後申請轉換日期提醒",
+      "matched_keywords": [
+        "公司債"
+      ],
+      "detail_params": {
+        "marketKind": "otc",
+        "companyId": "6179",
+        "serialNumber": 1,
+        "enterDate": "1150720"
+      },
+      "detail": {
+        "code": 200,
+        "message": "查詢成功",
+        "result": {
+          "marketName": "上櫃公司",
+          "companyId": "6179",
+          "data": [
+            [
+              1,
+              "115/07/20",
+              "18:18:48",
+              "楊智鈞",
+              "副總經理",
+              "02-86961585",
+              "公告本公司國內第三次無擔保轉換公司債\r\n到期及最後申請轉換日期提醒",
+              "53",
+              "115/07/20",
+              "1.事實發生日:115/07/20\n2.公司名稱:亞通利大能源股份有限公司\n3.與公司關係(請輸入本公司或子公司):本公司\n4.相互持股比例:不適用\n5.發生緣由:\n  提醒本公司國內第三次無擔保轉換公司債持有人留意最後申請轉換日及到期日。\n6.因應措施:\n  提醒債券持有人如有轉換需求，請於最後轉換日(115/7/24)前向往來證券商辦理轉換\n  申請，以維護自身權益。\n7.其他應敘明事項(若事件發生或決議之主體係屬公開發行以上公司，\n本則重大訊息同時符合證券交易法施行細則第7條第9款所定\n對股東權益或證券價格有重大影響之事項):\n  (1) 本公司國內第三次無擔保轉換公司債最後申請轉換日為115年7月24日。\n  (2) 本公司國內第三次無擔保轉換公司債將於115年7月25日到期。"
+            ]
+          ],
+          "footer": [
+            "以上資料均由各公司依發言當時所屬市場別之規定申報後，由本系統對外公佈，資料如有虛偽不實，均由該公司負責。"
+          ],
+          "header": {
+            "note": [],
+            "subTitle": [],
+            "mainTitle": [
+              "公司當日重大訊息之詳細內容"
+            ]
+          },
+          "titles": [
+            {
+              "sub": [],
+              "main": "序號"
+            },
+            {
+              "sub": [],
+              "main": "發言日期"
+            },
+            {
+              "sub": [],
+              "main": "發言時間"
+            },
+            {
+              "sub": [],
+              "main": "發言人"
+            },
+            {
+              "sub": [],
+              "main": "發言人職稱"
+            },
+            {
+              "sub": [],
+              "main": "發言人電話"
+            },
+            {
+              "sub": [],
+              "main": "主旨"
+            },
+            {
+              "sub": [],
+              "main": "符合條款"
+            },
+            {
+              "sub": [],
+              "main": "事實發生日"
+            },
+            {
+              "sub": [],
+              "main": "說明"
+            }
+          ],
+          "companyAbbreviation": "亞通"
+        },
+        "datetime": "115/07/20 20:30:51"
+      },
+      "fetched_at_tw": "2026-07-20 20:30:41"
     },
     {
       "key": "1150720|rotc|6947|2",
@@ -1443,10 +1537,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150720",
         "marketKind": "rotc",
         "companyId": "6947",
-        "serialNumber": 2
+        "serialNumber": 2,
+        "enterDate": "1150720"
       },
       "detail": {
         "code": 200,
@@ -1522,9 +1616,9 @@
           ],
           "companyAbbreviation": "台鎔科技"
         },
-        "datetime": "115/07/20 18:09:33"
+        "datetime": "115/07/20 20:30:51"
       },
-      "fetched_at_tw": "2026-07-20 18:09:22"
+      "fetched_at_tw": "2026-07-20 20:30:41"
     },
     {
       "key": "1150720|rotc|2237|1",
@@ -1537,10 +1631,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150720",
         "marketKind": "rotc",
         "companyId": "2237",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150720"
       },
       "detail": {
         "code": 200,
@@ -1616,9 +1710,9 @@
           ],
           "companyAbbreviation": "華德動能"
         },
-        "datetime": "115/07/20 18:09:34"
+        "datetime": "115/07/20 20:30:52"
       },
-      "fetched_at_tw": "2026-07-20 18:09:22"
+      "fetched_at_tw": "2026-07-20 20:30:41"
     },
     {
       "key": "1150714|rotc|7566|1",
@@ -1631,10 +1725,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150714",
         "marketKind": "rotc",
         "companyId": "7566",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150714"
       },
       "detail": {
         "code": 200,
@@ -1710,9 +1804,197 @@
           ],
           "companyAbbreviation": "亞果遊艇"
         },
-        "datetime": "115/07/20 18:09:34"
+        "datetime": "115/07/20 20:30:52"
       },
-      "fetched_at_tw": "2026-07-20 18:09:22"
+      "fetched_at_tw": "2026-07-20 20:30:41"
+    },
+    {
+      "key": "1150720|rotc|6707|1",
+      "speech_date": "115/07/20",
+      "speech_time": "19:26:16",
+      "company_id": "6707",
+      "company_name": "富基電通",
+      "subject": "公告本公司115年6月份自結合併財務報表之負債比率、流動比率及速動比率",
+      "matched_keywords": [
+        "自結合併"
+      ],
+      "detail_params": {
+        "marketKind": "rotc",
+        "companyId": "6707",
+        "serialNumber": 1,
+        "enterDate": "1150720"
+      },
+      "detail": {
+        "code": 200,
+        "message": "查詢成功",
+        "result": {
+          "marketName": "興櫃公司",
+          "companyId": "6707",
+          "data": [
+            [
+              1,
+              "115/07/20",
+              "19:26:16",
+              "林品杰",
+              "董事長特助",
+              "02-27888099",
+              "公告本公司115年6月份自結合併財務報表之負債比率、流動\r\n比率及速動比率",
+              "44",
+              "115/07/20",
+              "1.事實發生日:115/07/20\n2.發生緣由:依證券櫃檯買賣中心證櫃審字第1110101554號函辦理\n3.財務資訊年度月份:115/06\n4.自結流動比率:124.32%\n5.自結速動比率:88.80%\n6.自結負債比率:78.40%\n7.因應措施:每月底前公告自結合併財務報表截至前一月底之負債\n          比率、流動比率及速動比率。\n8.其他應敘明事項:無。"
+            ]
+          ],
+          "footer": [
+            "以上資料均由各公司依發言當時所屬市場別之規定申報後，由本系統對外公佈，資料如有虛偽不實，均由該公司負責。"
+          ],
+          "header": {
+            "note": [],
+            "subTitle": [],
+            "mainTitle": [
+              "公司當日重大訊息之詳細內容"
+            ]
+          },
+          "titles": [
+            {
+              "sub": [],
+              "main": "序號"
+            },
+            {
+              "sub": [],
+              "main": "發言日期"
+            },
+            {
+              "sub": [],
+              "main": "發言時間"
+            },
+            {
+              "sub": [],
+              "main": "發言人"
+            },
+            {
+              "sub": [],
+              "main": "發言人職稱"
+            },
+            {
+              "sub": [],
+              "main": "發言人電話"
+            },
+            {
+              "sub": [],
+              "main": "主旨"
+            },
+            {
+              "sub": [],
+              "main": "符合條款"
+            },
+            {
+              "sub": [],
+              "main": "事實發生日"
+            },
+            {
+              "sub": [],
+              "main": "說明"
+            }
+          ],
+          "companyAbbreviation": "富基電通"
+        },
+        "datetime": "115/07/20 20:30:53"
+      },
+      "fetched_at_tw": "2026-07-20 20:30:41"
+    },
+    {
+      "key": "1150720|pub|7835|2",
+      "speech_date": "115/07/20",
+      "speech_time": "18:33:36",
+      "company_id": "7835",
+      "company_name": "永悅健康",
+      "subject": "公告本公司股票初次創新板上市前現金增資員工認購股款催繳事宜",
+      "matched_keywords": [
+        "現金增資"
+      ],
+      "detail_params": {
+        "marketKind": "pub",
+        "companyId": "7835",
+        "serialNumber": 2,
+        "enterDate": "1150720"
+      },
+      "detail": {
+        "code": 200,
+        "message": "查詢成功",
+        "result": {
+          "marketName": "公開發行公司",
+          "companyId": "7835",
+          "data": [
+            [
+              2,
+              "115/07/20",
+              "18:33:36",
+              "邱惲翔",
+              "財務長",
+              "02-29125566",
+              "公告本公司股票初次創新板上市前現金增資員工認購股款\r\n催繳事宜",
+              "9",
+              "115/07/20",
+              "1.事實發生日:115/07/20\n2.發生緣由:本公司股票初次創新板上市前現金增資員工認股繳款期限已於\n   115年7月20日下午3時30分截止，惟有部分員工尚未繳納現金增資股款，\n   依法辦理催告。\n3.因應措施:無。\n4.其他應敘明事項:\n  (1)依公司法第267條第一項準用同法第142條之規定辦理，115年7月21日至\n     115年8月21日下午3時30分止為股款催繳期間。\n  (2)尚未繳款之員工，請於上述期間內持原繳款書至國泰世華商業銀行　\n     南京東路分行暨全臺國各分行辦理繳款，逾期仍未繳款者即喪失認購\n     新股之權利。"
+            ]
+          ],
+          "footer": [
+            "以上資料均由各公司依發言當時所屬市場別之規定申報後，由本系統對外公佈，資料如有虛偽不實，均由該公司負責。"
+          ],
+          "header": {
+            "note": [],
+            "subTitle": [],
+            "mainTitle": [
+              "公司當日重大訊息之詳細內容"
+            ]
+          },
+          "titles": [
+            {
+              "sub": [],
+              "main": "序號"
+            },
+            {
+              "sub": [],
+              "main": "發言日期"
+            },
+            {
+              "sub": [],
+              "main": "發言時間"
+            },
+            {
+              "sub": [],
+              "main": "發言人"
+            },
+            {
+              "sub": [],
+              "main": "發言人職稱"
+            },
+            {
+              "sub": [],
+              "main": "發言人電話"
+            },
+            {
+              "sub": [],
+              "main": "主旨"
+            },
+            {
+              "sub": [],
+              "main": "符合條款"
+            },
+            {
+              "sub": [],
+              "main": "事實發生日"
+            },
+            {
+              "sub": [],
+              "main": "說明"
+            }
+          ],
+          "companyAbbreviation": "永悅健康"
+        },
+        "datetime": "115/07/20 20:30:54"
+      },
+      "fetched_at_tw": "2026-07-20 20:30:41"
     }
   ]
 }
