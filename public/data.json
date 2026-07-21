@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-07-21 08:04:01",
+    "run_at_tw": "2026-07-21 11:55:24",
     "query": {
       "year": "115",
       "month": "7",
@@ -32,10 +32,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "enterDate": "1150720",
         "marketKind": "sii",
         "companyId": "3021",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150720"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "鴻名"
         },
-        "datetime": "115/07/21 08:04:02"
+        "datetime": "115/07/21 11:55:28"
       },
-      "fetched_at_tw": "2026-07-21 08:04:01"
+      "fetched_at_tw": "2026-07-21 11:55:24"
     },
     {
       "key": "1150720|sii|3028|2",
@@ -126,10 +126,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150720",
         "marketKind": "sii",
         "companyId": "3028",
-        "serialNumber": 2
+        "serialNumber": 2,
+        "enterDate": "1150720"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "增你強"
         },
-        "datetime": "115/07/21 08:04:03"
+        "datetime": "115/07/21 11:55:29"
       },
-      "fetched_at_tw": "2026-07-21 08:04:01"
+      "fetched_at_tw": "2026-07-21 11:55:24"
     },
     {
       "key": "1150720|otc|4123|1",
@@ -220,10 +220,10 @@
         "公司債"
       ],
       "detail_params": {
-        "enterDate": "1150720",
         "marketKind": "otc",
         "companyId": "4123",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150720"
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "晟德"
         },
-        "datetime": "115/07/21 08:04:04"
+        "datetime": "115/07/21 11:55:30"
       },
-      "fetched_at_tw": "2026-07-21 08:04:01"
+      "fetched_at_tw": "2026-07-21 11:55:24"
     },
     {
       "key": "1150720|otc|3349|4",
@@ -315,10 +315,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150720",
         "marketKind": "otc",
         "companyId": "3349",
-        "serialNumber": 4
+        "serialNumber": 4,
+        "enterDate": "1150720"
       },
       "detail": {
         "code": 200,
@@ -394,9 +394,9 @@
           ],
           "companyAbbreviation": "寶德"
         },
-        "datetime": "115/07/21 08:04:05"
+        "datetime": "115/07/21 11:55:31"
       },
-      "fetched_at_tw": "2026-07-21 08:04:01"
+      "fetched_at_tw": "2026-07-21 11:55:24"
     },
     {
       "key": "1150720|otc|6179|1",
@@ -409,10 +409,10 @@
         "公司債"
       ],
       "detail_params": {
-        "enterDate": "1150720",
         "marketKind": "otc",
         "companyId": "6179",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150720"
       },
       "detail": {
         "code": 200,
@@ -488,9 +488,9 @@
           ],
           "companyAbbreviation": "亞通"
         },
-        "datetime": "115/07/21 08:04:06"
+        "datetime": "115/07/21 11:55:32"
       },
-      "fetched_at_tw": "2026-07-21 08:04:01"
+      "fetched_at_tw": "2026-07-21 11:55:24"
     },
     {
       "key": "1150720|rotc|2237|1",
@@ -503,10 +503,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150720",
         "marketKind": "rotc",
         "companyId": "2237",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150720"
       },
       "detail": {
         "code": 200,
@@ -582,9 +582,9 @@
           ],
           "companyAbbreviation": "華德動能"
         },
-        "datetime": "115/07/21 08:04:07"
+        "datetime": "115/07/21 11:55:33"
       },
-      "fetched_at_tw": "2026-07-21 08:04:01"
+      "fetched_at_tw": "2026-07-21 11:55:24"
     },
     {
       "key": "1150714|rotc|7566|1",
@@ -597,10 +597,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150714",
         "marketKind": "rotc",
         "companyId": "7566",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150714"
       },
       "detail": {
         "code": 200,
@@ -676,9 +676,9 @@
           ],
           "companyAbbreviation": "亞果遊艇"
         },
-        "datetime": "115/07/21 08:04:07"
+        "datetime": "115/07/21 11:55:35"
       },
-      "fetched_at_tw": "2026-07-21 08:04:01"
+      "fetched_at_tw": "2026-07-21 11:55:24"
     },
     {
       "key": "1150720|rotc|6707|1",
@@ -691,10 +691,10 @@
         "自結合併"
       ],
       "detail_params": {
-        "enterDate": "1150720",
         "marketKind": "rotc",
         "companyId": "6707",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "enterDate": "1150720"
       },
       "detail": {
         "code": 200,
@@ -770,9 +770,9 @@
           ],
           "companyAbbreviation": "富基電通"
         },
-        "datetime": "115/07/21 08:04:08"
+        "datetime": "115/07/21 11:55:36"
       },
-      "fetched_at_tw": "2026-07-21 08:04:01"
+      "fetched_at_tw": "2026-07-21 11:55:24"
     },
     {
       "key": "1150720|pub|7835|2",
@@ -785,10 +785,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150720",
         "marketKind": "pub",
         "companyId": "7835",
-        "serialNumber": 2
+        "serialNumber": 2,
+        "enterDate": "1150720"
       },
       "detail": {
         "code": 200,
@@ -864,9 +864,9 @@
           ],
           "companyAbbreviation": "永悅健康"
         },
-        "datetime": "115/07/21 08:04:11"
+        "datetime": "115/07/21 11:55:37"
       },
-      "fetched_at_tw": "2026-07-21 08:04:01"
+      "fetched_at_tw": "2026-07-21 11:55:24"
     }
   ]
 }
