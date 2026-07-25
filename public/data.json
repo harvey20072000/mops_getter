@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-07-25 11:48:17",
+    "run_at_tw": "2026-07-25 14:16:56",
     "query": {
       "year": "115",
       "month": "7",
@@ -17,8 +17,8 @@
       "公司債",
       "庫藏股"
     ],
-    "matched_count": 5,
-    "new_matched_count": 0
+    "matched_count": 6,
+    "new_matched_count": 1
   },
   "items": [
     {
@@ -32,10 +32,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "6285",
         "serialNumber": 1,
-        "enterDate": "1150724"
+        "enterDate": "1150724",
+        "marketKind": "sii",
+        "companyId": "6285"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "啟碁"
         },
-        "datetime": "115/07/25 11:48:18"
+        "datetime": "115/07/25 14:16:57"
       },
-      "fetched_at_tw": "2026-07-25 11:48:17"
+      "fetched_at_tw": "2026-07-25 14:16:56"
     },
     {
       "key": "1150724|sii|2308|3",
@@ -126,10 +126,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "2308",
         "serialNumber": 3,
-        "enterDate": "1150724"
+        "enterDate": "1150724",
+        "marketKind": "sii",
+        "companyId": "2308"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "台達電"
         },
-        "datetime": "115/07/25 11:48:19"
+        "datetime": "115/07/25 14:16:57"
       },
-      "fetched_at_tw": "2026-07-25 11:48:17"
+      "fetched_at_tw": "2026-07-25 14:16:56"
     },
     {
       "key": "1150724|sii|6869|4",
@@ -220,10 +220,10 @@
         "公司債"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "6869",
         "serialNumber": 4,
-        "enterDate": "1150724"
+        "enterDate": "1150724",
+        "marketKind": "sii",
+        "companyId": "6869"
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "雲豹能源"
         },
-        "datetime": "115/07/25 11:48:19"
+        "datetime": "115/07/25 14:16:58"
       },
-      "fetched_at_tw": "2026-07-25 11:48:17"
+      "fetched_at_tw": "2026-07-25 14:16:56"
     },
     {
       "key": "1150724|sii|6531|2",
@@ -314,10 +314,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "6531",
         "serialNumber": 2,
-        "enterDate": "1150724"
+        "enterDate": "1150724",
+        "marketKind": "sii",
+        "companyId": "6531"
       },
       "detail": {
         "code": 200,
@@ -393,9 +393,103 @@
           ],
           "companyAbbreviation": "愛普*"
         },
-        "datetime": "115/07/25 11:48:20"
+        "datetime": "115/07/25 14:16:59"
       },
-      "fetched_at_tw": "2026-07-25 11:48:17"
+      "fetched_at_tw": "2026-07-25 14:16:56"
+    },
+    {
+      "key": "1150725|sii|2023|1",
+      "speech_date": "115/07/25",
+      "speech_time": "14:09:06",
+      "company_id": "2023",
+      "company_name": "燁輝",
+      "subject": "公告本公司第二十四次買回庫藏股執行情形",
+      "matched_keywords": [
+        "庫藏股"
+      ],
+      "detail_params": {
+        "serialNumber": 1,
+        "enterDate": "1150725",
+        "marketKind": "sii",
+        "companyId": "2023"
+      },
+      "detail": {
+        "code": 200,
+        "message": "查詢成功",
+        "result": {
+          "marketName": "上市公司",
+          "companyId": "2023",
+          "data": [
+            [
+              1,
+              "115/07/25",
+              "14:09:06",
+              "田文中",
+              "助理副總經理",
+              "07-6117042",
+              "公告本公司第二十四次買回庫藏股執行情形",
+              "35",
+              "115/07/25",
+              "1.原預定買回股份總金額上限(元):2,640,312,634\r\n2.原預定買回之期間:115/05/26~115/07/25\r\n3.原預定買回之數量(股):20,000,000\r\n4.原預定買回區間價格(元):13.00~15.50\r\n5.本次實際買回期間:115/05/27~115/07/20\r\n6.本次已買回股份數量(股):16,298,000\r\n7.本次已買回股份總金額(元):222,374,408\r\n8.本次平均每股買回價格(元):13.64\r\n9.累積已持有自己公司股份數量(股):36,298,000\r\n10.累積已持有自己公司股份數量占公司已發行股份總數之比率(%):1.97\r\n11.本次未執行完畢之原因:\r\n為兼顧市場機制及維護整體股東權益，考量股價變動已趨穩定，故未予以全部執行完畢。\r\n12.其他應敘明事項:\r\n無"
+            ]
+          ],
+          "footer": [
+            "以上資料均由各公司依發言當時所屬市場別之規定申報後，由本系統對外公佈，資料如有虛偽不實，均由該公司負責。"
+          ],
+          "header": {
+            "note": [],
+            "subTitle": [],
+            "mainTitle": [
+              "公司當日重大訊息之詳細內容"
+            ]
+          },
+          "titles": [
+            {
+              "sub": [],
+              "main": "序號"
+            },
+            {
+              "sub": [],
+              "main": "發言日期"
+            },
+            {
+              "sub": [],
+              "main": "發言時間"
+            },
+            {
+              "sub": [],
+              "main": "發言人"
+            },
+            {
+              "sub": [],
+              "main": "發言人職稱"
+            },
+            {
+              "sub": [],
+              "main": "發言人電話"
+            },
+            {
+              "sub": [],
+              "main": "主旨"
+            },
+            {
+              "sub": [],
+              "main": "符合條款"
+            },
+            {
+              "sub": [],
+              "main": "事實發生日"
+            },
+            {
+              "sub": [],
+              "main": "說明"
+            }
+          ],
+          "companyAbbreviation": "燁輝"
+        },
+        "datetime": "115/07/25 14:16:59"
+      },
+      "fetched_at_tw": "2026-07-25 14:16:56"
     },
     {
       "key": "1150724|otc|5475|4",
@@ -408,10 +502,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "5475",
         "serialNumber": 4,
-        "enterDate": "1150724"
+        "enterDate": "1150724",
+        "marketKind": "otc",
+        "companyId": "5475"
       },
       "detail": {
         "code": 200,
@@ -487,9 +581,9 @@
           ],
           "companyAbbreviation": "德宏"
         },
-        "datetime": "115/07/25 11:48:21"
+        "datetime": "115/07/25 14:17:00"
       },
-      "fetched_at_tw": "2026-07-25 11:48:17"
+      "fetched_at_tw": "2026-07-25 14:16:56"
     }
   ]
 }
