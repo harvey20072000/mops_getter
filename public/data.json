@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-07-31 06:04:19",
+    "run_at_tw": "2026-07-31 07:32:42",
     "query": {
       "year": "115",
       "month": "7",
@@ -32,10 +32,10 @@
         "買回公司股份"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "5469",
         "serialNumber": 1,
-        "enterDate": "1150730"
+        "enterDate": "1150730",
+        "marketKind": "sii",
+        "companyId": "5469"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "瀚宇博"
         },
-        "datetime": "115/07/31 06:04:20"
+        "datetime": "115/07/31 07:32:45"
       },
-      "fetched_at_tw": "2026-07-31 06:04:19"
+      "fetched_at_tw": "2026-07-31 07:32:42"
     },
     {
       "key": "1150730|sii|7610|1",
@@ -126,10 +126,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "7610",
         "serialNumber": 1,
-        "enterDate": "1150730"
+        "enterDate": "1150730",
+        "marketKind": "sii",
+        "companyId": "7610"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "聯友金屬-創"
         },
-        "datetime": "115/07/31 06:04:21"
+        "datetime": "115/07/31 07:32:46"
       },
-      "fetched_at_tw": "2026-07-31 06:04:19"
+      "fetched_at_tw": "2026-07-31 07:32:42"
     },
     {
       "key": "1150730|sii|7610|2",
@@ -221,10 +221,10 @@
         "公司債"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "7610",
         "serialNumber": 2,
-        "enterDate": "1150730"
+        "enterDate": "1150730",
+        "marketKind": "sii",
+        "companyId": "7610"
       },
       "detail": {
         "code": 200,
@@ -300,9 +300,9 @@
           ],
           "companyAbbreviation": "聯友金屬-創"
         },
-        "datetime": "115/07/31 06:04:22"
+        "datetime": "115/07/31 07:32:47"
       },
-      "fetched_at_tw": "2026-07-31 06:04:19"
+      "fetched_at_tw": "2026-07-31 07:32:42"
     },
     {
       "key": "1150730|sii|3028|3",
@@ -316,10 +316,10 @@
         "公司債"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "3028",
         "serialNumber": 3,
-        "enterDate": "1150730"
+        "enterDate": "1150730",
+        "marketKind": "sii",
+        "companyId": "3028"
       },
       "detail": {
         "code": 200,
@@ -395,9 +395,9 @@
           ],
           "companyAbbreviation": "增你強"
         },
-        "datetime": "115/07/31 06:04:23"
+        "datetime": "115/07/31 07:32:47"
       },
-      "fetched_at_tw": "2026-07-31 06:04:19"
+      "fetched_at_tw": "2026-07-31 07:32:42"
     },
     {
       "key": "1150730|sii|3028|4",
@@ -410,10 +410,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "3028",
         "serialNumber": 4,
-        "enterDate": "1150730"
+        "enterDate": "1150730",
+        "marketKind": "sii",
+        "companyId": "3028"
       },
       "detail": {
         "code": 200,
@@ -489,9 +489,9 @@
           ],
           "companyAbbreviation": "增你強"
         },
-        "datetime": "115/07/31 06:04:24"
+        "datetime": "115/07/31 07:32:48"
       },
-      "fetched_at_tw": "2026-07-31 06:04:19"
+      "fetched_at_tw": "2026-07-31 07:32:42"
     },
     {
       "key": "1150727|sii|2439|1",
@@ -504,10 +504,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "2439",
         "serialNumber": 1,
-        "enterDate": "1150727"
+        "enterDate": "1150727",
+        "marketKind": "sii",
+        "companyId": "2439"
       },
       "detail": {
         "code": 200,
@@ -583,9 +583,9 @@
           ],
           "companyAbbreviation": "美律"
         },
-        "datetime": "115/07/31 06:04:25"
+        "datetime": "115/07/31 07:32:48"
       },
-      "fetched_at_tw": "2026-07-31 06:04:19"
+      "fetched_at_tw": "2026-07-31 07:32:42"
     },
     {
       "key": "1150730|sii|6176|2",
@@ -598,10 +598,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "6176",
         "serialNumber": 2,
-        "enterDate": "1150730"
+        "enterDate": "1150730",
+        "marketKind": "sii",
+        "companyId": "6176"
       },
       "detail": {
         "code": 200,
@@ -677,9 +677,9 @@
           ],
           "companyAbbreviation": "瑞儀"
         },
-        "datetime": "115/07/31 06:04:26"
+        "datetime": "115/07/31 07:32:49"
       },
-      "fetched_at_tw": "2026-07-31 06:04:19"
+      "fetched_at_tw": "2026-07-31 07:32:42"
     },
     {
       "key": "1150729|otc|3141|3",
@@ -692,10 +692,10 @@
         "公司債"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "3141",
         "serialNumber": 3,
-        "enterDate": "1150729"
+        "enterDate": "1150729",
+        "marketKind": "otc",
+        "companyId": "3141"
       },
       "detail": {
         "code": 200,
@@ -771,9 +771,9 @@
           ],
           "companyAbbreviation": "晶宏"
         },
-        "datetime": "115/07/31 06:04:27"
+        "datetime": "115/07/31 07:32:50"
       },
-      "fetched_at_tw": "2026-07-31 06:04:19"
+      "fetched_at_tw": "2026-07-31 07:32:42"
     },
     {
       "key": "1150730|rotc|2237|2",
@@ -786,10 +786,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "companyId": "2237",
         "serialNumber": 2,
-        "enterDate": "1150730"
+        "enterDate": "1150730",
+        "marketKind": "rotc",
+        "companyId": "2237"
       },
       "detail": {
         "code": 200,
@@ -865,9 +865,9 @@
           ],
           "companyAbbreviation": "華德動能"
         },
-        "datetime": "115/07/31 06:04:28"
+        "datetime": "115/07/31 07:32:50"
       },
-      "fetched_at_tw": "2026-07-31 06:04:19"
+      "fetched_at_tw": "2026-07-31 07:32:42"
     },
     {
       "key": "1150730|rotc|6618|3",
@@ -880,10 +880,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "companyId": "6618",
         "serialNumber": 3,
-        "enterDate": "1150730"
+        "enterDate": "1150730",
+        "marketKind": "rotc",
+        "companyId": "6618"
       },
       "detail": {
         "code": 200,
@@ -959,9 +959,9 @@
           ],
           "companyAbbreviation": "永虹先進"
         },
-        "datetime": "115/07/31 06:04:28"
+        "datetime": "115/07/31 07:32:51"
       },
-      "fetched_at_tw": "2026-07-31 06:04:19"
+      "fetched_at_tw": "2026-07-31 07:32:42"
     }
   ]
 }
