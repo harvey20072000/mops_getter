@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-08-15 22:20:26",
+    "run_at_tw": "2026-08-15 22:47:55",
     "query": {
       "year": "115",
       "month": "8",
@@ -32,10 +32,10 @@
         "公司債"
       ],
       "detail_params": {
-        "serialNumber": 1,
-        "enterDate": "1150814",
         "marketKind": "sii",
-        "companyId": "2881"
+        "companyId": "2881",
+        "serialNumber": 1,
+        "enterDate": "1150814"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "富邦金"
         },
-        "datetime": "115/08/15 22:20:28"
+        "datetime": "115/08/15 22:47:56"
       },
-      "fetched_at_tw": "2026-08-15 22:20:26"
+      "fetched_at_tw": "2026-08-15 22:47:55"
     },
     {
       "key": "1150814|sii|3028|2",
@@ -127,10 +127,10 @@
         "公司債"
       ],
       "detail_params": {
-        "serialNumber": 2,
-        "enterDate": "1150814",
         "marketKind": "sii",
-        "companyId": "3028"
+        "companyId": "3028",
+        "serialNumber": 2,
+        "enterDate": "1150814"
       },
       "detail": {
         "code": 200,
@@ -206,9 +206,9 @@
           ],
           "companyAbbreviation": "增你強"
         },
-        "datetime": "115/08/15 22:20:28"
+        "datetime": "115/08/15 22:47:57"
       },
-      "fetched_at_tw": "2026-08-15 22:20:26"
+      "fetched_at_tw": "2026-08-15 22:47:55"
     },
     {
       "key": "1150814|sii|3711|4",
@@ -221,10 +221,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "serialNumber": 4,
-        "enterDate": "1150814",
         "marketKind": "sii",
-        "companyId": "3711"
+        "companyId": "3711",
+        "serialNumber": 4,
+        "enterDate": "1150814"
       },
       "detail": {
         "code": 200,
@@ -300,9 +300,9 @@
           ],
           "companyAbbreviation": "日月光投控"
         },
-        "datetime": "115/08/15 22:20:29"
+        "datetime": "115/08/15 22:47:58"
       },
-      "fetched_at_tw": "2026-08-15 22:20:26"
+      "fetched_at_tw": "2026-08-15 22:47:55"
     },
     {
       "key": "1150813|sii|3665|1",
@@ -315,10 +315,10 @@
         "公司債"
       ],
       "detail_params": {
-        "serialNumber": 1,
-        "enterDate": "1150813",
         "marketKind": "sii",
-        "companyId": "3665"
+        "companyId": "3665",
+        "serialNumber": 1,
+        "enterDate": "1150813"
       },
       "detail": {
         "code": 200,
@@ -394,9 +394,9 @@
           ],
           "companyAbbreviation": "貿聯-KY"
         },
-        "datetime": "115/08/15 22:20:29"
+        "datetime": "115/08/15 22:47:58"
       },
-      "fetched_at_tw": "2026-08-15 22:20:26"
+      "fetched_at_tw": "2026-08-15 22:47:55"
     },
     {
       "key": "1150813|sii|3665|2",
@@ -409,10 +409,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "serialNumber": 2,
-        "enterDate": "1150813",
         "marketKind": "sii",
-        "companyId": "3665"
+        "companyId": "3665",
+        "serialNumber": 2,
+        "enterDate": "1150813"
       },
       "detail": {
         "code": 200,
@@ -488,9 +488,9 @@
           ],
           "companyAbbreviation": "貿聯-KY"
         },
-        "datetime": "115/08/15 22:20:30"
+        "datetime": "115/08/15 22:47:59"
       },
-      "fetched_at_tw": "2026-08-15 22:20:26"
+      "fetched_at_tw": "2026-08-15 22:47:55"
     },
     {
       "key": "1150815|sii|6908|1",
@@ -503,10 +503,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "serialNumber": 1,
-        "enterDate": "1150815",
         "marketKind": "sii",
-        "companyId": "6908"
+        "companyId": "6908",
+        "serialNumber": 1,
+        "enterDate": "1150815"
       },
       "detail": {
         "code": 200,
@@ -582,9 +582,9 @@
           ],
           "companyAbbreviation": "宏碁遊戲-創"
         },
-        "datetime": "115/08/15 22:20:31"
+        "datetime": "115/08/15 22:48:00"
       },
-      "fetched_at_tw": "2026-08-15 22:20:26"
+      "fetched_at_tw": "2026-08-15 22:47:55"
     },
     {
       "key": "1150810|otc|6182|2",
@@ -597,10 +597,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "serialNumber": 2,
-        "enterDate": "1150810",
         "marketKind": "otc",
-        "companyId": "6182"
+        "companyId": "6182",
+        "serialNumber": 2,
+        "enterDate": "1150810"
       },
       "detail": {
         "code": 200,
@@ -676,9 +676,9 @@
           ],
           "companyAbbreviation": "合晶"
         },
-        "datetime": "115/08/15 22:20:31"
+        "datetime": "115/08/15 22:48:00"
       },
-      "fetched_at_tw": "2026-08-15 22:20:26"
+      "fetched_at_tw": "2026-08-15 22:47:55"
     },
     {
       "key": "1150811|otc|6182|1",
@@ -691,10 +691,10 @@
         "公司債"
       ],
       "detail_params": {
-        "serialNumber": 1,
-        "enterDate": "1150811",
         "marketKind": "otc",
-        "companyId": "6182"
+        "companyId": "6182",
+        "serialNumber": 1,
+        "enterDate": "1150811"
       },
       "detail": {
         "code": 200,
@@ -770,9 +770,9 @@
           ],
           "companyAbbreviation": "合晶"
         },
-        "datetime": "115/08/15 22:20:32"
+        "datetime": "115/08/15 22:48:01"
       },
-      "fetched_at_tw": "2026-08-15 22:20:26"
+      "fetched_at_tw": "2026-08-15 22:47:55"
     },
     {
       "key": "1150814|otc|4123|1",
@@ -785,10 +785,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "serialNumber": 1,
-        "enterDate": "1150814",
         "marketKind": "otc",
-        "companyId": "4123"
+        "companyId": "4123",
+        "serialNumber": 1,
+        "enterDate": "1150814"
       },
       "detail": {
         "code": 200,
@@ -864,9 +864,9 @@
           ],
           "companyAbbreviation": "晟德"
         },
-        "datetime": "115/08/15 22:20:33"
+        "datetime": "115/08/15 22:48:02"
       },
-      "fetched_at_tw": "2026-08-15 22:20:26"
+      "fetched_at_tw": "2026-08-15 22:47:55"
     }
   ]
 }
