@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-08-18 06:49:53",
+    "run_at_tw": "2026-08-18 07:20:58",
     "query": {
       "year": "115",
       "month": "8",
@@ -17,8 +17,8 @@
       "公司債",
       "庫藏股"
     ],
-    "matched_count": 8,
-    "new_matched_count": 0
+    "matched_count": 9,
+    "new_matched_count": 1
   },
   "items": [
     {
@@ -32,10 +32,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "3711",
         "serialNumber": 3,
-        "enterDate": "1150817"
+        "enterDate": "1150817",
+        "marketKind": "sii",
+        "companyId": "3711"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "日月光投控"
         },
-        "datetime": "115/08/18 06:49:56"
+        "datetime": "115/08/18 07:21:00"
       },
-      "fetched_at_tw": "2026-08-18 06:49:53"
+      "fetched_at_tw": "2026-08-18 07:20:58"
     },
     {
       "key": "1150817|sii|3711|4",
@@ -126,10 +126,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "companyId": "3711",
         "serialNumber": 4,
-        "enterDate": "1150817"
+        "enterDate": "1150817",
+        "marketKind": "sii",
+        "companyId": "3711"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,103 @@
           ],
           "companyAbbreviation": "日月光投控"
         },
-        "datetime": "115/08/18 06:49:56"
+        "datetime": "115/08/18 07:21:02"
       },
-      "fetched_at_tw": "2026-08-18 06:49:53"
+      "fetched_at_tw": "2026-08-18 07:20:58"
+    },
+    {
+      "key": "1150818|sii|6908|1",
+      "speech_date": "115/08/18",
+      "speech_time": "06:59:03",
+      "company_id": "6908",
+      "company_name": "宏碁遊戲-創",
+      "subject": "代子公司WinkingStudiosLimited公告庫藏股執行情形",
+      "matched_keywords": [
+        "庫藏股"
+      ],
+      "detail_params": {
+        "serialNumber": 1,
+        "enterDate": "1150818",
+        "marketKind": "sii",
+        "companyId": "6908"
+      },
+      "detail": {
+        "code": 200,
+        "message": "查詢成功",
+        "result": {
+          "marketName": "上市公司",
+          "companyId": "6908",
+          "data": [
+            [
+              1,
+              "115/08/18",
+              "06:59:03",
+              "徐挺洋",
+              "總經理",
+              "(02)26960068",
+              "代子公司Winking Studios Limited公告庫藏股執行情形",
+              "51",
+              "115/08/17",
+              "1.事實發生日:115/08/17\n2.公司名稱:Winking Studios Limited\n3.與公司關係(請輸入本公司或子公司):子公司\n4.相互持股比例:57.19%\n5.發生緣由:無\n6.因應措施:無\n7.其他應敘明事項(若事件發生或決議之主體係屬公開發行以上公司，本則重大訊息同時\n  符合證券交易法施行細則第7條第9款所定對股東權益或證券價格有重大影響之事項):\n(1)每日股票回購指示的生效日期: 2026/08/17\n(2)授權購買的最大股份數量: 44,193,811\n(3)透過市場收購方式進行的購買: 是\n(4)購買日期: 2026/08/17\n(5)購買股份總數: 257,300\n(6)註銷股份數量:0\n(7)庫存股數量: 1,014,400\n(8)每股最高價格: SGD 0.21205\n(9)每股最低價格: SGD 0.21205\n(10)股份已支付或應付的總對價(包括印花稅、清算費用等): SGD 54,702.32\n(11)截至目前累計購買股數: 1,014,400\n(12)已發行股份數量(不包括購買後的庫存股): 440,923,718\n(13)購買後持有的庫存股數量: 1,014,400"
+            ]
+          ],
+          "footer": [
+            "以上資料均由各公司依發言當時所屬市場別之規定申報後，由本系統對外公佈，資料如有虛偽不實，均由該公司負責。"
+          ],
+          "header": {
+            "note": [],
+            "subTitle": [],
+            "mainTitle": [
+              "公司當日重大訊息之詳細內容"
+            ]
+          },
+          "titles": [
+            {
+              "sub": [],
+              "main": "序號"
+            },
+            {
+              "sub": [],
+              "main": "發言日期"
+            },
+            {
+              "sub": [],
+              "main": "發言時間"
+            },
+            {
+              "sub": [],
+              "main": "發言人"
+            },
+            {
+              "sub": [],
+              "main": "發言人職稱"
+            },
+            {
+              "sub": [],
+              "main": "發言人電話"
+            },
+            {
+              "sub": [],
+              "main": "主旨"
+            },
+            {
+              "sub": [],
+              "main": "符合條款"
+            },
+            {
+              "sub": [],
+              "main": "事實發生日"
+            },
+            {
+              "sub": [],
+              "main": "說明"
+            }
+          ],
+          "companyAbbreviation": "宏碁遊戲-創"
+        },
+        "datetime": "115/08/18 07:21:03"
+      },
+      "fetched_at_tw": "2026-08-18 07:20:58"
     },
     {
       "key": "1150817|otc|4416|2",
@@ -220,10 +314,10 @@
         "公司債"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "4416",
         "serialNumber": 2,
-        "enterDate": "1150817"
+        "enterDate": "1150817",
+        "marketKind": "otc",
+        "companyId": "4416"
       },
       "detail": {
         "code": 200,
@@ -299,9 +393,9 @@
           ],
           "companyAbbreviation": "三圓"
         },
-        "datetime": "115/08/18 06:49:57"
+        "datetime": "115/08/18 07:21:04"
       },
-      "fetched_at_tw": "2026-08-18 06:49:53"
+      "fetched_at_tw": "2026-08-18 07:20:58"
     },
     {
       "key": "1150817|otc|4804|1",
@@ -314,10 +408,10 @@
         "公司債"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "4804",
         "serialNumber": 1,
-        "enterDate": "1150817"
+        "enterDate": "1150817",
+        "marketKind": "otc",
+        "companyId": "4804"
       },
       "detail": {
         "code": 200,
@@ -393,9 +487,9 @@
           ],
           "companyAbbreviation": "大略-KY"
         },
-        "datetime": "115/08/18 06:49:58"
+        "datetime": "115/08/18 07:21:05"
       },
-      "fetched_at_tw": "2026-08-18 06:49:53"
+      "fetched_at_tw": "2026-08-18 07:20:58"
     },
     {
       "key": "1150817|otc|7842|3",
@@ -408,10 +502,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "companyId": "7842",
         "serialNumber": 3,
-        "enterDate": "1150817"
+        "enterDate": "1150817",
+        "marketKind": "otc",
+        "companyId": "7842"
       },
       "detail": {
         "code": 200,
@@ -487,9 +581,9 @@
           ],
           "companyAbbreviation": "天能綠電"
         },
-        "datetime": "115/08/18 06:49:59"
+        "datetime": "115/08/18 07:21:05"
       },
-      "fetched_at_tw": "2026-08-18 06:49:53"
+      "fetched_at_tw": "2026-08-18 07:20:58"
     },
     {
       "key": "1150817|rotc|7899|2",
@@ -502,10 +596,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "companyId": "7899",
         "serialNumber": 2,
-        "enterDate": "1150817"
+        "enterDate": "1150817",
+        "marketKind": "rotc",
+        "companyId": "7899"
       },
       "detail": {
         "code": 200,
@@ -581,9 +675,9 @@
           ],
           "companyAbbreviation": "景美"
         },
-        "datetime": "115/08/18 06:50:00"
+        "datetime": "115/08/18 07:21:11"
       },
-      "fetched_at_tw": "2026-08-18 06:49:53"
+      "fetched_at_tw": "2026-08-18 07:20:58"
     },
     {
       "key": "1150817|rotc|4925|1",
@@ -596,10 +690,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "companyId": "4925",
         "serialNumber": 1,
-        "enterDate": "1150817"
+        "enterDate": "1150817",
+        "marketKind": "rotc",
+        "companyId": "4925"
       },
       "detail": {
         "code": 200,
@@ -675,9 +769,9 @@
           ],
           "companyAbbreviation": "智微"
         },
-        "datetime": "115/08/18 06:50:01"
+        "datetime": "115/08/18 07:21:12"
       },
-      "fetched_at_tw": "2026-08-18 06:49:53"
+      "fetched_at_tw": "2026-08-18 07:20:58"
     },
     {
       "key": "1150817|pub|6954|1",
@@ -690,10 +784,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "pub",
-        "companyId": "6954",
         "serialNumber": 1,
-        "enterDate": "1150817"
+        "enterDate": "1150817",
+        "marketKind": "pub",
+        "companyId": "6954"
       },
       "detail": {
         "code": 200,
@@ -769,9 +863,9 @@
           ],
           "companyAbbreviation": "全盈支付"
         },
-        "datetime": "115/08/18 06:50:02"
+        "datetime": "115/08/18 07:21:16"
       },
-      "fetched_at_tw": "2026-08-18 06:49:53"
+      "fetched_at_tw": "2026-08-18 07:20:58"
     }
   ]
 }
