@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-08-19 04:21:46",
+    "run_at_tw": "2026-08-19 04:49:15",
     "query": {
       "year": "115",
       "month": "8",
@@ -32,10 +32,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "6947",
-        "marketKind": "sii",
         "enterDate": "1150818",
-        "serialNumber": 2
+        "serialNumber": 2,
+        "companyId": "6947",
+        "marketKind": "sii"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "台鎔科技"
         },
-        "datetime": "115/08/19 04:21:48"
+        "datetime": "115/08/19 04:49:17"
       },
-      "fetched_at_tw": "2026-08-19 04:21:46"
+      "fetched_at_tw": "2026-08-19 04:49:15"
     },
     {
       "key": "1150818|sii|6908|2",
@@ -126,10 +126,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "companyId": "6908",
-        "marketKind": "sii",
         "enterDate": "1150818",
-        "serialNumber": 2
+        "serialNumber": 2,
+        "companyId": "6908",
+        "marketKind": "sii"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "宏碁遊戲-創"
         },
-        "datetime": "115/08/19 04:21:49"
+        "datetime": "115/08/19 04:49:18"
       },
-      "fetched_at_tw": "2026-08-19 04:21:46"
+      "fetched_at_tw": "2026-08-19 04:49:15"
     },
     {
       "key": "1150818|rotc|6648|2",
@@ -220,10 +220,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "companyId": "6648",
-        "marketKind": "rotc",
         "enterDate": "1150818",
-        "serialNumber": 2
+        "serialNumber": 2,
+        "companyId": "6648",
+        "marketKind": "rotc"
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "斯其大"
         },
-        "datetime": "115/08/19 04:21:50"
+        "datetime": "115/08/19 04:49:18"
       },
-      "fetched_at_tw": "2026-08-19 04:21:46"
+      "fetched_at_tw": "2026-08-19 04:49:15"
     },
     {
       "key": "1150818|rotc|6787|1",
@@ -314,10 +314,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "6787",
-        "marketKind": "rotc",
         "enterDate": "1150818",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "companyId": "6787",
+        "marketKind": "rotc"
       },
       "detail": {
         "code": 200,
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "晶瑞光"
         },
-        "datetime": "115/08/19 04:21:51"
+        "datetime": "115/08/19 04:49:19"
       },
-      "fetched_at_tw": "2026-08-19 04:21:46"
+      "fetched_at_tw": "2026-08-19 04:49:15"
     }
   ]
 }
