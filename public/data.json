@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-08-20 05:50:09",
+    "run_at_tw": "2026-08-20 06:22:43",
     "query": {
       "year": "115",
       "month": "8",
@@ -32,10 +32,10 @@
         "公司債"
       ],
       "detail_params": {
-        "enterDate": "1150819",
-        "serialNumber": 3,
         "companyId": "3443",
-        "marketKind": "sii"
+        "marketKind": "sii",
+        "enterDate": "1150819",
+        "serialNumber": 3
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "創意"
         },
-        "datetime": "115/08/20 05:50:11"
+        "datetime": "115/08/20 06:22:44"
       },
-      "fetched_at_tw": "2026-08-20 05:50:09"
+      "fetched_at_tw": "2026-08-20 06:22:43"
     },
     {
       "key": "1150819|otc|8084|1",
@@ -126,10 +126,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150819",
-        "serialNumber": 1,
         "companyId": "8084",
-        "marketKind": "otc"
+        "marketKind": "otc",
+        "enterDate": "1150819",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "巨虹"
         },
-        "datetime": "115/08/20 05:50:11"
+        "datetime": "115/08/20 06:22:44"
       },
-      "fetched_at_tw": "2026-08-20 05:50:09"
+      "fetched_at_tw": "2026-08-20 06:22:43"
     },
     {
       "key": "1150819|otc|6182|1",
@@ -220,10 +220,10 @@
         "公司債"
       ],
       "detail_params": {
-        "enterDate": "1150819",
-        "serialNumber": 1,
         "companyId": "6182",
-        "marketKind": "otc"
+        "marketKind": "otc",
+        "enterDate": "1150819",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "合晶"
         },
-        "datetime": "115/08/20 05:50:13"
+        "datetime": "115/08/20 06:22:45"
       },
-      "fetched_at_tw": "2026-08-20 05:50:09"
+      "fetched_at_tw": "2026-08-20 06:22:43"
     },
     {
       "key": "1150819|otc|8436|2",
@@ -314,10 +314,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "enterDate": "1150819",
-        "serialNumber": 2,
         "companyId": "8436",
-        "marketKind": "otc"
+        "marketKind": "otc",
+        "enterDate": "1150819",
+        "serialNumber": 2
       },
       "detail": {
         "code": 200,
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "大江"
         },
-        "datetime": "115/08/20 05:50:14"
+        "datetime": "115/08/20 06:22:46"
       },
-      "fetched_at_tw": "2026-08-20 05:50:09"
+      "fetched_at_tw": "2026-08-20 06:22:43"
     },
     {
       "key": "1150819|otc|2756|2",
@@ -408,10 +408,10 @@
         "公司債"
       ],
       "detail_params": {
-        "enterDate": "1150819",
-        "serialNumber": 2,
         "companyId": "2756",
-        "marketKind": "otc"
+        "marketKind": "otc",
+        "enterDate": "1150819",
+        "serialNumber": 2
       },
       "detail": {
         "code": 200,
@@ -487,9 +487,9 @@
           ],
           "companyAbbreviation": "聯發國際"
         },
-        "datetime": "115/08/20 05:50:14"
+        "datetime": "115/08/20 06:22:46"
       },
-      "fetched_at_tw": "2026-08-20 05:50:09"
+      "fetched_at_tw": "2026-08-20 06:22:43"
     },
     {
       "key": "1150819|rotc|6734|1",
@@ -502,10 +502,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150819",
-        "serialNumber": 1,
         "companyId": "6734",
-        "marketKind": "rotc"
+        "marketKind": "rotc",
+        "enterDate": "1150819",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -581,9 +581,9 @@
           ],
           "companyAbbreviation": "安盛生"
         },
-        "datetime": "115/08/20 05:50:15"
+        "datetime": "115/08/20 06:22:47"
       },
-      "fetched_at_tw": "2026-08-20 05:50:09"
+      "fetched_at_tw": "2026-08-20 06:22:43"
     }
   ]
 }
