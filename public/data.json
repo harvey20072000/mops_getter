@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-08-21 03:57:19",
+    "run_at_tw": "2026-08-21 04:33:39",
     "query": {
       "year": "115",
       "month": "8",
@@ -32,10 +32,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "enterDate": "1150820",
-        "serialNumber": 1,
         "companyId": "6176",
-        "marketKind": "sii"
+        "marketKind": "sii",
+        "enterDate": "1150820",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "瑞儀"
         },
-        "datetime": "115/08/21 03:57:20"
+        "datetime": "115/08/21 04:33:41"
       },
-      "fetched_at_tw": "2026-08-21 03:57:19"
+      "fetched_at_tw": "2026-08-21 04:33:39"
     },
     {
       "key": "1150820|sii|6908|1",
@@ -126,10 +126,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "enterDate": "1150820",
-        "serialNumber": 1,
         "companyId": "6908",
-        "marketKind": "sii"
+        "marketKind": "sii",
+        "enterDate": "1150820",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "宏碁遊戲-創"
         },
-        "datetime": "115/08/21 03:57:20"
+        "datetime": "115/08/21 04:33:42"
       },
-      "fetched_at_tw": "2026-08-21 03:57:19"
+      "fetched_at_tw": "2026-08-21 04:33:39"
     },
     {
       "key": "1150820|otc|3252|2",
@@ -220,10 +220,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "enterDate": "1150820",
-        "serialNumber": 2,
         "companyId": "3252",
-        "marketKind": "otc"
+        "marketKind": "otc",
+        "enterDate": "1150820",
+        "serialNumber": 2
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "海灣"
         },
-        "datetime": "115/08/21 03:57:21"
+        "datetime": "115/08/21 04:33:42"
       },
-      "fetched_at_tw": "2026-08-21 03:57:19"
+      "fetched_at_tw": "2026-08-21 04:33:39"
     },
     {
       "key": "1150820|otc|3252|3",
@@ -314,10 +314,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "enterDate": "1150820",
-        "serialNumber": 3,
         "companyId": "3252",
-        "marketKind": "otc"
+        "marketKind": "otc",
+        "enterDate": "1150820",
+        "serialNumber": 3
       },
       "detail": {
         "code": 200,
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "海灣"
         },
-        "datetime": "115/08/21 03:57:22"
+        "datetime": "115/08/21 04:33:43"
       },
-      "fetched_at_tw": "2026-08-21 03:57:19"
+      "fetched_at_tw": "2026-08-21 04:33:39"
     },
     {
       "key": "1150820|otc|6021|8",
@@ -408,10 +408,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "enterDate": "1150820",
-        "serialNumber": 8,
         "companyId": "6021",
-        "marketKind": "otc"
+        "marketKind": "otc",
+        "enterDate": "1150820",
+        "serialNumber": 8
       },
       "detail": {
         "code": 200,
@@ -487,9 +487,9 @@
           ],
           "companyAbbreviation": "美好證"
         },
-        "datetime": "115/08/21 03:57:22"
+        "datetime": "115/08/21 04:33:44"
       },
-      "fetched_at_tw": "2026-08-21 03:57:19"
+      "fetched_at_tw": "2026-08-21 04:33:39"
     },
     {
       "key": "1150820|rotc|7899|3",
@@ -502,10 +502,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150820",
-        "serialNumber": 3,
         "companyId": "7899",
-        "marketKind": "rotc"
+        "marketKind": "rotc",
+        "enterDate": "1150820",
+        "serialNumber": 3
       },
       "detail": {
         "code": 200,
@@ -581,9 +581,9 @@
           ],
           "companyAbbreviation": "景美"
         },
-        "datetime": "115/08/21 03:57:23"
+        "datetime": "115/08/21 04:33:45"
       },
-      "fetched_at_tw": "2026-08-21 03:57:19"
+      "fetched_at_tw": "2026-08-21 04:33:39"
     },
     {
       "key": "1150820|rotc|7899|5",
@@ -596,10 +596,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150820",
-        "serialNumber": 5,
         "companyId": "7899",
-        "marketKind": "rotc"
+        "marketKind": "rotc",
+        "enterDate": "1150820",
+        "serialNumber": 5
       },
       "detail": {
         "code": 200,
@@ -675,9 +675,9 @@
           ],
           "companyAbbreviation": "景美"
         },
-        "datetime": "115/08/21 03:57:23"
+        "datetime": "115/08/21 04:33:46"
       },
-      "fetched_at_tw": "2026-08-21 03:57:19"
+      "fetched_at_tw": "2026-08-21 04:33:39"
     }
   ]
 }
