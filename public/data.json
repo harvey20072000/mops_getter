@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-08-26 02:37:18",
+    "run_at_tw": "2026-08-26 03:30:30",
     "query": {
       "year": "115",
       "month": "8",
@@ -32,10 +32,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "2360",
-        "marketKind": "sii",
         "enterDate": "1150825",
-        "serialNumber": 2
+        "serialNumber": 2,
+        "companyId": "2360",
+        "marketKind": "sii"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "致茂"
         },
-        "datetime": "115/08/26 02:37:19"
+        "datetime": "115/08/26 03:30:32"
       },
-      "fetched_at_tw": "2026-08-26 02:37:18"
+      "fetched_at_tw": "2026-08-26 03:30:30"
     },
     {
       "key": "1150825|sii|2882|3",
@@ -126,10 +126,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "2882",
-        "marketKind": "sii",
         "enterDate": "1150825",
-        "serialNumber": 3
+        "serialNumber": 3,
+        "companyId": "2882",
+        "marketKind": "sii"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "國泰金"
         },
-        "datetime": "115/08/26 02:37:20"
+        "datetime": "115/08/26 03:30:32"
       },
-      "fetched_at_tw": "2026-08-26 02:37:18"
+      "fetched_at_tw": "2026-08-26 03:30:30"
     },
     {
       "key": "1150825|sii|6908|3",
@@ -220,10 +220,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "companyId": "6908",
-        "marketKind": "sii",
         "enterDate": "1150825",
-        "serialNumber": 3
+        "serialNumber": 3,
+        "companyId": "6908",
+        "marketKind": "sii"
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "宏碁遊戲-創"
         },
-        "datetime": "115/08/26 02:37:21"
+        "datetime": "115/08/26 03:30:33"
       },
-      "fetched_at_tw": "2026-08-26 02:37:18"
+      "fetched_at_tw": "2026-08-26 03:30:30"
     }
   ]
 }
