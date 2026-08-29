@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-08-29 05:06:14",
+    "run_at_tw": "2026-08-29 11:14:33",
     "query": {
       "year": "115",
       "month": "8",
@@ -18,7 +18,7 @@
       "庫藏股"
     ],
     "matched_count": 5,
-    "new_matched_count": 5
+    "new_matched_count": 0
   },
   "items": [
     {
@@ -32,10 +32,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "enterDate": "1150828",
-        "serialNumber": 1,
         "companyId": "5258",
-        "marketKind": "sii"
+        "marketKind": "sii",
+        "enterDate": "1150828",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "虹堡"
         },
-        "datetime": "115/08/29 05:06:15"
+        "datetime": "115/08/29 11:14:34"
       },
-      "fetched_at_tw": "2026-08-29 05:06:14"
+      "fetched_at_tw": "2026-08-29 11:14:33"
     },
     {
       "key": "1150828|sii|6908|1",
@@ -126,10 +126,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "enterDate": "1150828",
-        "serialNumber": 1,
         "companyId": "6908",
-        "marketKind": "sii"
+        "marketKind": "sii",
+        "enterDate": "1150828",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "宏碁遊戲-創"
         },
-        "datetime": "115/08/29 05:06:17"
+        "datetime": "115/08/29 11:14:34"
       },
-      "fetched_at_tw": "2026-08-29 05:06:14"
+      "fetched_at_tw": "2026-08-29 11:14:33"
     },
     {
       "key": "1150828|sii|4958|1",
@@ -220,10 +220,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "enterDate": "1150828",
-        "serialNumber": 1,
         "companyId": "4958",
-        "marketKind": "sii"
+        "marketKind": "sii",
+        "enterDate": "1150828",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "臻鼎-KY"
         },
-        "datetime": "115/08/29 05:06:18"
+        "datetime": "115/08/29 11:14:35"
       },
-      "fetched_at_tw": "2026-08-29 05:06:14"
+      "fetched_at_tw": "2026-08-29 11:14:33"
     },
     {
       "key": "1150828|otc|3680|3",
@@ -314,10 +314,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150828",
-        "serialNumber": 3,
         "companyId": "3680",
-        "marketKind": "otc"
+        "marketKind": "otc",
+        "enterDate": "1150828",
+        "serialNumber": 3
       },
       "detail": {
         "code": 200,
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "家登"
         },
-        "datetime": "115/08/29 05:06:19"
+        "datetime": "115/08/29 11:14:36"
       },
-      "fetched_at_tw": "2026-08-29 05:06:14"
+      "fetched_at_tw": "2026-08-29 11:14:33"
     },
     {
       "key": "1150828|rotc|4925|1",
@@ -408,10 +408,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150828",
-        "serialNumber": 1,
         "companyId": "4925",
-        "marketKind": "rotc"
+        "marketKind": "rotc",
+        "enterDate": "1150828",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -487,9 +487,9 @@
           ],
           "companyAbbreviation": "智微"
         },
-        "datetime": "115/08/29 05:06:20"
+        "datetime": "115/08/29 11:14:36"
       },
-      "fetched_at_tw": "2026-08-29 05:06:14"
+      "fetched_at_tw": "2026-08-29 11:14:33"
     }
   ]
 }
