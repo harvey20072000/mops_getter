@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-09-03 04:55:42",
+    "run_at_tw": "2026-09-03 07:01:08",
     "query": {
       "year": "115",
       "month": "9",
@@ -32,10 +32,10 @@
         "公司債"
       ],
       "detail_params": {
-        "enterDate": "1150902",
-        "serialNumber": 1,
         "companyId": "3141",
-        "marketKind": "otc"
+        "marketKind": "otc",
+        "enterDate": "1150902",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "晶宏"
         },
-        "datetime": "115/09/03 04:55:43"
+        "datetime": "115/09/03 07:01:10"
       },
-      "fetched_at_tw": "2026-09-03 04:55:42"
+      "fetched_at_tw": "2026-09-03 07:01:08"
     },
     {
       "key": "1150902|otc|8171|1",
@@ -126,10 +126,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "enterDate": "1150902",
-        "serialNumber": 1,
         "companyId": "8171",
-        "marketKind": "otc"
+        "marketKind": "otc",
+        "enterDate": "1150902",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "天宇"
         },
-        "datetime": "115/09/03 04:55:44"
+        "datetime": "115/09/03 07:01:11"
       },
-      "fetched_at_tw": "2026-09-03 04:55:42"
+      "fetched_at_tw": "2026-09-03 07:01:08"
     },
     {
       "key": "1150902|rotc|7419|2",
@@ -220,10 +220,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150902",
-        "serialNumber": 2,
         "companyId": "7419",
-        "marketKind": "rotc"
+        "marketKind": "rotc",
+        "enterDate": "1150902",
+        "serialNumber": 2
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "達勝"
         },
-        "datetime": "115/09/03 04:55:44"
+        "datetime": "115/09/03 07:01:12"
       },
-      "fetched_at_tw": "2026-09-03 04:55:42"
+      "fetched_at_tw": "2026-09-03 07:01:08"
     },
     {
       "key": "1150902|rotc|7784|2",
@@ -314,10 +314,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150902",
-        "serialNumber": 2,
         "companyId": "7784",
-        "marketKind": "rotc"
+        "marketKind": "rotc",
+        "enterDate": "1150902",
+        "serialNumber": 2
       },
       "detail": {
         "code": 200,
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "安邦生技*"
         },
-        "datetime": "115/09/03 04:55:45"
+        "datetime": "115/09/03 07:01:14"
       },
-      "fetched_at_tw": "2026-09-03 04:55:42"
+      "fetched_at_tw": "2026-09-03 07:01:08"
     },
     {
       "key": "1150902|rotc|6847|1",
@@ -408,10 +408,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150902",
-        "serialNumber": 1,
         "companyId": "6847",
-        "marketKind": "rotc"
+        "marketKind": "rotc",
+        "enterDate": "1150902",
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -487,9 +487,9 @@
           ],
           "companyAbbreviation": "普瑞博"
         },
-        "datetime": "115/09/03 04:55:46"
+        "datetime": "115/09/03 07:01:15"
       },
-      "fetched_at_tw": "2026-09-03 04:55:42"
+      "fetched_at_tw": "2026-09-03 07:01:08"
     },
     {
       "key": "1150902|rotc|6847|2",
@@ -502,10 +502,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150902",
-        "serialNumber": 2,
         "companyId": "6847",
-        "marketKind": "rotc"
+        "marketKind": "rotc",
+        "enterDate": "1150902",
+        "serialNumber": 2
       },
       "detail": {
         "code": 200,
@@ -581,9 +581,9 @@
           ],
           "companyAbbreviation": "普瑞博"
         },
-        "datetime": "115/09/03 04:55:46"
+        "datetime": "115/09/03 07:01:17"
       },
-      "fetched_at_tw": "2026-09-03 04:55:42"
+      "fetched_at_tw": "2026-09-03 07:01:08"
     }
   ]
 }
