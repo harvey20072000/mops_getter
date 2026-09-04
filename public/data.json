@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-09-05 00:44:29",
+    "run_at_tw": "2026-09-05 03:18:07",
     "query": {
       "year": "115",
       "month": "9",
@@ -32,10 +32,10 @@
         "公司債"
       ],
       "detail_params": {
-        "companyId": "1560",
-        "marketKind": "sii",
         "enterDate": "1150904",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "companyId": "1560",
+        "marketKind": "sii"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "中砂"
         },
-        "datetime": "115/09/05 00:44:31"
+        "datetime": "115/09/05 03:18:09"
       },
-      "fetched_at_tw": "2026-09-05 00:44:29"
+      "fetched_at_tw": "2026-09-05 03:18:07"
     },
     {
       "key": "1150904|sii|2441|1",
@@ -126,10 +126,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "companyId": "2441",
-        "marketKind": "sii",
         "enterDate": "1150904",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "companyId": "2441",
+        "marketKind": "sii"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "超豐"
         },
-        "datetime": "115/09/05 00:44:31"
+        "datetime": "115/09/05 03:18:10"
       },
-      "fetched_at_tw": "2026-09-05 00:44:29"
+      "fetched_at_tw": "2026-09-05 03:18:07"
     },
     {
       "key": "1150904|rotc|6659|1",
@@ -220,10 +220,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "companyId": "6659",
-        "marketKind": "rotc",
         "enterDate": "1150904",
-        "serialNumber": 1
+        "serialNumber": 1,
+        "companyId": "6659",
+        "marketKind": "rotc"
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "天明製藥"
         },
-        "datetime": "115/09/05 00:44:32"
+        "datetime": "115/09/05 03:18:11"
       },
-      "fetched_at_tw": "2026-09-05 00:44:29"
+      "fetched_at_tw": "2026-09-05 03:18:07"
     }
   ]
 }
