@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-09-09 02:19:47",
+    "run_at_tw": "2026-09-09 05:18:54",
     "query": {
       "year": "115",
       "month": "9",
@@ -32,9 +32,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "9955",
-        "marketKind": "sii",
         "enterDate": "1150908",
+        "marketKind": "sii",
+        "companyId": "9955",
         "serialNumber": 1
       },
       "detail": {
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "佳龍"
         },
-        "datetime": "115/09/09 02:19:48"
+        "datetime": "115/09/09 05:18:56"
       },
-      "fetched_at_tw": "2026-09-09 02:19:47"
+      "fetched_at_tw": "2026-09-09 05:18:54"
     },
     {
       "key": "1150908|sii|2614|1",
@@ -126,9 +126,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "2614",
-        "marketKind": "sii",
         "enterDate": "1150908",
+        "marketKind": "sii",
+        "companyId": "2614",
         "serialNumber": 1
       },
       "detail": {
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "東森"
         },
-        "datetime": "115/09/09 02:19:49"
+        "datetime": "115/09/09 05:18:57"
       },
-      "fetched_at_tw": "2026-09-09 02:19:47"
+      "fetched_at_tw": "2026-09-09 05:18:54"
     },
     {
       "key": "1150904|otc|8084|1",
@@ -220,9 +220,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "8084",
-        "marketKind": "otc",
         "enterDate": "1150904",
+        "marketKind": "otc",
+        "companyId": "8084",
         "serialNumber": 1
       },
       "detail": {
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "巨虹"
         },
-        "datetime": "115/09/09 02:19:49"
+        "datetime": "115/09/09 05:18:57"
       },
-      "fetched_at_tw": "2026-09-09 02:19:47"
+      "fetched_at_tw": "2026-09-09 05:18:54"
     },
     {
       "key": "1150908|otc|8084|1",
@@ -314,9 +314,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "8084",
-        "marketKind": "otc",
         "enterDate": "1150908",
+        "marketKind": "otc",
+        "companyId": "8084",
         "serialNumber": 1
       },
       "detail": {
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "巨虹"
         },
-        "datetime": "115/09/09 02:19:50"
+        "datetime": "115/09/09 05:18:58"
       },
-      "fetched_at_tw": "2026-09-09 02:19:47"
+      "fetched_at_tw": "2026-09-09 05:18:54"
     },
     {
       "key": "1150908|rotc|7419|1",
@@ -408,9 +408,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "7419",
-        "marketKind": "rotc",
         "enterDate": "1150908",
+        "marketKind": "rotc",
+        "companyId": "7419",
         "serialNumber": 1
       },
       "detail": {
@@ -487,9 +487,9 @@
           ],
           "companyAbbreviation": "達勝"
         },
-        "datetime": "115/09/09 02:19:51"
+        "datetime": "115/09/09 05:18:59"
       },
-      "fetched_at_tw": "2026-09-09 02:19:47"
+      "fetched_at_tw": "2026-09-09 05:18:54"
     },
     {
       "key": "1150908|rotc|7825|3",
@@ -502,9 +502,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "7825",
-        "marketKind": "rotc",
         "enterDate": "1150908",
+        "marketKind": "rotc",
+        "companyId": "7825",
         "serialNumber": 3
       },
       "detail": {
@@ -581,9 +581,9 @@
           ],
           "companyAbbreviation": "和亞智慧"
         },
-        "datetime": "115/09/09 02:19:51"
+        "datetime": "115/09/09 05:19:00"
       },
-      "fetched_at_tw": "2026-09-09 02:19:47"
+      "fetched_at_tw": "2026-09-09 05:18:54"
     },
     {
       "key": "1150908|rotc|6935|1",
@@ -596,9 +596,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "6935",
-        "marketKind": "rotc",
         "enterDate": "1150908",
+        "marketKind": "rotc",
+        "companyId": "6935",
         "serialNumber": 1
       },
       "detail": {
@@ -675,9 +675,9 @@
           ],
           "companyAbbreviation": "王子製藥"
         },
-        "datetime": "115/09/09 02:19:52"
+        "datetime": "115/09/09 05:19:01"
       },
-      "fetched_at_tw": "2026-09-09 02:19:47"
+      "fetched_at_tw": "2026-09-09 05:18:54"
     }
   ]
 }
