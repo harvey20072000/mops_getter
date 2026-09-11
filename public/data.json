@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-09-12 05:08:37",
+    "run_at_tw": "2026-09-12 07:28:10",
     "query": {
       "year": "115",
       "month": "9",
@@ -32,9 +32,9 @@
         "自結合併"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "enterDate": "1150911",
         "serialNumber": 1,
+        "enterDate": "1150911",
+        "marketKind": "sii",
         "companyId": "2883"
       },
       "detail": {
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "凱基金"
         },
-        "datetime": "115/09/12 05:08:38"
+        "datetime": "115/09/12 07:28:12"
       },
-      "fetched_at_tw": "2026-09-12 05:08:37"
+      "fetched_at_tw": "2026-09-12 07:28:10"
     },
     {
       "key": "1150911|sii|3016|1",
@@ -126,9 +126,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "enterDate": "1150911",
         "serialNumber": 1,
+        "enterDate": "1150911",
+        "marketKind": "sii",
         "companyId": "3016"
       },
       "detail": {
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "嘉晶"
         },
-        "datetime": "115/09/12 05:08:39"
+        "datetime": "115/09/12 07:28:12"
       },
-      "fetched_at_tw": "2026-09-12 05:08:37"
+      "fetched_at_tw": "2026-09-12 07:28:10"
     },
     {
       "key": "1150911|rotc|7887|1",
@@ -220,9 +220,9 @@
         "庫藏股"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "enterDate": "1150911",
         "serialNumber": 1,
+        "enterDate": "1150911",
+        "marketKind": "rotc",
         "companyId": "7887"
       },
       "detail": {
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "宇川精材"
         },
-        "datetime": "115/09/12 05:08:40"
+        "datetime": "115/09/12 07:28:13"
       },
-      "fetched_at_tw": "2026-09-12 05:08:37"
+      "fetched_at_tw": "2026-09-12 07:28:10"
     }
   ]
 }
