@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-09-15 07:41:23",
+    "run_at_tw": "2026-09-15 11:35:53",
     "query": {
       "year": "115",
       "month": "9",
@@ -18,7 +18,7 @@
       "庫藏股"
     ],
     "matched_count": 12,
-    "new_matched_count": 1
+    "new_matched_count": 0
   },
   "items": [
     {
@@ -32,9 +32,9 @@
         "機器設備"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "enterDate": "1150914",
         "serialNumber": 1,
+        "enterDate": "1150914",
+        "marketKind": "sii",
         "companyId": "4958"
       },
       "detail": {
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "臻鼎-KY"
         },
-        "datetime": "115/09/15 07:41:24"
+        "datetime": "115/09/15 11:35:57"
       },
-      "fetched_at_tw": "2026-09-15 07:41:23"
+      "fetched_at_tw": "2026-09-15 11:35:53"
     },
     {
       "key": "1150914|sii|8404|3",
@@ -126,9 +126,9 @@
         "自結合併"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "enterDate": "1150914",
         "serialNumber": 3,
+        "enterDate": "1150914",
+        "marketKind": "sii",
         "companyId": "8404"
       },
       "detail": {
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "百和興業-KY"
         },
-        "datetime": "115/09/15 07:41:25"
+        "datetime": "115/09/15 11:35:58"
       },
-      "fetched_at_tw": "2026-09-15 07:41:23"
+      "fetched_at_tw": "2026-09-15 11:35:53"
     },
     {
       "key": "1150914|sii|8442|1",
@@ -220,9 +220,9 @@
         "公司債"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "enterDate": "1150914",
         "serialNumber": 1,
+        "enterDate": "1150914",
+        "marketKind": "sii",
         "companyId": "8442"
       },
       "detail": {
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "威宏-KY"
         },
-        "datetime": "115/09/15 07:41:25"
+        "datetime": "115/09/15 11:35:59"
       },
-      "fetched_at_tw": "2026-09-15 07:41:23"
+      "fetched_at_tw": "2026-09-15 11:35:53"
     },
     {
       "key": "1150914|sii|2308|5",
@@ -314,9 +314,9 @@
         "公司債"
       ],
       "detail_params": {
-        "marketKind": "sii",
-        "enterDate": "1150914",
         "serialNumber": 5,
+        "enterDate": "1150914",
+        "marketKind": "sii",
         "companyId": "2308"
       },
       "detail": {
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "台達電"
         },
-        "datetime": "115/09/15 07:41:26"
+        "datetime": "115/09/15 11:36:01"
       },
-      "fetched_at_tw": "2026-09-15 07:41:23"
+      "fetched_at_tw": "2026-09-15 11:35:53"
     },
     {
       "key": "1150914|otc|8936|1",
@@ -408,9 +408,9 @@
         "公司債"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "enterDate": "1150914",
         "serialNumber": 1,
+        "enterDate": "1150914",
+        "marketKind": "otc",
         "companyId": "8936"
       },
       "detail": {
@@ -487,9 +487,9 @@
           ],
           "companyAbbreviation": "國統"
         },
-        "datetime": "115/09/15 07:41:27"
+        "datetime": "115/09/15 11:36:03"
       },
-      "fetched_at_tw": "2026-09-15 07:41:23"
+      "fetched_at_tw": "2026-09-15 11:35:53"
     },
     {
       "key": "1150914|otc|8936|2",
@@ -502,9 +502,9 @@
         "公司債"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "enterDate": "1150914",
         "serialNumber": 2,
+        "enterDate": "1150914",
+        "marketKind": "otc",
         "companyId": "8936"
       },
       "detail": {
@@ -581,9 +581,9 @@
           ],
           "companyAbbreviation": "國統"
         },
-        "datetime": "115/09/15 07:41:27"
+        "datetime": "115/09/15 11:36:11"
       },
-      "fetched_at_tw": "2026-09-15 07:41:23"
+      "fetched_at_tw": "2026-09-15 11:35:53"
     },
     {
       "key": "1150914|otc|7842|1",
@@ -596,9 +596,9 @@
         "庫藏股"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "enterDate": "1150914",
         "serialNumber": 1,
+        "enterDate": "1150914",
+        "marketKind": "otc",
         "companyId": "7842"
       },
       "detail": {
@@ -675,9 +675,9 @@
           ],
           "companyAbbreviation": "天能綠電"
         },
-        "datetime": "115/09/15 07:41:28"
+        "datetime": "115/09/15 11:36:12"
       },
-      "fetched_at_tw": "2026-09-15 07:41:23"
+      "fetched_at_tw": "2026-09-15 11:35:53"
     },
     {
       "key": "1150914|otc|7805|2",
@@ -690,9 +690,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "enterDate": "1150914",
         "serialNumber": 2,
+        "enterDate": "1150914",
+        "marketKind": "otc",
         "companyId": "7805"
       },
       "detail": {
@@ -769,9 +769,9 @@
           ],
           "companyAbbreviation": "威聯通"
         },
-        "datetime": "115/09/15 07:41:28"
+        "datetime": "115/09/15 11:36:14"
       },
-      "fetched_at_tw": "2026-09-15 07:41:23"
+      "fetched_at_tw": "2026-09-15 11:35:53"
     },
     {
       "key": "1150914|otc|3631|1",
@@ -784,9 +784,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "otc",
-        "enterDate": "1150914",
         "serialNumber": 1,
+        "enterDate": "1150914",
+        "marketKind": "otc",
         "companyId": "3631"
       },
       "detail": {
@@ -863,9 +863,9 @@
           ],
           "companyAbbreviation": "晟楠"
         },
-        "datetime": "115/09/15 07:41:29"
+        "datetime": "115/09/15 11:36:16"
       },
-      "fetched_at_tw": "2026-09-15 07:41:23"
+      "fetched_at_tw": "2026-09-15 11:35:53"
     },
     {
       "key": "1150914|rotc|6604|1",
@@ -878,9 +878,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "enterDate": "1150914",
         "serialNumber": 1,
+        "enterDate": "1150914",
+        "marketKind": "rotc",
         "companyId": "6604"
       },
       "detail": {
@@ -957,9 +957,9 @@
           ],
           "companyAbbreviation": "儒億"
         },
-        "datetime": "115/09/15 07:41:29"
+        "datetime": "115/09/15 11:36:18"
       },
-      "fetched_at_tw": "2026-09-15 07:41:23"
+      "fetched_at_tw": "2026-09-15 11:35:53"
     },
     {
       "key": "1150914|rotc|6604|2",
@@ -972,9 +972,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "enterDate": "1150914",
         "serialNumber": 2,
+        "enterDate": "1150914",
+        "marketKind": "rotc",
         "companyId": "6604"
       },
       "detail": {
@@ -1051,9 +1051,9 @@
           ],
           "companyAbbreviation": "儒億"
         },
-        "datetime": "115/09/15 07:41:35"
+        "datetime": "115/09/15 11:36:20"
       },
-      "fetched_at_tw": "2026-09-15 07:41:23"
+      "fetched_at_tw": "2026-09-15 11:35:53"
     },
     {
       "key": "1150914|rotc|7927|3",
@@ -1066,9 +1066,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "marketKind": "rotc",
-        "enterDate": "1150914",
         "serialNumber": 3,
+        "enterDate": "1150914",
+        "marketKind": "rotc",
         "companyId": "7927"
       },
       "detail": {
@@ -1145,9 +1145,9 @@
           ],
           "companyAbbreviation": "連距電機"
         },
-        "datetime": "115/09/15 07:41:36"
+        "datetime": "115/09/15 11:36:21"
       },
-      "fetched_at_tw": "2026-09-15 07:41:23"
+      "fetched_at_tw": "2026-09-15 11:35:53"
     }
   ]
 }
