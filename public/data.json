@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-09-17 08:07:13",
+    "run_at_tw": "2026-09-17 13:07:15",
     "query": {
       "year": "115",
       "month": "9",
@@ -17,8 +17,8 @@
       "公司債",
       "庫藏股"
     ],
-    "matched_count": 6,
-    "new_matched_count": 0
+    "matched_count": 7,
+    "new_matched_count": 1
   },
   "items": [
     {
@@ -32,10 +32,10 @@
         "公司債"
       ],
       "detail_params": {
+        "companyId": "2344",
         "marketKind": "sii",
         "enterDate": "1150916",
-        "serialNumber": 3,
-        "companyId": "2344"
+        "serialNumber": 3
       },
       "detail": {
         "code": 200,
@@ -69,51 +69,51 @@
           },
           "titles": [
             {
-              "main": "序號",
-              "sub": []
+              "sub": [],
+              "main": "序號"
             },
             {
-              "main": "發言日期",
-              "sub": []
+              "sub": [],
+              "main": "發言日期"
             },
             {
-              "main": "發言時間",
-              "sub": []
+              "sub": [],
+              "main": "發言時間"
             },
             {
-              "main": "發言人",
-              "sub": []
+              "sub": [],
+              "main": "發言人"
             },
             {
-              "main": "發言人職稱",
-              "sub": []
+              "sub": [],
+              "main": "發言人職稱"
             },
             {
-              "main": "發言人電話",
-              "sub": []
+              "sub": [],
+              "main": "發言人電話"
             },
             {
-              "main": "主旨",
-              "sub": []
+              "sub": [],
+              "main": "主旨"
             },
             {
-              "main": "符合條款",
-              "sub": []
+              "sub": [],
+              "main": "符合條款"
             },
             {
-              "main": "事實發生日",
-              "sub": []
+              "sub": [],
+              "main": "事實發生日"
             },
             {
-              "main": "說明",
-              "sub": []
+              "sub": [],
+              "main": "說明"
             }
           ],
           "companyAbbreviation": "華邦電"
         },
-        "datetime": "115/09/17 08:07:15"
+        "datetime": "115/09/17 13:07:16"
       },
-      "fetched_at_tw": "2026-09-17 08:07:13"
+      "fetched_at_tw": "2026-09-17 13:07:15"
     },
     {
       "key": "1150916|sii|2344|4",
@@ -126,10 +126,10 @@
         "公司債"
       ],
       "detail_params": {
+        "companyId": "2344",
         "marketKind": "sii",
         "enterDate": "1150916",
-        "serialNumber": 4,
-        "companyId": "2344"
+        "serialNumber": 4
       },
       "detail": {
         "code": 200,
@@ -163,51 +163,51 @@
           },
           "titles": [
             {
-              "main": "序號",
-              "sub": []
+              "sub": [],
+              "main": "序號"
             },
             {
-              "main": "發言日期",
-              "sub": []
+              "sub": [],
+              "main": "發言日期"
             },
             {
-              "main": "發言時間",
-              "sub": []
+              "sub": [],
+              "main": "發言時間"
             },
             {
-              "main": "發言人",
-              "sub": []
+              "sub": [],
+              "main": "發言人"
             },
             {
-              "main": "發言人職稱",
-              "sub": []
+              "sub": [],
+              "main": "發言人職稱"
             },
             {
-              "main": "發言人電話",
-              "sub": []
+              "sub": [],
+              "main": "發言人電話"
             },
             {
-              "main": "主旨",
-              "sub": []
+              "sub": [],
+              "main": "主旨"
             },
             {
-              "main": "符合條款",
-              "sub": []
+              "sub": [],
+              "main": "符合條款"
             },
             {
-              "main": "事實發生日",
-              "sub": []
+              "sub": [],
+              "main": "事實發生日"
             },
             {
-              "main": "說明",
-              "sub": []
+              "sub": [],
+              "main": "說明"
             }
           ],
           "companyAbbreviation": "華邦電"
         },
-        "datetime": "115/09/17 08:07:17"
+        "datetime": "115/09/17 13:07:17"
       },
-      "fetched_at_tw": "2026-09-17 08:07:13"
+      "fetched_at_tw": "2026-09-17 13:07:15"
     },
     {
       "key": "1150916|sii|6908|1",
@@ -220,10 +220,10 @@
         "庫藏股"
       ],
       "detail_params": {
+        "companyId": "6908",
         "marketKind": "sii",
         "enterDate": "1150916",
-        "serialNumber": 1,
-        "companyId": "6908"
+        "serialNumber": 1
       },
       "detail": {
         "code": 200,
@@ -257,51 +257,145 @@
           },
           "titles": [
             {
-              "main": "序號",
-              "sub": []
+              "sub": [],
+              "main": "序號"
             },
             {
-              "main": "發言日期",
-              "sub": []
+              "sub": [],
+              "main": "發言日期"
             },
             {
-              "main": "發言時間",
-              "sub": []
+              "sub": [],
+              "main": "發言時間"
             },
             {
-              "main": "發言人",
-              "sub": []
+              "sub": [],
+              "main": "發言人"
             },
             {
-              "main": "發言人職稱",
-              "sub": []
+              "sub": [],
+              "main": "發言人職稱"
             },
             {
-              "main": "發言人電話",
-              "sub": []
+              "sub": [],
+              "main": "發言人電話"
             },
             {
-              "main": "主旨",
-              "sub": []
+              "sub": [],
+              "main": "主旨"
             },
             {
-              "main": "符合條款",
-              "sub": []
+              "sub": [],
+              "main": "符合條款"
             },
             {
-              "main": "事實發生日",
-              "sub": []
+              "sub": [],
+              "main": "事實發生日"
             },
             {
-              "main": "說明",
-              "sub": []
+              "sub": [],
+              "main": "說明"
             }
           ],
           "companyAbbreviation": "宏碁遊戲-創"
         },
-        "datetime": "115/09/17 08:07:17"
+        "datetime": "115/09/17 13:07:17"
       },
-      "fetched_at_tw": "2026-09-17 08:07:13"
+      "fetched_at_tw": "2026-09-17 13:07:15"
+    },
+    {
+      "key": "1150917|sii|6225|1",
+      "speech_date": "115/09/17",
+      "speech_time": "13:00:59",
+      "company_id": "6225",
+      "company_name": "天瀚",
+      "subject": "公告本公司115年現金增資收足股款暨增資基準日",
+      "matched_keywords": [
+        "現金增資"
+      ],
+      "detail_params": {
+        "companyId": "6225",
+        "marketKind": "sii",
+        "enterDate": "1150917",
+        "serialNumber": 1
+      },
+      "detail": {
+        "code": 200,
+        "message": "查詢成功",
+        "result": {
+          "marketName": "上市公司",
+          "companyId": "6225",
+          "data": [
+            [
+              1,
+              "115/09/17",
+              "13:00:59",
+              "鄭又晉",
+              "董事長",
+              "02-27771215",
+              "公告本公司115年現金增資收足股款暨增資基準日",
+              "51",
+              "115/09/17",
+              "1.事實發生日:115/09/17\n2.公司名稱:天瀚科技股份有限公司\n3.與公司關係(請輸入本公司或子公司):本公司\n4.相互持股比例:不適用\n5.發生緣由:\n本公司115年現金增資發行新股32,200,000股，每股發行價格新臺幣17.65元，實收股款\n總額新臺幣568,330,000元，業已全數收足，並訂定115年09月17日為增資基準日。\n6.因應措施:無\n7.其他應敘明事項(若事件發生或決議之主體係屬公開發行以上公司，本則重大訊息同時\n  符合證券交易法施行細則第7條第9款所定對股東權益或證券價格有重大影響之事項):\n預定股款繳納憑證上市日期為115年09月22日。"
+            ]
+          ],
+          "footer": [
+            "以上資料均由各公司依發言當時所屬市場別之規定申報後，由本系統對外公佈，資料如有虛偽不實，均由該公司負責。"
+          ],
+          "header": {
+            "note": [],
+            "subTitle": [],
+            "mainTitle": [
+              "公司當日重大訊息之詳細內容"
+            ]
+          },
+          "titles": [
+            {
+              "sub": [],
+              "main": "序號"
+            },
+            {
+              "sub": [],
+              "main": "發言日期"
+            },
+            {
+              "sub": [],
+              "main": "發言時間"
+            },
+            {
+              "sub": [],
+              "main": "發言人"
+            },
+            {
+              "sub": [],
+              "main": "發言人職稱"
+            },
+            {
+              "sub": [],
+              "main": "發言人電話"
+            },
+            {
+              "sub": [],
+              "main": "主旨"
+            },
+            {
+              "sub": [],
+              "main": "符合條款"
+            },
+            {
+              "sub": [],
+              "main": "事實發生日"
+            },
+            {
+              "sub": [],
+              "main": "說明"
+            }
+          ],
+          "companyAbbreviation": "天瀚"
+        },
+        "datetime": "115/09/17 13:07:18"
+      },
+      "fetched_at_tw": "2026-09-17 13:07:15"
     },
     {
       "key": "1150916|rotc|6750|4",
@@ -314,10 +408,10 @@
         "現金增資"
       ],
       "detail_params": {
+        "companyId": "6750",
         "marketKind": "rotc",
         "enterDate": "1150916",
-        "serialNumber": 4,
-        "companyId": "6750"
+        "serialNumber": 4
       },
       "detail": {
         "code": 200,
@@ -351,51 +445,51 @@
           },
           "titles": [
             {
-              "main": "序號",
-              "sub": []
+              "sub": [],
+              "main": "序號"
             },
             {
-              "main": "發言日期",
-              "sub": []
+              "sub": [],
+              "main": "發言日期"
             },
             {
-              "main": "發言時間",
-              "sub": []
+              "sub": [],
+              "main": "發言時間"
             },
             {
-              "main": "發言人",
-              "sub": []
+              "sub": [],
+              "main": "發言人"
             },
             {
-              "main": "發言人職稱",
-              "sub": []
+              "sub": [],
+              "main": "發言人職稱"
             },
             {
-              "main": "發言人電話",
-              "sub": []
+              "sub": [],
+              "main": "發言人電話"
             },
             {
-              "main": "主旨",
-              "sub": []
+              "sub": [],
+              "main": "主旨"
             },
             {
-              "main": "符合條款",
-              "sub": []
+              "sub": [],
+              "main": "符合條款"
             },
             {
-              "main": "事實發生日",
-              "sub": []
+              "sub": [],
+              "main": "事實發生日"
             },
             {
-              "main": "說明",
-              "sub": []
+              "sub": [],
+              "main": "說明"
             }
           ],
           "companyAbbreviation": "泰創工程"
         },
-        "datetime": "115/09/17 08:07:18"
+        "datetime": "115/09/17 13:07:18"
       },
-      "fetched_at_tw": "2026-09-17 08:07:13"
+      "fetched_at_tw": "2026-09-17 13:07:15"
     },
     {
       "key": "1150916|rotc|6750|5",
@@ -408,10 +502,10 @@
         "私募普通股"
       ],
       "detail_params": {
+        "companyId": "6750",
         "marketKind": "rotc",
         "enterDate": "1150916",
-        "serialNumber": 5,
-        "companyId": "6750"
+        "serialNumber": 5
       },
       "detail": {
         "code": 200,
@@ -445,51 +539,51 @@
           },
           "titles": [
             {
-              "main": "序號",
-              "sub": []
+              "sub": [],
+              "main": "序號"
             },
             {
-              "main": "發言日期",
-              "sub": []
+              "sub": [],
+              "main": "發言日期"
             },
             {
-              "main": "發言時間",
-              "sub": []
+              "sub": [],
+              "main": "發言時間"
             },
             {
-              "main": "發言人",
-              "sub": []
+              "sub": [],
+              "main": "發言人"
             },
             {
-              "main": "發言人職稱",
-              "sub": []
+              "sub": [],
+              "main": "發言人職稱"
             },
             {
-              "main": "發言人電話",
-              "sub": []
+              "sub": [],
+              "main": "發言人電話"
             },
             {
-              "main": "主旨",
-              "sub": []
+              "sub": [],
+              "main": "主旨"
             },
             {
-              "main": "符合條款",
-              "sub": []
+              "sub": [],
+              "main": "符合條款"
             },
             {
-              "main": "事實發生日",
-              "sub": []
+              "sub": [],
+              "main": "事實發生日"
             },
             {
-              "main": "說明",
-              "sub": []
+              "sub": [],
+              "main": "說明"
             }
           ],
           "companyAbbreviation": "泰創工程"
         },
-        "datetime": "115/09/17 08:07:19"
+        "datetime": "115/09/17 13:07:19"
       },
-      "fetched_at_tw": "2026-09-17 08:07:13"
+      "fetched_at_tw": "2026-09-17 13:07:15"
     },
     {
       "key": "1150916|pub|6623|3",
@@ -502,10 +596,10 @@
         "私募普通股"
       ],
       "detail_params": {
+        "companyId": "6623",
         "marketKind": "pub",
         "enterDate": "1150916",
-        "serialNumber": 3,
-        "companyId": "6623"
+        "serialNumber": 3
       },
       "detail": {
         "code": 200,
@@ -539,51 +633,51 @@
           },
           "titles": [
             {
-              "main": "序號",
-              "sub": []
+              "sub": [],
+              "main": "序號"
             },
             {
-              "main": "發言日期",
-              "sub": []
+              "sub": [],
+              "main": "發言日期"
             },
             {
-              "main": "發言時間",
-              "sub": []
+              "sub": [],
+              "main": "發言時間"
             },
             {
-              "main": "發言人",
-              "sub": []
+              "sub": [],
+              "main": "發言人"
             },
             {
-              "main": "發言人職稱",
-              "sub": []
+              "sub": [],
+              "main": "發言人職稱"
             },
             {
-              "main": "發言人電話",
-              "sub": []
+              "sub": [],
+              "main": "發言人電話"
             },
             {
-              "main": "主旨",
-              "sub": []
+              "sub": [],
+              "main": "主旨"
             },
             {
-              "main": "符合條款",
-              "sub": []
+              "sub": [],
+              "main": "符合條款"
             },
             {
-              "main": "事實發生日",
-              "sub": []
+              "sub": [],
+              "main": "事實發生日"
             },
             {
-              "main": "說明",
-              "sub": []
+              "sub": [],
+              "main": "說明"
             }
           ],
           "companyAbbreviation": "施吉生技"
         },
-        "datetime": "115/09/17 08:07:19"
+        "datetime": "115/09/17 13:07:19"
       },
-      "fetched_at_tw": "2026-09-17 08:07:13"
+      "fetched_at_tw": "2026-09-17 13:07:15"
     }
   ]
 }
