@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-09-19 07:28:25",
+    "run_at_tw": "2026-09-19 09:29:02",
     "query": {
       "year": "115",
       "month": "9",
@@ -32,9 +32,9 @@
         "機器設備"
       ],
       "detail_params": {
-        "enterDate": "1150918",
-        "marketKind": "sii",
         "companyId": "3711",
+        "marketKind": "sii",
+        "enterDate": "1150918",
         "serialNumber": 3
       },
       "detail": {
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "日月光投控"
         },
-        "datetime": "115/09/19 07:28:28"
+        "datetime": "115/09/19 09:29:03"
       },
-      "fetched_at_tw": "2026-09-19 07:28:25"
+      "fetched_at_tw": "2026-09-19 09:29:02"
     },
     {
       "key": "1150918|sii|3711|4",
@@ -126,9 +126,9 @@
         "機器設備"
       ],
       "detail_params": {
-        "enterDate": "1150918",
-        "marketKind": "sii",
         "companyId": "3711",
+        "marketKind": "sii",
+        "enterDate": "1150918",
         "serialNumber": 4
       },
       "detail": {
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "日月光投控"
         },
-        "datetime": "115/09/19 07:28:29"
+        "datetime": "115/09/19 09:29:05"
       },
-      "fetched_at_tw": "2026-09-19 07:28:25"
+      "fetched_at_tw": "2026-09-19 09:29:02"
     },
     {
       "key": "1150918|otc|6986|1",
@@ -220,9 +220,9 @@
         "庫藏股"
       ],
       "detail_params": {
-        "enterDate": "1150918",
-        "marketKind": "otc",
         "companyId": "6986",
+        "marketKind": "otc",
+        "enterDate": "1150918",
         "serialNumber": 1
       },
       "detail": {
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "和迅"
         },
-        "datetime": "115/09/19 07:28:30"
+        "datetime": "115/09/19 09:29:05"
       },
-      "fetched_at_tw": "2026-09-19 07:28:25"
+      "fetched_at_tw": "2026-09-19 09:29:02"
     },
     {
       "key": "1150918|pub|7952|2",
@@ -314,9 +314,9 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1150918",
-        "marketKind": "pub",
         "companyId": "7952",
+        "marketKind": "pub",
+        "enterDate": "1150918",
         "serialNumber": 2
       },
       "detail": {
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "頂祺"
         },
-        "datetime": "115/09/19 07:28:31"
+        "datetime": "115/09/19 09:29:06"
       },
-      "fetched_at_tw": "2026-09-19 07:28:25"
+      "fetched_at_tw": "2026-09-19 09:29:02"
     }
   ]
 }
