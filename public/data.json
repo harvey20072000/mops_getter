@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-10-03 04:54:40",
+    "run_at_tw": "2026-10-03 08:10:06",
     "query": {
       "year": "115",
       "month": "10",
@@ -32,10 +32,10 @@
         "私募普通股"
       ],
       "detail_params": {
-        "enterDate": "1151002",
-        "serialNumber": 3,
         "companyId": "6946",
-        "marketKind": "rotc"
+        "marketKind": "rotc",
+        "enterDate": "1151002",
+        "serialNumber": 3
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "三地能源"
         },
-        "datetime": "115/10/03 04:54:42"
+        "datetime": "115/10/03 08:10:08"
       },
-      "fetched_at_tw": "2026-10-03 04:54:40"
+      "fetched_at_tw": "2026-10-03 08:10:06"
     },
     {
       "key": "1151002|rotc|6898|5",
@@ -126,10 +126,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1151002",
-        "serialNumber": 5,
         "companyId": "6898",
-        "marketKind": "rotc"
+        "marketKind": "rotc",
+        "enterDate": "1151002",
+        "serialNumber": 5
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "程曦資訊"
         },
-        "datetime": "115/10/03 04:54:42"
+        "datetime": "115/10/03 08:10:09"
       },
-      "fetched_at_tw": "2026-10-03 04:54:40"
+      "fetched_at_tw": "2026-10-03 08:10:06"
     },
     {
       "key": "1151002|rotc|6940|4",
@@ -220,10 +220,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "enterDate": "1151002",
-        "serialNumber": 4,
         "companyId": "6940",
-        "marketKind": "rotc"
+        "marketKind": "rotc",
+        "enterDate": "1151002",
+        "serialNumber": 4
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "格斯科技*"
         },
-        "datetime": "115/10/03 04:54:43"
+        "datetime": "115/10/03 08:10:10"
       },
-      "fetched_at_tw": "2026-10-03 04:54:40"
+      "fetched_at_tw": "2026-10-03 08:10:06"
     }
   ]
 }
