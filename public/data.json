@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-10-10 05:08:49",
+    "run_at_tw": "2026-10-10 09:06:09",
     "query": {
       "year": "115",
       "month": "10",
@@ -32,18 +32,18 @@
         "自結合併"
       ],
       "detail_params": {
-        "marketKind": "sii",
         "companyId": "9105",
-        "serialNumber": 1,
-        "enterDate": "1151009"
+        "marketKind": "sii",
+        "enterDate": "1151009",
+        "serialNumber": 1
       },
       "detail": {
         "code": 406,
         "message": "查無相符資料",
         "result": null,
-        "datetime": "115/10/10 05:08:50"
+        "datetime": "115/10/10 09:06:10"
       },
-      "fetched_at_tw": "2026-10-10 05:08:49"
+      "fetched_at_tw": "2026-10-10 09:06:09"
     }
   ]
 }
