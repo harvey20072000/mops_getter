@@ -1,10 +1,10 @@
 {
   "meta": {
-    "run_at_tw": "2026-10-10 22:15:05",
+    "run_at_tw": "2026-10-11 02:46:14",
     "query": {
       "year": "115",
       "month": "10",
-      "day": "10"
+      "day": "11"
     },
     "keywords": [
       "買回公司股份",
@@ -17,33 +17,8 @@
       "公司債",
       "庫藏股"
     ],
-    "matched_count": 1,
+    "matched_count": 0,
     "new_matched_count": 0
   },
-  "items": [
-    {
-      "key": "1151009|sii|9105|1",
-      "speech_date": "115/10/09",
-      "speech_time": "18:00:11",
-      "company_id": "9105",
-      "company_name": "泰金寶-DR",
-      "subject": "泰金寶科技股份有限公司2026年09月自結合併營收公告",
-      "matched_keywords": [
-        "自結合併"
-      ],
-      "detail_params": {
-        "companyId": "9105",
-        "marketKind": "sii",
-        "enterDate": "1151009",
-        "serialNumber": 1
-      },
-      "detail": {
-        "code": 406,
-        "message": "查無相符資料",
-        "result": null,
-        "datetime": "115/10/10 22:15:08"
-      },
-      "fetched_at_tw": "2026-10-10 22:15:05"
-    }
-  ]
+  "items": []
 }
