@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-10-24 14:13:59",
+    "run_at_tw": "2026-10-24 19:24:48",
     "query": {
       "year": "115",
       "month": "10",
@@ -32,10 +32,10 @@
         "機器設備"
       ],
       "detail_params": {
-        "companyId": "4958",
         "marketKind": "sii",
-        "enterDate": "1151023",
-        "serialNumber": 1
+        "companyId": "4958",
+        "serialNumber": 1,
+        "enterDate": "1151023"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "臻鼎-KY"
         },
-        "datetime": "115/10/24 14:14:01"
+        "datetime": "115/10/24 19:24:50"
       },
-      "fetched_at_tw": "2026-10-24 14:13:59"
+      "fetched_at_tw": "2026-10-24 19:24:48"
     },
     {
       "key": "1151023|sii|6908|1",
@@ -126,10 +126,10 @@
         "庫藏股"
       ],
       "detail_params": {
-        "companyId": "6908",
         "marketKind": "sii",
-        "enterDate": "1151023",
-        "serialNumber": 1
+        "companyId": "6908",
+        "serialNumber": 1,
+        "enterDate": "1151023"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "宏碁遊戲-創"
         },
-        "datetime": "115/10/24 14:14:02"
+        "datetime": "115/10/24 19:24:50"
       },
-      "fetched_at_tw": "2026-10-24 14:13:59"
+      "fetched_at_tw": "2026-10-24 19:24:48"
     },
     {
       "key": "1151023|otc|8044|2",
@@ -220,10 +220,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "8044",
         "marketKind": "otc",
-        "enterDate": "1151023",
-        "serialNumber": 2
+        "companyId": "8044",
+        "serialNumber": 2,
+        "enterDate": "1151023"
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "網家"
         },
-        "datetime": "115/10/24 14:14:03"
+        "datetime": "115/10/24 19:24:51"
       },
-      "fetched_at_tw": "2026-10-24 14:13:59"
+      "fetched_at_tw": "2026-10-24 19:24:48"
     },
     {
       "key": "1151023|rotc|7867|1",
@@ -314,10 +314,10 @@
         "現金增資"
       ],
       "detail_params": {
-        "companyId": "7867",
         "marketKind": "rotc",
-        "enterDate": "1151023",
-        "serialNumber": 1
+        "companyId": "7867",
+        "serialNumber": 1,
+        "enterDate": "1151023"
       },
       "detail": {
         "code": 200,
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "特力屋"
         },
-        "datetime": "115/10/24 14:14:04"
+        "datetime": "115/10/24 19:24:52"
       },
-      "fetched_at_tw": "2026-10-24 14:13:59"
+      "fetched_at_tw": "2026-10-24 19:24:48"
     }
   ]
 }
