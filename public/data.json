@@ -1,6 +1,6 @@
 {
   "meta": {
-    "run_at_tw": "2026-11-17 01:15:33",
+    "run_at_tw": "2026-11-17 08:56:45",
     "query": {
       "year": "115",
       "month": "11",
@@ -18,7 +18,7 @@
       "庫藏股"
     ],
     "matched_count": 10,
-    "new_matched_count": 10
+    "new_matched_count": 0
   },
   "items": [
     {
@@ -32,10 +32,10 @@
         "機器設備"
       ],
       "detail_params": {
+        "enterDate": "1151116",
         "serialNumber": 2,
         "companyId": "3189",
-        "marketKind": "sii",
-        "enterDate": "1151116"
+        "marketKind": "sii"
       },
       "detail": {
         "code": 200,
@@ -111,9 +111,9 @@
           ],
           "companyAbbreviation": "景碩"
         },
-        "datetime": "115/11/17 01:15:36"
+        "datetime": "115/11/17 08:56:47"
       },
-      "fetched_at_tw": "2026-11-17 01:15:33"
+      "fetched_at_tw": "2026-11-17 08:56:45"
     },
     {
       "key": "1151116|sii|7711|1",
@@ -126,10 +126,10 @@
         "公司債"
       ],
       "detail_params": {
+        "enterDate": "1151116",
         "serialNumber": 1,
         "companyId": "7711",
-        "marketKind": "sii",
-        "enterDate": "1151116"
+        "marketKind": "sii"
       },
       "detail": {
         "code": 200,
@@ -205,9 +205,9 @@
           ],
           "companyAbbreviation": "永擎"
         },
-        "datetime": "115/11/17 01:15:37"
+        "datetime": "115/11/17 08:56:48"
       },
-      "fetched_at_tw": "2026-11-17 01:15:33"
+      "fetched_at_tw": "2026-11-17 08:56:45"
     },
     {
       "key": "1151116|otc|8299|2",
@@ -220,10 +220,10 @@
         "庫藏股"
       ],
       "detail_params": {
+        "enterDate": "1151116",
         "serialNumber": 2,
         "companyId": "8299",
-        "marketKind": "otc",
-        "enterDate": "1151116"
+        "marketKind": "otc"
       },
       "detail": {
         "code": 200,
@@ -299,9 +299,9 @@
           ],
           "companyAbbreviation": "群聯"
         },
-        "datetime": "115/11/17 01:15:38"
+        "datetime": "115/11/17 08:56:49"
       },
-      "fetched_at_tw": "2026-11-17 01:15:33"
+      "fetched_at_tw": "2026-11-17 08:56:45"
     },
     {
       "key": "1151116|otc|4804|1",
@@ -314,10 +314,10 @@
         "公司債"
       ],
       "detail_params": {
+        "enterDate": "1151116",
         "serialNumber": 1,
         "companyId": "4804",
-        "marketKind": "otc",
-        "enterDate": "1151116"
+        "marketKind": "otc"
       },
       "detail": {
         "code": 200,
@@ -393,9 +393,9 @@
           ],
           "companyAbbreviation": "大略-KY"
         },
-        "datetime": "115/11/17 01:15:39"
+        "datetime": "115/11/17 08:56:50"
       },
-      "fetched_at_tw": "2026-11-17 01:15:33"
+      "fetched_at_tw": "2026-11-17 08:56:45"
     },
     {
       "key": "1151116|otc|8038|3",
@@ -408,10 +408,10 @@
         "現金增資"
       ],
       "detail_params": {
+        "enterDate": "1151116",
         "serialNumber": 3,
         "companyId": "8038",
-        "marketKind": "otc",
-        "enterDate": "1151116"
+        "marketKind": "otc"
       },
       "detail": {
         "code": 200,
@@ -487,9 +487,9 @@
           ],
           "companyAbbreviation": "長園科"
         },
-        "datetime": "115/11/17 01:15:40"
+        "datetime": "115/11/17 08:56:51"
       },
-      "fetched_at_tw": "2026-11-17 01:15:33"
+      "fetched_at_tw": "2026-11-17 08:56:45"
     },
     {
       "key": "1151116|otc|6111|3",
@@ -502,10 +502,10 @@
         "公司債"
       ],
       "detail_params": {
+        "enterDate": "1151116",
         "serialNumber": 3,
         "companyId": "6111",
-        "marketKind": "otc",
-        "enterDate": "1151116"
+        "marketKind": "otc"
       },
       "detail": {
         "code": 200,
@@ -581,9 +581,9 @@
           ],
           "companyAbbreviation": "光聚晶電"
         },
-        "datetime": "115/11/17 01:15:41"
+        "datetime": "115/11/17 08:56:52"
       },
-      "fetched_at_tw": "2026-11-17 01:15:33"
+      "fetched_at_tw": "2026-11-17 08:56:45"
     },
     {
       "key": "1151116|otc|3131|1",
@@ -596,10 +596,10 @@
         "庫藏股"
       ],
       "detail_params": {
+        "enterDate": "1151116",
         "serialNumber": 1,
         "companyId": "3131",
-        "marketKind": "otc",
-        "enterDate": "1151116"
+        "marketKind": "otc"
       },
       "detail": {
         "code": 200,
@@ -675,9 +675,9 @@
           ],
           "companyAbbreviation": "弘塑"
         },
-        "datetime": "115/11/17 01:15:42"
+        "datetime": "115/11/17 08:56:55"
       },
-      "fetched_at_tw": "2026-11-17 01:15:33"
+      "fetched_at_tw": "2026-11-17 08:56:45"
     },
     {
       "key": "1151116|rotc|7877|1",
@@ -690,10 +690,10 @@
         "現金增資"
       ],
       "detail_params": {
+        "enterDate": "1151116",
         "serialNumber": 1,
         "companyId": "7877",
-        "marketKind": "rotc",
-        "enterDate": "1151116"
+        "marketKind": "rotc"
       },
       "detail": {
         "code": 200,
@@ -769,9 +769,9 @@
           ],
           "companyAbbreviation": "海利普"
         },
-        "datetime": "115/11/17 01:15:43"
+        "datetime": "115/11/17 08:56:56"
       },
-      "fetched_at_tw": "2026-11-17 01:15:33"
+      "fetched_at_tw": "2026-11-17 08:56:45"
     },
     {
       "key": "1151116|rotc|7776|1",
@@ -784,10 +784,10 @@
         "現金增資"
       ],
       "detail_params": {
+        "enterDate": "1151116",
         "serialNumber": 1,
         "companyId": "7776",
-        "marketKind": "rotc",
-        "enterDate": "1151116"
+        "marketKind": "rotc"
       },
       "detail": {
         "code": 200,
@@ -863,9 +863,9 @@
           ],
           "companyAbbreviation": "奧孟亞"
         },
-        "datetime": "115/11/17 01:15:44"
+        "datetime": "115/11/17 08:56:57"
       },
-      "fetched_at_tw": "2026-11-17 01:15:33"
+      "fetched_at_tw": "2026-11-17 08:56:45"
     },
     {
       "key": "1151116|rotc|6549|1",
@@ -878,10 +878,10 @@
         "現金增資"
       ],
       "detail_params": {
+        "enterDate": "1151116",
         "serialNumber": 1,
         "companyId": "6549",
-        "marketKind": "rotc",
-        "enterDate": "1151116"
+        "marketKind": "rotc"
       },
       "detail": {
         "code": 200,
@@ -957,9 +957,9 @@
           ],
           "companyAbbreviation": "景凱"
         },
-        "datetime": "115/11/17 01:15:44"
+        "datetime": "115/11/17 08:56:59"
       },
-      "fetched_at_tw": "2026-11-17 01:15:33"
+      "fetched_at_tw": "2026-11-17 08:56:45"
     }
   ]
 }
